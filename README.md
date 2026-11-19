@@ -4,19 +4,19 @@
 
 ## 界面截图
 
-![网络与代理设置](src/ProductHub-1.9.2/screenshots/sources-1.9.1/01-设置-网络与代理.png)
+![网络与代理设置](screenshots/sources-1.9.1/01-设置-网络与代理.png)
 
 *网络与代理设置 / Network and proxy settings*
 
-![来源列表](src/ProductHub-1.9.2/screenshots/sources-1.9.1/03-来源列表-方式与失败原因.png)
+![来源列表](screenshots/sources-1.9.1/03-来源列表-方式与失败原因.png)
 
 *来源列表 / Source list*
 
-![来源设置（Product Hunt）](src/ProductHub-1.9.2/screenshots/sources-1.9.1/04-来源设置-ProductHunt-浏览器规则.png)
+![来源设置（Product Hunt）](screenshots/sources-1.9.1/04-来源设置-ProductHunt-浏览器规则.png)
 
 *来源设置（Product Hunt） / Source settings (Product Hunt)*
 
-![单源测试（Hacker News）](src/ProductHub-1.9.2/screenshots/sources-1.9.1/06-单源测试结果-HackerNews.png)
+![单源测试（Hacker News）](screenshots/sources-1.9.1/06-单源测试结果-HackerNews.png)
 
 *单源测试（Hacker News） / Single-source test (Hacker News)*
 
@@ -29,21 +29,19 @@
 
 ## 技术栈
 
-- TypeScript 桌面应用（见 `src/ProductHub-1.9.2/package.json`）
+- TypeScript 桌面应用（见 `package.json`）
 
 ## 从源码运行
 
-源码在 `src/ProductHub-1.9.2/`。本仓库不包含安装包。
+源码在仓库根目录。本仓库不包含安装包。
 
 ```bash
-cd src/ProductHub-1.9.2
 npm install
 # 按该目录 README 启动开发或桌面端
 ```
-
 ## 文档
 
-- [源码 README](src/ProductHub-1.9.2/README.md)
+- [源码 README](README.original.md)
 
 ---
 
@@ -55,19 +53,19 @@ npm install
 
 ## Screenshots
 
-![Network and proxy settings](src/ProductHub-1.9.2/screenshots/sources-1.9.1/01-设置-网络与代理.png)
+![Network and proxy settings](screenshots/sources-1.9.1/01-设置-网络与代理.png)
 
 *网络与代理设置 / Network and proxy settings*
 
-![Source list](src/ProductHub-1.9.2/screenshots/sources-1.9.1/03-来源列表-方式与失败原因.png)
+![Source list](screenshots/sources-1.9.1/03-来源列表-方式与失败原因.png)
 
 *来源列表 / Source list*
 
-![Source settings (Product Hunt)](src/ProductHub-1.9.2/screenshots/sources-1.9.1/04-来源设置-ProductHunt-浏览器规则.png)
+![Source settings (Product Hunt)](screenshots/sources-1.9.1/04-来源设置-ProductHunt-浏览器规则.png)
 
 *来源设置（Product Hunt） / Source settings (Product Hunt)*
 
-![Single-source test (Hacker News)](src/ProductHub-1.9.2/screenshots/sources-1.9.1/06-单源测试结果-HackerNews.png)
+![Single-source test (Hacker News)](screenshots/sources-1.9.1/06-单源测试结果-HackerNews.png)
 
 *单源测试（Hacker News） / Single-source test (Hacker News)*
 
@@ -80,19 +78,17 @@ npm install
 
 ## Tech stack
 
-- TypeScript 桌面应用（见 `src/ProductHub-1.9.2/package.json`）
+- TypeScript 桌面应用（见 `package.json`）
 
 ## Getting started
 
-Source is under `src/ProductHub-1.9.2/`. This repository does not include installers.
+Source is at the repository root. This repository does not include installers.
 
 ```bash
-cd src/ProductHub-1.9.2
 npm install
 # Start dev or desktop mode as that README describes
 ```
-
 ## Documentation
 
-- [源码 README](src/ProductHub-1.9.2/README.md)
+- [源码 README](README.original.md)
 
