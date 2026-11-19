@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%; --foreground: 240 10% 3.9%; --card: 0 0% 100%; --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%; --popover-foreground: 240 10% 3.9%; --primary: 240 5.9% 10%; --primary-foreground: 0 0% 98%;
+    --secondary: 240 4.8% 95.9%; --secondary-foreground: 240 5.9% 10%; --muted: 240 4.8% 95.9%; --muted-foreground: 240 3.8% 42%;
+    --accent: 240 4.8% 95.9%; --accent-foreground: 240 5.9% 10%; --destructive: 0 72% 51%; --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%; --input: 240 5.9% 90%; --ring: 240 5% 50%; --radius: 0.5rem;
+    --brand: 234 81% 60%; --brand-foreground: 0 0% 100%; --brand-soft: 234 90% 96%;
+    --sidebar: 240 4.8% 97.6%; --sidebar-foreground: 240 5.3% 26.1%; --sidebar-accent: 240 4.8% 92%; --sidebar-accent-foreground: 240 5.9% 10%; --sidebar-border: 240 5.9% 90%;
+    --success: 152 69% 32%; --warning: 32 95% 40%;
+  }
+  .dark {
+    --background: 240 6% 7%; --foreground: 0 0% 96%; --card: 240 6% 9%; --card-foreground: 0 0% 96%;
+    --popover: 240 6% 10%; --popover-foreground: 0 0% 96%; --primary: 0 0% 96%; --primary-foreground: 240 5.9% 10%;
+    --secondary: 240 3.7% 15.9%; --secondary-foreground: 0 0% 98%; --muted: 240 3.7% 15.9%; --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%; --accent-foreground: 0 0% 98%; --destructive: 0 75% 64%; --destructive-foreground: 0 0% 8%;
+    --border: 240 3.7% 17%; --input: 240 3.7% 19%; --ring: 240 5% 60%;
+    --brand: 234 90% 74%; --brand-foreground: 234 45% 12%; --brand-soft: 234 35% 16%;
+    --sidebar: 240 6% 9.5%; --sidebar-foreground: 240 4.8% 80%; --sidebar-accent: 240 3.7% 15.9%; --sidebar-accent-foreground: 0 0% 98%; --sidebar-border: 240 3.7% 15.9%;
+    --success: 152 60% 45%; --warning: 38 92% 55%;
+  }
+  * { @apply border-border; }
+  /* 全局键盘焦点兜底：未自定义 ring 的可交互元素也有清晰焦点（对比度 ≥3:1） */
+  :where(a, button, [role=button], [role=tab], [role=menuitem], [tabindex]):focus-visible { outline: 2px solid hsl(var(--ring)); outline-offset: 1px; border-radius: 4px; }
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; } }
+  html, body, #root { height: 100%; }
+  body { @apply bg-background text-foreground antialiased; font-size: 13px; line-height: 20px; font-feature-settings: "cv11", "ss01", "tnum"; overflow: hidden; -webkit-font-smoothing: antialiased; }
+  ::selection { background: hsl(var(--brand) / .25); }
+  ::-webkit-scrollbar { width: 10px; height: 10px; } ::-webkit-scrollbar-thumb { background: hsl(var(--muted-foreground) / .25); border-radius: 10px; border: 3px solid transparent; background-clip: content-box; }
+  ::-webkit-scrollbar-thumb:hover { background-color: hsl(var(--muted-foreground) / .45); } ::-webkit-scrollbar-track { background: transparent; }
+}
+.drag { -webkit-app-region: drag; } .no-drag { -webkit-app-region: no-drag; }
+.radar .ring { fill: none; stroke: hsl(var(--border)); } .radar .area { fill: hsl(var(--brand) / .2); stroke: hsl(var(--brand)); stroke-width: 1.5; } .radar text { font-size: 11px; fill: hsl(var(--muted-foreground)); }

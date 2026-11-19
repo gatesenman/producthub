@@ -1,0 +1,7 @@
+node_modules/
+dist-ui/
+dist-electron/
+dist-server/
+release/
+test-results/
+data/runtime/

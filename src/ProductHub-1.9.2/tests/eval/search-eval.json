@@ -1,0 +1,395 @@
+{
+ "_说明": "搜索质量评测集：expected 为期望出现在前 10 的产品名（不区分大小写，前缀匹配）。type: exact 精确名 / typo 拼写错误 / cross 中英跨语言 / pinyin 拼音 / nl 自然语言需求 / syn 同义词",
+ "queries": [
+  {
+   "q": "Notion",
+   "type": "exact",
+   "expected": [
+    "Notion"
+   ]
+  },
+  {
+   "q": "Midjourney",
+   "type": "exact",
+   "expected": [
+    "Midjourney"
+   ]
+  },
+  {
+   "q": "Supercut",
+   "type": "exact",
+   "expected": [
+    "Supercut"
+   ]
+  },
+  {
+   "q": "Squarespace",
+   "type": "exact",
+   "expected": [
+    "Squarespace"
+   ]
+  },
+  {
+   "q": "Pipedrive",
+   "type": "exact",
+   "expected": [
+    "Pipedrive"
+   ]
+  },
+  {
+   "q": "ChatPDF",
+   "type": "exact",
+   "expected": [
+    "ChatPDF"
+   ]
+  },
+  {
+   "q": "notoin",
+   "type": "typo",
+   "expected": [
+    "Notion"
+   ]
+  },
+  {
+   "q": "midjouney",
+   "type": "typo",
+   "expected": [
+    "Midjourney"
+   ]
+  },
+  {
+   "q": "pipedrve",
+   "type": "typo",
+   "expected": [
+    "Pipedrive"
+   ]
+  },
+  {
+   "q": "evernot",
+   "type": "typo",
+   "expected": [
+    "Evernote"
+   ]
+  },
+  {
+   "q": "squarespac",
+   "type": "typo",
+   "expected": [
+    "Squarespace"
+   ]
+  },
+  {
+   "q": "1pasword",
+   "type": "typo",
+   "expected": [
+    "1Password"
+   ]
+  },
+  {
+   "q": "笔记",
+   "type": "cross",
+   "expected": [
+    "Evernote",
+    "Google Keep",
+    "Silverbullet",
+    "Note-Taking Apps",
+    "VNote"
+   ]
+  },
+  {
+   "q": "录屏",
+   "type": "cross",
+   "expected": [
+    "Screen Movie",
+    "Supercut",
+    "Shotbase",
+    "CleanShot"
+   ]
+  },
+  {
+   "q": "视频剪辑",
+   "type": "cross",
+   "expected": [
+    "OpenCut",
+    "Adobe Premiere Pro",
+    "Butter Video",
+    "Dropclips.io",
+    "FrameTrellis"
+   ]
+  },
+  {
+   "q": "密码管理",
+   "type": "cross",
+   "expected": [
+    "1Password"
+   ]
+  },
+  {
+   "q": "简历",
+   "type": "cross",
+   "expected": [
+    "Resumarc",
+    "Resume AI",
+    "Carefully Applied"
+   ]
+  },
+  {
+   "q": "会议纪要",
+   "type": "cross",
+   "expected": [
+    "Fellow",
+    "Fireflies",
+    "Notion AI",
+    "6GranolaProductivity"
+   ]
+  },
+  {
+   "q": "数据库管理",
+   "type": "cross",
+   "expected": [
+    "DBine"
+   ]
+  },
+  {
+   "q": "网站分析",
+   "type": "cross",
+   "expected": [
+    "Pulse Analytics",
+    "StatJolt"
+   ]
+  },
+  {
+   "q": "建站工具",
+   "type": "cross",
+   "expected": [
+    "Squarespace",
+    "Vibe Otter"
+   ]
+  },
+  {
+   "q": "客户关系管理",
+   "type": "cross",
+   "expected": [
+    "HubSpot CRM",
+    "Pipedrive",
+    "NetHunt CRM",
+    "Close"
+   ]
+  },
+  {
+   "q": "转写",
+   "type": "cross",
+   "expected": [
+    "Inwista",
+    "Scribiz",
+    "speech-to-text.co",
+    "ShortTranscript"
+   ]
+  },
+  {
+   "q": "AI 绘画",
+   "type": "cross",
+   "expected": [
+    "Midjourney",
+    "Gazouya",
+    "MeiGen AI",
+    "AI Image"
+   ]
+  },
+  {
+   "q": "日历",
+   "type": "cross",
+   "expected": [
+    "Google Calendar",
+    "Calendar Apps",
+    "Hora Calendar"
+   ]
+  },
+  {
+   "q": "meeting notes",
+   "type": "syn",
+   "expected": [
+    "Fellow",
+    "Notion AI",
+    "6GranolaProductivity",
+    "SoftSync"
+   ]
+  },
+  {
+   "q": "screen recording mac",
+   "type": "syn",
+   "expected": [
+    "Screen Movie",
+    "CleanShot",
+    "Shotbase"
+   ]
+  },
+  {
+   "q": "pdf editor",
+   "type": "syn",
+   "expected": [
+    "ilovePDF2",
+    "Adobe Acrobat",
+    "Foxit"
+   ]
+  },
+  {
+   "q": "temp email",
+   "type": "syn",
+   "expected": [
+    "Temp mail by boomlify"
+   ]
+  },
+  {
+   "q": "e-signature",
+   "type": "syn",
+   "expected": [
+    "SignBolt"
+   ]
+  },
+  {
+   "q": "doubao",
+   "type": "pinyin",
+   "expected": [
+    "豆包AI",
+    "豆包输入法"
+   ]
+  },
+  {
+   "q": "mita",
+   "type": "pinyin",
+   "expected": [
+    "秘塔AI搜索"
+   ]
+  },
+  {
+   "q": "jimeng",
+   "type": "pinyin",
+   "expected": [
+    "即梦AI"
+   ]
+  },
+  {
+   "q": "xunfei",
+   "type": "pinyin",
+   "expected": [
+    "讯飞绘文"
+   ]
+  },
+  {
+   "q": "qiewen",
+   "type": "pinyin",
+   "expected": [
+    "切问学术"
+   ]
+  },
+  {
+   "q": "帮团队做会议纪要的AI工具，支持中文",
+   "type": "nl",
+   "expected": [
+    "Fellow",
+    "Fireflies",
+    "Notion AI",
+    "6GranolaProductivity"
+   ]
+  },
+  {
+   "q": "有没有免费的在线简历生成工具",
+   "type": "nl",
+   "expected": [
+    "Resumarc",
+    "Resume AI",
+    "在线简历生成器"
+   ]
+  },
+  {
+   "q": "我想找一个开源的视频剪辑软件",
+   "type": "nl",
+   "expected": [
+    "OpenCut",
+    "FrameTrellis"
+   ]
+  },
+  {
+   "q": "类似Notion的笔记应用",
+   "type": "nl",
+   "expected": [
+    "Silverbullet",
+    "Evernote",
+    "Notion AI",
+    "Google Keep"
+   ]
+  },
+  {
+   "q": "给漫画做翻译的AI",
+   "type": "nl",
+   "expected": [
+    "AI Manga Translator",
+    "manga translator",
+    "Manga Translator 1"
+   ]
+  },
+  {
+   "q": "能把YouTube视频转成文字稿的工具",
+   "type": "nl",
+   "expected": [
+    "ytskim",
+    "Scribiz",
+    "Transcript Generator"
+   ]
+  },
+  {
+   "q": "帮销售团队管理客户的软件",
+   "type": "nl",
+   "expected": [
+    "HubSpot CRM",
+    "Pipedrive",
+    "NetHunt CRM",
+    "Close"
+   ]
+  },
+  {
+   "q": "隐私友好的网站流量统计，替代Google Analytics",
+   "type": "nl",
+   "expected": [
+    "StatJolt",
+    "Pulse Analytics"
+   ]
+  },
+  {
+   "q": "做SEO关键词和排名监控的工具",
+   "type": "nl",
+   "expected": [
+    "Ground-Truth SEO Scanner",
+    "SEO Logbook",
+    "Seotrends",
+    "AutomatedSEO",
+    "RankAI",
+    "RankRealizer",
+    "SEO Automator",
+    "Opinly",
+    "KWT Spider",
+    "PAYGSEO",
+    "Creeper SEO Audit",
+    "AI SEO Visibility Tool",
+    "Rankion.ai"
+   ]
+  },
+  {
+   "q": "开源的AI编程助手",
+   "type": "nl",
+   "expected": [
+    "Cline open-source AI coding agent",
+    "AstraCode"
+   ]
+  },
+  {
+   "q": "mac上的截图工具",
+   "type": "nl",
+   "expected": [
+    "CleanShot",
+    "Shotbase"
+   ]
+  }
+ ]
+}

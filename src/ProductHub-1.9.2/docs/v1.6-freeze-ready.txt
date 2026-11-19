@@ -1,0 +1,8 @@
+ProductHub v1.6 freeze-ready
+time: 2026-10-16T08:28:20.904442
+products: 496413
+versions: 611388
+product_hunt: 330369
+db: data/crawl/producthub.db
+crawl: idle (no installer built)
+v1.5 baseline: 106085 products / 146652 versions

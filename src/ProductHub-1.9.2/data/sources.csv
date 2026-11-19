@@ -1,0 +1,242 @@
+﻿序号,名称,网址,类别,地区/语言,简介,提交方式（免费/付费）,流量/知名度（注明来源）,核验状态
+1,Product Hunt,https://www.producthunt.com/,产品发布平台,全球/英文,全球最知名的新产品每日发布与投票平台，发布日排名影响曝光,免费（可预约发布日）,Ahrefs DR 91（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+2,BetaList,https://betalist.com/,产品发布平台,全球/英文,专注预发布/早期创业产品，吸引早期尝鲜用户,付费，最低付费 39 USD（一次性）,Ahrefs DR 74（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-02 记录状态：live
+3,Peerlist Launchpad,https://peerlist.io/launchpad,产品发布平台,全球/英文,Peerlist 职业社区的每周产品发布榜,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD,Ahrefs DR 75（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-06 记录状态：live
+4,DevHunt,https://devhunt.org/,产品发布平台,全球/英文,面向开发者工具的开源版 Product Hunt，按周发布,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD（一次性）,Ahrefs DR 59（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+5,Microlaunch,https://microlaunch.net/,产品发布平台,全球/英文,面向微型 SaaS/独立产品的月度发布平台,付费，最低付费 49 USD,Ahrefs DR 58（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+6,Uneed,https://www.uneed.best/,产品发布平台,全球/英文,每日产品发布与工具目录，独立开发者常用,免费（附条件/排队）；有付费加速或增值，最低付费 14.99 USD,Ahrefs DR 73（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-03 记录状态：live
+7,Fazier,https://fazier.com/,产品发布平台,全球/英文,面向独立开发者的产品发布平台，每日/每周榜单,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD,Ahrefs DR 80（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+8,Launching Next,https://www.launchingnext.com/,产品发布平台,全球/英文,老牌创业产品展示站，每日推荐新项目,免费（附条件/排队）；有付费加速或增值，最低付费 99 USD,Ahrefs DR 50（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+9,StartupBase,https://startupbase.io/,产品发布平台,全球/英文,创业产品发布与讨论社区,免费（附条件/排队）；有付费加速或增值，最低付费 15 USD,Ahrefs DR 39（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-03 记录状态：live
+10,TinyLaunch,https://www.tinylaunch.com/,产品发布平台,全球/英文,小型产品的每周发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 15 USD/周,Ahrefs DR 71（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+11,Open Launch,https://open-launch.com/,产品发布平台,全球/英文,开源的 Product Hunt 替代品，每日发布,免费（附条件/排队）；有付费加速或增值，最低付费 12 USD（一次性）,Ahrefs DR 60（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-02 记录状态：live
+12,PeerPush,https://peerpush.com/,产品发布平台,全球/英文,产品发现与发布平台，强调面向 AI 搜索的结构化数据,免费（附条件/排队）；有付费加速或增值，最低付费 5 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-02 记录状态：live
+13,Launch Vault,https://www.launchvault.dev/,产品发布平台,全球/英文,面向初创产品的发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 9.99 USD（一次性）,Ahrefs DR 45（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+14,Next Big Product,https://nextbigproduct.com/,产品发布平台,全球/英文,新产品发布与目录站,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+15,NextGen Tools,https://www.nxgntools.com/,产品发布平台,全球/英文,新工具发布与目录平台,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD（一次性）,Ahrefs DR 56（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+16,Firsto,https://firsto.co/,产品发布平台,全球/英文,每周产品发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 19.9 USD（一次性）,Ahrefs DR 57（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+17,SaaSCity,https://saascity.io/,产品发布平台,全球/英文,游戏化（城市地图）形式的 SaaS 发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 19.99 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+18,Smol Launch,https://smollaunch.com/,产品发布平台,全球/英文,小型独立产品发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+19,Super Launch,https://www.superlaun.ch/,产品发布平台,全球/英文,产品发布平台兼目录,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD（一次性）,Ahrefs DR 57（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+20,ShipBoost,https://shipboost.io/,产品发布平台,全球/英文,产品发布与曝光平台,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+21,Pitchwall,https://pitchwall.co/,产品发布平台,全球/英文,创业产品发布与展示平台,免费（附条件/排队）；有付费加速或增值，最低付费 49 USD,Ahrefs DR 59（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-02 记录状态：live
+22,Kick Product,https://www.kickproduct.com/,产品发布平台,全球/英文,新产品发布与发现社区,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+23,Startup Ranked,https://startupranked.com/,产品发布平台,全球/英文,创业产品发布与排名,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+24,IndieHunt,https://indiehunt.io/,产品发布平台,全球/英文,独立开发者产品发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD（一次性）,,已验证：可访问（HTTP 200，页面为前端渲染）；SubmitMyStartup 2026-10-04 记录状态：live
+25,WhatLaunched.Today,https://whatlaunched.today/,产品发布平台,全球/英文,每日新产品发布榜,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+26,Today Launches,https://todaylaunches.com/,产品发布平台,全球/英文,每日产品发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 35 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-06 记录状态：live
+27,Launch List,https://www.launch-list.org/,产品发布平台,全球/英文,产品发布清单与平台,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+28,LaunchIgniter,https://launchigniter.com/,产品发布平台,全球/英文,产品发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 12 USD（一次性）,Ahrefs DR 74（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+29,Product Watch,https://productwatch.io/,产品发布平台,全球/英文,产品发布与发现平台,免费（附条件/排队）；有付费加速或增值，最低付费 20 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+30,ProductBurst,https://productburst.com/,产品发布平台,全球/英文,产品发布与推广平台,免费（附条件/排队）；有付费加速或增值，最低付费 2.99 USD/天,Ahrefs DR 44（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+31,Stellar Launch,https://www.stellarlaunch.org/,产品发布平台,全球/英文,产品发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 6.49 USD（一次性）,Ahrefs DR 28（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+32,Better Launch,https://www.betterlaunch.co/,产品发布平台,全球/英文,产品发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 9 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+33,Foundrlist,https://www.foundrlist.com/,产品发布平台,全球/英文,创始人产品发布与列表,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD（一次性）,Ahrefs DR 51（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+34,EarlyHunt,https://earlyhunt.com/,产品发布平台,全球/英文,早期产品发现与发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+35,Nick Launches,https://nicklaunches.com/,产品发布平台,全球/英文,独立开发者运营的产品发布站,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+36,SideHunt,https://sidehunt.io/,产品发布平台,全球/英文,副业项目发布平台,付费，最低付费 19 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+37,Launch AI (trylaunch.ai),https://trylaunch.ai/,产品发布平台,全球/英文,面向 AI 产品的发布平台,免费（附条件/排队）；有付费加速或增值，最低付费 39 USD,Ahrefs DR 45（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+38,Aura++,https://auraplusplus.com/,产品发布平台,全球/英文,产品发布与展示社区,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD（一次性）,Ahrefs DR 62（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+39,BuiltByIndies,https://builtbyindies.com/,产品发布平台,全球/英文,独立开发者作品展示与发布,免费（附条件/排队）；有付费加速或增值，最低付费 9 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+40,Crowdstax,https://crowdstax.com/,产品发布平台,全球/英文,创业产品发布平台，附带替代品页面,免费；有付费 Pro,,已验证：可访问（2026-10-10 HTTP 200）
+41,Website Hunt,https://www.websitehunt.co/,产品发布平台,全球/英文,网站与工具发现平台,免费（附条件/排队）；有付费加速或增值，最低付费 9 EUR（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+42,VibeHacker,https://vibehacker.com/,产品发布平台,全球/英文,Vibe coding 产品发布平台,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+43,Disquiet,https://disquiet.io/,产品发布平台,韩国/韩文,韩国版 Product Hunt，创作者产品发布与社区,免费,,已验证：可访问（2026-10-10 HTTP 200）
+44,LaunchPad India,https://launchpadindia.co/,产品发布平台,印度/英文,面向印度创业产品的发布平台,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+45,新趣集 (Xinquji),https://xinquji.com/,产品发布平台,中国/中文,中文版'Product Hunt'，每日发现新产品,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-06 记录状态：live
+46,Mergeek 产品发现,https://mergeek.com/,产品发布平台,中国/中文,中文产品发现与独立开发者社区,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+47,AlternativeTo,https://alternativeto.net/,替代软件/工具目录,全球/英文,众包式软件替代品推荐目录,免费（附条件/排队）；有付费加速或增值，最低付费 5 USD（一次性）,2009 年上线；第三方估算 2026-06 约 291 万次访问、2026-08 约 383 万次访问（Semrush 类工具镜像数据）；Ahrefs DR 79（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-03 记录状态：live
+48,SaaSHub,https://www.saashub.com/,替代软件/工具目录,全球/英文,软件替代品与评测目录，可免费提交,免费（附条件/排队）；有付费加速或增值，最低付费 75 USD（一次性）,Ahrefs DR 76（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+49,OpenAlternative,https://openalternative.co/,替代软件/工具目录,全球/英文,商业软件的开源替代品目录,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 51（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+50,Alternative.me,https://alternative.me/,替代软件/工具目录,全球/英文,软件替代品推荐站,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 73（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+51,osalt,https://www.osalt.com/,替代软件/工具目录,全球/英文,开源替代商业软件目录,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+52,SimilarLabs,https://similarlabs.com/,替代软件/工具目录,全球/英文,AI/SaaS 相似产品与替代品目录,免费（附条件/排队）；有付费加速或增值，最低付费 9.99 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-06 记录状态：live
+53,SiteLike,https://www.sitelike.org/,替代软件/工具目录,全球/英文,相似网站查找目录,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 70（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+54,Alt Hunt,https://althunt.io/,替代软件/工具目录,全球/英文,替代品发现与发布平台,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+55,switching.software,https://switching.software/,替代软件/工具目录,全球/英文,注重隐私与伦理的软件替代品清单,社区贡献（GitHub/GitLab）,,已验证：可访问（2026-10-10 HTTP 200）
+56,Open Source Alternative To,https://www.opensourcealternative.to/,替代软件/工具目录,全球/英文,开源替代品目录,免费,,已验证：可访问（2026-10-10 HTTP 200）
+57,Findstack,https://www.findstack.com/,替代软件/工具目录,全球/英文,B2B 软件对比与发现目录,免费（附条件/排队）；有付费加速或增值，最低付费 99 USD（一次性）,Ahrefs DR 48（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+58,WebCatalog,https://webcatalog.io/,替代软件/工具目录,全球/英文,Web 应用目录与桌面封装工具,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+59,Productivity Directory,https://productivity.directory/,替代软件/工具目录,全球/英文,效率工具目录,付费，最低付费 24 USD（一次性）,Ahrefs DR 35（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-03 记录状态：live
+60,Toolfolio,https://toolfolio.com/,替代软件/工具目录,全球/英文,SaaS 工具目录,付费，最低付费 99 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+61,Twelve Tools,https://twelve.tools/,替代软件/工具目录,全球/英文,每月精选工具目录,免费（附条件/排队）；有付费加速或增值，最低付费 36 USD（一次性）,Ahrefs DR 79（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+62,Tools.so,https://tools.so/,替代软件/工具目录,全球/英文,工具目录,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 28（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+63,Postmake,https://postmake.io/,替代软件/工具目录,全球/英文,创业与创作工具目录,免费（附条件/排队）；有付费加速或增值，最低付费 79 USD,Ahrefs DR 28（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+64,NoCode.Tech,https://www.nocode.tech/,替代软件/工具目录,全球/英文,无代码工具目录与教程,未知,Ahrefs DR 48（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 429）；SubmitMyStartup 2026-10-04 记录状态：live
+65,Webcurate,https://webcurate.co/,替代软件/工具目录,全球/英文,精选网站与工具目录,付费，最低付费 4 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+66,European Alternatives,https://european-alternatives.eu/,替代软件/工具目录,欧洲/英文,欧盟本土数字服务替代品目录,编辑收录/可建议,,已验证：可访问（2026-10-10 HTTP 200）
+67,SourceForge,https://sourceforge.net/,软件评测/比较站,全球/英文,老牌开源托管与商业软件目录/评测平台,免费,Ahrefs DR 92（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+68,G2,https://www.g2.com/,软件评测/比较站,全球/英文,全球最大的 B2B 软件用户评测平台之一,免费基础档案；付费增值,G2 自述：生态年触达约 2 亿买家、600 万+ 验证评论（据 ZoomInfo 转述）；Ahrefs DR 91（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+69,Capterra,https://www.capterra.com/,软件评测/比较站,全球/英文,Gartner 旗下软件评测与比较平台,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 90（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-09-28 记录状态：live
+70,GetApp,https://www.getapp.com/,软件评测/比较站,全球/英文,Gartner 旗下软件比较平台,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 76（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-09-28 记录状态：live
+71,Software Advice,https://www.softwareadvice.com/,软件评测/比较站,全球/英文,Gartner 旗下软件选型顾问与评测,免费基础；付费推广,Ahrefs DR 79（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+72,TrustRadius,https://www.trustradius.com/,软件评测/比较站,全球/英文,B2B 软件深度用户评测,免费基础；付费增值,Ahrefs DR 76（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-08 记录状态：live
+73,Gartner Peer Insights,https://www.gartner.com/peer-insights/,软件评测/比较站,全球/英文,Gartner 企业 IT 用户评测平台,厂商注册（免费）,Ahrefs DR 76（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+74,PeerSpot,https://www.peerspot.com/,软件评测/比较站,全球/英文,企业技术产品评测社区（原 IT Central Station）,未知,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+75,SaaSworthy,https://www.saasworthy.com/,软件评测/比较站,全球/英文,SaaS 软件发现与评测,免费基础,Ahrefs DR 72（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+76,GoodFirms,https://www.goodfirms.co/,软件评测/比较站,全球/英文,软件与 IT 服务商评测平台,免费（附条件/排队）；有付费加速或增值，最低付费 49 USD/月,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+77,Crozdesk,https://crozdesk.com/,软件评测/比较站,全球/英文,商业软件发现与评测,免费,Ahrefs DR 55（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+78,Trustpilot,https://www.trustpilot.com/,软件评测/比较站,全球/英文,通用企业/产品用户评价平台,免费基础；付费套餐,Ahrefs DR 93（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+79,SelectHub,https://www.selecthub.com/,软件评测/比较站,全球/英文,企业软件选型与比较平台,未知,Ahrefs DR 63（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+80,Serchen,https://www.serchen.com/,软件评测/比较站,全球/英文,云服务/SaaS 目录与评测,未知,Ahrefs DR 55（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+81,FeaturedCustomers,https://www.featuredcustomers.com/,软件评测/比较站,全球/英文,B2B 软件客户案例与评测平台,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 52（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+82,Tekpon,https://tekpon.com/,软件评测/比较站,全球/英文,SaaS 软件市场与评测,付费，最低付费 249 USD（一次性）,Ahrefs DR 55（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+83,SpotSaaS,https://www.spotsaas.com/,软件评测/比较站,全球/英文,SaaS 比较与评测平台,免费,Ahrefs DR 32（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+84,SoftwareWorld,https://www.softwareworld.co/,软件评测/比较站,全球/英文,软件评测与排名,未知,Ahrefs DR 73（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-08 记录状态：live
+85,ITQlick,https://www.itqlick.com/,软件评测/比较站,全球/英文,软件比较与定价信息,未知,Ahrefs DR 40（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（HTTP 200，页面为前端渲染）；SubmitMyStartup 2026-10-08 记录状态：live
+86,CompareCamp,https://comparecamp.com/,软件评测/比较站,全球/英文,软件评测与比较,未知,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+87,Cuspera,https://www.cuspera.com/,软件评测/比较站,全球/英文,B2B 软件选型与评测,未知,Ahrefs DR 52（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+88,Thingtesting,https://thingtesting.com/,软件评测/比较站,全球/英文,新消费品牌发现与评测,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 52（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+89,SoftwareSuggest,https://www.softwaresuggest.com/,软件评测/比较站,印度/英文,软件推荐与评测平台,免费（附条件/排队）；有付费加速或增值，最低付费 4000 USD,Ahrefs DR 65（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+90,B2B Stack,https://www.b2bstack.com.br/,软件评测/比较站,巴西/葡萄牙文,巴西 B2B 软件评测平台,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+91,OMR Reviews,https://omr.com/en/reviews,软件评测/比较站,德国/德文英文,德国软件评测平台（OMR 旗下）,免费基础,,已验证：可访问（2026-10-10 HTTP 200）
+92,There's An AI For That,https://theresanaiforthat.com/,AI 工具目录,全球/英文,最大的 AI 工具目录之一，按任务分类,付费，最低付费 49 USD（一次性）,"官方 About 页：5M+ 月访客、50,000+ AI 工具、Newsletter 2.5M+ 订阅；AlphaMoat 估算 2026-09 约 347 万次访问；Ahrefs DR 77（来源：volodstaimi/Startup-Launch-List）",已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-04 记录状态：live
+93,Futurepedia,https://www.futurepedia.io/,AI 工具目录,全球/英文,知名 AI 工具目录与教程站,未知,"官网自述 50 万+ 注册账户、4,000+ 精选工具；AlphaMoat 估算 2026-08 约 41 万次访问；Ahrefs DR 69（来源：volodstaimi/Startup-Launch-List）",已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+94,Future Tools,https://www.futuretools.io/,AI 工具目录,全球/英文,Matt Wolfe 运营的 AI 工具目录,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 68（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+95,Toolify.ai,https://www.toolify.ai/,AI 工具目录,全球/多语言,AI 工具目录，含流量排行榜，多语言（含中文）,付费，最低付费 99 USD（一次性）,Ahrefs DR 72（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-04 记录状态：live
+96,TopAI.tools,https://topai.tools/,AI 工具目录,全球/英文,AI 工具目录,付费，最低付费 47 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+97,AI Tools Directory,https://aitoolsdirectory.com/,AI 工具目录,全球/英文,AI 工具目录,免费（附条件/排队）；有付费加速或增值，最低付费 99 USD（一次性）,Ahrefs DR 67（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+98,Insidr.ai,https://www.insidr.ai/,AI 工具目录,全球/英文,AI 工具目录与资讯,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+99,Dang.ai,https://dang.ai/,AI 工具目录,全球/英文,AI 工具目录,免费（附条件/排队）；有付费加速或增值，最低付费 49 USD,Ahrefs DR 80（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+100,aitools.fyi,https://aitools.fyi/,AI 工具目录,全球/英文,AI 工具目录,付费,Ahrefs DR 46（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+101,OpenTools,https://opentools.ai/,AI 工具目录,全球/英文,AI 工具目录与资讯,付费，最低付费 199 USD/年,"页面标题显示 2,500+ 工具与模型（2026-10-10 抓取）",已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+102,Aixploria,https://www.aixploria.com/en/,AI 工具目录,全球/英法文,AI 工具目录（法国团队）,付费，最低付费 99 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+103,Easy With AI,https://easywithai.com/,AI 工具目录,全球/英文,AI 工具目录与评测,付费，最低付费 125 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+104,ToolPilot,https://www.toolpilot.ai/,AI 工具目录,全球/英文,AI 工具目录,免费（附条件/排队）；有付费加速或增值，最低付费 99 USD（一次性）,Ahrefs DR 76（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+105,AIToolNet,https://www.aitoolnet.com/,AI 工具目录,全球/多语言,AI 工具目录,付费，最低付费 9.9 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+106,Altern,https://altern.ai/,AI 工具目录,全球/英文,AI 工具、模型与资源目录,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+107,Tap4 AI,https://tap4.ai/,AI 工具目录,全球/英文,AI 工具目录,付费，最低付费 10 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-06 记录状态：live
+108,AIPURE,https://aipure.ai/,AI 工具目录,全球/多语言,AI 工具目录,付费，最低付费 69.9 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+109,AI Agents Directory,https://aiagentsdirectory.com/,AI 工具目录,全球/英文,AI Agent 目录与生态地图,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD（一次性）,Ahrefs DR 43（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+110,AI Agent Store,https://aiagentstore.ai/,AI 工具目录,全球/英文,AI Agent 市场与目录,付费，最低付费 49.99 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+111,Phygital+ AI Library,https://library.phygital.plus/,AI 工具目录,全球/英文,AI 工具库（偏视觉创作）,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 46（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+112,Toolkitly,https://www.toolkitly.com/,AI 工具目录,全球/英文,AI/科技工具目录,付费，最低付费 29 USD（一次性）,页面标题显示收录 731+ AI 工具（2026-10-10 抓取）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-03 记录状态：live
+113,AI Search (ai-search.io),https://ai-search.io/,AI 工具目录,全球/英文,AI 工具目录,付费，最低付费 299 USD（一次性）,,已验证：站点在线（反爬/验证页拦截 HTTP 429）；SubmitMyStartup 2026-10-08 记录状态：live
+114,SaaS AI Tools,https://saasaitools.com/,AI 工具目录,全球/英文,AI 与 SaaS 工具目录,免费（附条件/排队）；有付费加速或增值，最低付费 67 USD/月,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+115,EveryDev.ai,https://www.everydev.ai/,AI 工具目录,全球/英文,面向开发者的 AI 工具目录与发布,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+116,AI 工具集 (ai-bot.cn),https://ai-bot.cn/,AI 工具目录,中国/中文,国内知名 AI 工具导航与资讯站,未知,页面标题显示 1000+ AI 工具（2026-10-10 抓取）,已验证：可访问（2026-10-10 HTTP 200）
+117,AIGC 导航 (aigc.cn),https://www.aigc.cn/,AI 工具目录,中国/中文,中文 AIGC 工具导航,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+118,AI 导航 (ainav.cn),https://www.ainav.cn/,AI 工具目录,中国/中文,中文 AI 工具导航,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+119,AIbase,https://www.aibase.com/,AI 工具目录,中国/中英文,AI 资讯与产品库（中文站 aibase.com/zh）,付费收录,,已验证：可访问（2026-10-10 HTTP 200）
+120,AI138,https://www.ai138.com/,AI 工具目录,中国/中文,中文 AI 工具导航,免费（附条件/排队）；有付费加速或增值，最低付费 99 CNY（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-06 记录状态：live
+121,mcp.so,https://mcp.so/,MCP/AI Agent 目录,全球/英文,MCP 服务器目录（中国开发者运营）,付费，最低付费 39 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+122,Smithery,https://smithery.ai/,MCP/AI Agent 目录,全球/英文,MCP 服务器注册与托管平台,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+123,Glama MCP,https://glama.ai/mcp/servers,MCP/AI Agent 目录,全球/英文,MCP 服务器/连接器目录,免费（附条件/排队）；有付费加速或增值,"页面标题显示收录 97,619 个 MCP 服务器（2026-10-10 抓取）",已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+124,MCP Market,https://mcpmarket.com/,MCP/AI Agent 目录,全球/英文,MCP 服务器市场与目录,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+125,Official MCP Registry,https://registry.modelcontextprotocol.io/,MCP/AI Agent 目录,全球/英文,Model Context Protocol 官方注册表,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+126,Crunchbase,https://www.crunchbase.com/,创业公司目录/数据库,全球/英文,全球最大的公司与融资数据库之一，可创建公司档案,免费,Ahrefs DR 89（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+127,Wellfound (原 AngelList Talent),https://wellfound.com/,创业公司目录/数据库,全球/英文,创业公司招聘与公司档案平台,免费,,已验证：可访问（2026-10-10 HTTP 200）
+128,F6S,https://www.f6s.com/,创业公司目录/数据库,全球/英文,创业生态平台，含加速器/项目申请,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 73（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-26 记录状态：live
+129,Startup Stash,https://startupstash.com/,创业公司目录/数据库,全球/英文,创业工具与资源目录,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 65（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+130,StartupBlink,https://www.startupblink.com/,创业公司目录/数据库,全球/英文,全球创业生态地图与排名,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+131,Startup Ranking,https://www.startupranking.com/,创业公司目录/数据库,全球/英文,创业公司排名与目录,免费（附条件/排队）；有付费加速或增值，最低付费 49 USD（一次性）,Ahrefs DR 65（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+132,Gust,https://gust.com/,创业公司目录/数据库,全球/英文,创业者与天使投资人对接平台,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 70（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-29 记录状态：live
+133,Tracxn,https://tracxn.com/,创业公司目录/数据库,全球/英文,创业公司与私营公司数据库,免费,Ahrefs DR 68（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+134,Owler,https://www.owler.com/,创业公司目录/数据库,全球/英文,公司情报与竞争对手信息社区,免费（附条件/排队）；有付费加速或增值,,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-08 记录状态：live
+135,Startup Buffer,https://startupbuffer.com/,创业公司目录/数据库,全球/英文,创业公司提交目录,免费（附条件/排队）；有付费加速或增值，最低付费 19.95 USD,Ahrefs DR 38（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-04 记录状态：live
+136,Startup Inspire,https://www.startupinspire.com/,创业公司目录/数据库,全球/英文,创业公司与产品目录,免费（附条件/排队）；有付费加速或增值，最低付费 6.99 EUR（一次性）,Ahrefs DR 25（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+137,Startups Gallery,https://startups.gallery/,创业公司目录/数据库,全球/英文,精选创业公司画廊,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+138,Tiny Startups,https://www.tinystartups.com/,创业公司目录/数据库,全球/英文,小型创业项目目录与周刊,付费，最低付费 69 USD,Ahrefs DR 50（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+139,TrustMRR,https://trustmrr.com/,创业公司目录/数据库,全球/英文,经支付数据验证收入的创业项目榜,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD,Ahrefs DR 54（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live；首页定位已偏向 SaaS 买卖
+140,Open Startup List,https://openstartuplist.com/,创业公司目录/数据库,全球/英文,公开收入数据（Open Startup）的公司列表,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 25（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+141,Startup Tracker,https://startuptracker.io/,创业公司目录/数据库,全球/英文,创业公司追踪数据库,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 38（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+142,Startup Fame,https://startupfa.me/,创业公司目录/数据库,全球/英文,创业项目目录,免费（附条件/排队）；有付费加速或增值，最低付费 19 USD/月,Ahrefs DR 82（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+143,Indie Hackers 产品库,https://www.indiehackers.com/products,创业公司目录/数据库,全球/英文,Indie Hackers 的产品与收入公开目录,免费,Ahrefs DR 80（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+144,BuildVoyage,https://buildvoyage.com/,创业公司目录/数据库,全球/英文,独立开发者产品目录,免费,Ahrefs DR 27（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+145,Startups.fyi,https://www.startups.fyi/,创业公司目录/数据库,全球/英文,创业公司目录,付费，最低付费 29 USD,Ahrefs DR 27（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+146,GetLatka,https://getlatka.com/,创业公司目录/数据库,全球/英文,SaaS 公司收入数据库,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 55（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+147,Make.rs,https://make.rs/,创业公司目录/数据库,全球/英文,独立制作人项目目录,免费,Ahrefs DR 30（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+148,Startup.sx,https://www.startup.sx/,创业公司目录/数据库,全球/英文,创业项目目录,免费（可选付费推广，最低 9.99 USD（一次性））,,已验证：站点在线（反爬/验证页拦截 HTTP 429）；SubmitMyStartup 2026-10-04 记录状态：live
+149,Startup Spotlight,https://www.startupspotlight.co/,创业公司目录/数据库,全球/英文,创业公司展示目录,付费，最低付费 29 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+150,Open Makers,https://openmakers.io/,创业公司目录/数据库,全球/英文,开放创客产品目录,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+151,Dealroom,https://dealroom.co/,创业公司目录/数据库,欧洲/英文,创业与风投数据平台,免费建档,,已验证：可访问（2026-10-10 HTTP 200）
+152,EU-Startups,https://www.eu-startups.com/,创业公司目录/数据库,欧洲/英文,欧洲创业媒体与创业公司目录,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 68（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+153,startups.watch,https://startups.watch/,创业公司目录/数据库,土耳其/英文,土耳其创业生态数据库,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 48（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+154,e27,https://e27.co/,创业公司目录/数据库,东南亚/英文,东南亚创业媒体与公司数据库,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 72（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+155,IT桔子,https://www.itjuzi.com/,创业公司目录/数据库,中国/中文,中国创投数据库，收录创业公司与融资,未知,,已验证：站点在线（反爬/验证页拦截 HTTP 412）；依据知名度及公开报道判断仍在运营
+156,Startup Europe,https://startupeurope.net/,创业公司目录/数据库,欧洲/英文,欧洲创业公司目录,免费,Ahrefs DR 35（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+157,Romanian Startups,https://www.romanianstartups.com/,创业公司目录/数据库,罗马尼亚/英文,罗马尼亚创业公司目录,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 25（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+158,Startuplist Africa,https://www.startuplist.africa/,创业公司目录/数据库,非洲/英文,非洲创业公司目录,免费（附条件/排队）；有付费加速或增值，最低付费 79 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-03 记录状态：live
+159,MAGNiTT,https://magnitt.com/,创业公司目录/数据库,中东/英文,中东北非创业数据平台,未知,Ahrefs DR 58（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-08 记录状态：live
+160,Techboard,https://techboard.com.au/,创业公司目录/数据库,澳大利亚/英文,澳洲创业生态数据库,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 35（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+161,BuiltIn,https://builtin.com/,创业公司目录/数据库,美国/英文,美国科技公司与招聘平台（含各城市分站）,未知,Ahrefs DR 82（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+162,Hacker News – Show HN,https://news.ycombinator.com/show,社区/论坛,全球/英文,Y Combinator 旗下技术社区的 Show HN 板块，开发者展示自制项目,免费（社区发帖）,Ahrefs DR 91（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+163,Indie Hackers,https://www.indiehackers.com/,社区/论坛,全球/英文,独立开发者社区，可发帖分享产品与收入里程碑,免费,Ahrefs DR 80（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+164,Hugging Face Spaces,https://huggingface.co/spaces,社区/论坛,全球/英文,AI 模型与应用 Demo 托管与发现社区,免费,,已验证：可访问（2026-10-10 HTTP 200）
+165,Reddit r/SideProject,https://www.reddit.com/r/SideProject/,社区/论坛,全球/英文,Reddit 副业项目分享板块,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-27 记录状态：live
+166,Reddit r/startups,https://www.reddit.com/r/startups/,社区/论坛,全球/英文,Reddit 创业讨论板块,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+167,Reddit r/SaaS,https://www.reddit.com/r/SaaS/,社区/论坛,全球/英文,Reddit SaaS 讨论板块,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+168,Reddit r/IMadeThis,https://www.reddit.com/r/IMadeThis/,社区/论坛,全球/英文,Reddit 作品展示板块,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-27 记录状态：live
+169,Reddit r/alphaandbetausers,https://www.reddit.com/r/alphaandbetausers/,社区/论坛,全球/英文,招募内测用户的 Reddit 板块,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+170,Reddit r/indiehackers,https://www.reddit.com/r/indiehackers/,社区/论坛,全球/英文,Reddit 独立开发者板块,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+171,Reddit r/microsaas,https://www.reddit.com/r/microsaas/,社区/论坛,全球/英文,Reddit 微型 SaaS 板块,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+172,Reddit r/EntrepreneurRideAlong,https://www.reddit.com/r/EntrepreneurRideAlong/,社区/论坛,全球/英文,Reddit 创业过程分享板块,免费,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-25 记录状态：live
+173,Lobsters,https://lobste.rs/,社区/论坛,全球/英文,邀请制技术链接聚合社区,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 68（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-03 记录状态：live
+174,DEV Community,https://dev.to/,社区/论坛,全球/英文,开发者博客社区，可发布项目文章,免费,Ahrefs DR 90（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+175,Hashnode,https://hashnode.com/,社区/论坛,全球/英文,开发者博客平台与社区,免费,,已验证：可访问（2026-10-10 HTTP 200）
+176,WIP,https://wip.co/,社区/论坛,全球/英文,创作者构建日志社区（会员制）,付费，最低付费 29 USD/月,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-03 记录状态：live
+177,Huzzler,https://huzzler.so/,社区/论坛,全球/英文,独立开发者社区与产品目录,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD（一次性）,Ahrefs DR 46（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+178,Ship or Die,https://shipordie.club/,社区/论坛,全球/英文,独立开发者会员社区,付费，最低付费 20 USD/月,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+179,V2EX（分享创造）,https://www.v2ex.com/go/create,社区/论坛,中国/中文,国内创意工作者社区，'分享创造'节点常用于发布独立产品,免费（社区发帖）,,已验证：可访问（2026-10-10 HTTP 200）
+180,即刻,https://web.okjike.com/,社区/论坛,中国/中文,兴趣社交 App，独立开发者/产品圈活跃（如'产品发布'类圈子）,免费（社区发帖）,,已验证：可访问（2026-10-10 HTTP 200）
+181,掘金,https://juejin.cn/,社区/论坛,中国/中文,字节跳动旗下开发者技术社区,免费,,已验证：可访问（2026-10-10 HTTP 200）
+182,SegmentFault 思否,https://segmentfault.com/,社区/论坛,中国/中文,中文开发者问答与技术社区,免费,,已验证：可访问（2026-10-10 HTTP 200）
+183,人人都是产品经理,https://www.woshipm.com/,社区/论坛,中国/中文,国内产品经理社区与媒体,免费投稿,,已验证：可访问（2026-10-10 HTTP 200）
+184,酷安,https://www.coolapk.com/,社区/论坛,中国/中文,安卓应用发现与数码社区,免费（开发者入驻）,,已验证：可访问（2026-10-10 HTTP 200）
+185,vc.ru,https://vc.ru/,社区/论坛,俄罗斯/俄文,俄语创业与商业社区,免费,,已验证：可访问（2026-10-10 HTTP 200）
+186,鸟哥笔记,https://www.niaogebiji.com/,社区/论坛,中国/中文,互联网运营与增长社区,免费投稿,,已验证：可访问（2026-10-10 HTTP 200）
+187,Sidebar,https://sidebar.io/,科技媒体/Newsletter,全球/英文,每日 5 条精选设计链接,免费推荐,Ahrefs DR 52（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+188,Console.dev,https://console.dev/,科技媒体/Newsletter,全球/英文,面向开发者工具的精选周刊,编辑选录,,已验证：可访问（2026-10-10 HTTP 200）
+189,Starter Story,https://www.starterstory.com/,科技媒体/Newsletter,全球/英文,创业者案例访谈与创业数据库,免费投稿访谈,Ahrefs DR 71（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+190,Ben's Bites,https://www.bensbites.com/,科技媒体/Newsletter,全球/英文,知名 AI 资讯 Newsletter,编辑选录,Ahrefs DR 53（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+191,TLDR Newsletter,https://tldr.tech/,科技媒体/Newsletter,全球/英文,科技日报 Newsletter，可赞助投放,编辑选录/付费赞助,,已验证：可访问（2026-10-10 HTTP 200）
+192,TechCrunch,https://techcrunch.com/,科技媒体/Newsletter,全球/英文,全球头部科技创业媒体,寻求报道（Tips）,Ahrefs DR 92（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+193,Next Big What,https://nextbigwhat.com/,科技媒体/Newsletter,印度/英文,印度科技媒体，提供产品发布与 AI 工具收录,未知,Ahrefs DR 38（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+194,YourStory,https://yourstory.com/,科技媒体/Newsletter,印度/英文,印度创业媒体与公司档案,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 78（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+195,Inc42,https://inc42.com/,科技媒体/Newsletter,印度/英文,印度科技创业媒体,免费投稿,Ahrefs DR 72（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+196,GeekWire Startup List,https://www.geekwire.com/,科技媒体/Newsletter,美国西北/英文,西雅图科技媒体，含创业公司列表,免费（附条件/排队）；有付费加速或增值,Ahrefs DR 82（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-09-26 记录状态：live
+197,科技爱好者周刊（阮一峰）,https://github.com/ruanyf/weekly,科技媒体/Newsletter,中国/中文,阮一峰每周科技周刊，可通过 Issue 自荐项目,免费自荐（GitHub Issue）,,已验证：可访问（2026-10-10 HTTP 200）
+198,少数派,https://sspai.com/,科技媒体/Newsletter,中国/中文,高质量数字生活与效率软件推荐媒体，Matrix 社区可投稿,免费投稿（编辑审核）,,已验证：可访问（2026-10-10 HTTP 200）
+199,小众软件,https://www.appinn.com/,科技媒体/Newsletter,中国/中文,老牌小众/实用软件推荐博客，接受读者推荐,免费推荐,,已验证：可访问（2026-10-10 HTTP 200）
+200,产品沉思录,https://pmthinking.com/,科技媒体/Newsletter,中国/中文,Pin 主编的产品与科技精选 Newsletter,编辑选录,,已验证：可访问（2026-10-10 HTTP 200）
+201,异次元软件世界,https://www.iplaysoft.com/,科技媒体/Newsletter,中国/中文,老牌软件与 App 推荐博客,编辑选录,,已验证：可访问（2026-10-10 HTTP 200）
+202,反斗软件,https://www.apprcn.com/,科技媒体/Newsletter,中国/中文,软件推荐与限免信息博客,编辑选录,,已验证：可访问（2026-10-10 HTTP 200）
+203,36氪,https://36kr.com/,科技媒体/Newsletter,中国/中文,中国头部科技创业媒体，有创业项目报道,投稿/寻求报道,,已验证：可访问（2026-10-10 HTTP 200）
+204,爱范儿,https://www.ifanr.com/,科技媒体/Newsletter,中国/中文,科技媒体，关注新产品与 App,投稿/寻求报道,,已验证：可访问（2026-10-10 HTTP 200）
+205,极客公园,https://www.geekpark.net/,科技媒体/Newsletter,中国/中文,科技创新媒体与社区,投稿/寻求报道,,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+206,虎嗅,https://www.huxiu.com/,科技媒体/Newsletter,中国/中文,商业科技媒体,投稿,,已验证：可访问（2026-10-10 HTTP 200）
+207,TechNode 动点科技,https://technode.com/,科技媒体/Newsletter,中国/英文,报道中国科技创业的英文媒体,寻求报道,,已验证：可访问（2026-10-10 HTTP 200）
+208,Pandaily,https://pandaily.com/,科技媒体/Newsletter,中国/英文,报道中国科技的英文媒体,寻求报道,,已验证：可访问（2026-10-10 HTTP 200）
+209,StackShare,https://stackshare.io/,开发者/开源项目目录,全球/英文,技术栈分享与工具对比社区,免费,Ahrefs DR 80（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 429）；依据知名度及公开报道判断仍在运营
+210,LibHunt,https://www.libhunt.com/,开发者/开源项目目录,全球/英文,开源库与项目的发现和替代品目录,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+211,GitHub Trending / Topics,https://github.com/trending,开发者/开源项目目录,全球/英文,GitHub 热门项目榜单,无需提交（算法）,,已验证：可访问（2026-10-10 HTTP 200）
+212,Awesome Lists (sindresorhus/awesome),https://github.com/sindresorhus/awesome,开发者/开源项目目录,全球/英文,GitHub 上各领域精选清单的总目录，可提 PR 收录,免费（PR）,,已验证：可访问（2026-10-10 HTTP 200）
+213,awesome-selfhosted,https://awesome-selfhosted.net/,开发者/开源项目目录,全球/英文,自托管开源软件清单,免费（PR）,,已验证：可访问（2026-10-10 HTTP 200）
+214,Dev Resources,https://devresourc.es/,开发者/开源项目目录,全球/英文,开发者资源目录,免费（附条件/排队）；有付费加速或增值，最低付费 49 USD（一次性）,页面标题显示 800+ 开发者资源（2026-10-10 抓取）；Ahrefs DR 45（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+215,开源中国 OSCHINA,https://www.oschina.net/,开发者/开源项目目录,中国/中文,国内开源项目收录与技术社区,免费,,已验证：可访问（2026-10-10 HTTP 200）
+216,Gitee,https://gitee.com/,开发者/开源项目目录,中国/中文,国内代码托管平台，含开源项目推荐,免费,,已验证：可访问（2026-10-10 HTTP 200）
+217,HelloGitHub,https://hellogithub.com/,开发者/开源项目目录,中国/中文,每月推荐有趣开源项目的中文社区/月刊,免费自荐,,已验证：可访问（2026-10-10 HTTP 200）
+218,Spectacle (StartupVideos),https://startupvideos.com/,设计/作品展示画廊,全球/英文,创业产品视频展示与发现平台,免费（附条件/排队）；有付费加速或增值,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+219,Land-book,https://land-book.com/,设计/作品展示画廊,全球/英文,落地页设计灵感画廊,免费（附条件/排队）；有付费加速或增值，最低付费 9 USD/月,Ahrefs DR 63（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live
+220,Landingfolio,https://www.landingfolio.com/,设计/作品展示画廊,全球/英文,落地页设计灵感库,付费，最低付费 1.99 USD/周,Ahrefs DR 52（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+221,Saaspo,https://saaspo.com/,设计/作品展示画廊,全球/英文,SaaS 网站设计灵感,免费（附条件/排队）；有付费加速或增值，最低付费 149 USD/月,Ahrefs DR 42（来源：volodstaimi/Startup-Launch-List）,已验证：站点在线（反爬/验证页拦截 HTTP 403）；SubmitMyStartup 2026-10-08 记录状态：live
+222,One Page Love,https://onepagelove.com/,设计/作品展示画廊,全球/英文,单页网站设计画廊,免费；付费加速,,已验证：可访问（2026-10-10 HTTP 200）
+223,Lapa Ninja,https://www.lapa.ninja/,设计/作品展示画廊,全球/英文,落地页设计灵感库,免费,"页面标题显示 7,300+ 落地页案例（2026-10-10 抓取）",已验证：可访问（2026-10-10 HTTP 200）
+224,Awwwards,https://www.awwwards.com/,设计/作品展示画廊,全球/英文,网页设计奖项与画廊,付费提交,,已验证：可访问（2026-10-10 HTTP 200）
+225,SaaS Landing Page,https://saaslandingpage.com/,设计/作品展示画廊,全球/英文,SaaS 落地页示例集合,未知,,已验证：可访问（2026-10-10 HTTP 200）
+226,Curated.design,https://curated.design/,设计/作品展示画廊,全球/英文,网页设计精选画廊,免费（附条件/排队）；有付费加速或增值，最低付费 29 USD,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-07 记录状态：live
+227,Makerpad,https://www.makerpad.co/,设计/作品展示画廊,全球/英文,无代码作品展示,免费（附条件/排队）；有付费加速或增值，最低付费 15 USD（一次性）,Ahrefs DR 58（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-04 记录状态：live；注意：首页定位已改为'用 AI 构建自动化公司'，与早期无代码作品展示不同
+228,Softonic,https://en.softonic.com/,软件下载站,全球/多语言,大型软件下载与评测站,免费提交,,已验证：站点在线（反爬/验证页拦截 HTTP 412）；依据知名度及公开报道判断仍在运营
+229,Softpedia,https://www.softpedia.com/,软件下载站,全球/英文,大型软件下载站,免费提交,,已验证：站点在线（反爬/验证页拦截 HTTP 403）；依据知名度及公开报道判断仍在运营
+230,Uptodown,https://en.uptodown.com/,软件下载站,全球/多语言,应用与软件下载站,免费（开发者平台）,,已验证：可访问（2026-10-10 HTTP 200）
+231,MacUpdate,https://www.macupdate.com/,软件下载站,全球/英文,Mac 软件下载与发现,免费提交,"页面标题显示 30,000+ 免费应用（2026-10-10 抓取）",已验证：可访问（2026-10-10 HTTP 200）
+232,FileHorse,https://www.filehorse.com/,软件下载站,全球/英文,Windows/Mac 软件下载站,免费提交,,已验证：可访问（2026-10-10 HTTP 200）
+233,果核剥壳,https://www.ghxi.com/,软件下载站,中国/中文,软件推荐与下载站,编辑选录,,已验证：可访问（2026-10-10 HTTP 200）
+234,AppSumo,https://appsumo.com/,应用商店/交易市场,全球/英文,软件终身优惠交易市场，常用于新品首发获客,合作分成（需申请）,Ahrefs DR 78（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）
+235,SideProjectors,https://www.sideprojectors.com/,应用商店/交易市场,全球/英文,副业项目展示与买卖市场,免费（可选付费推广，最低 10 USD/天）,Ahrefs DR 69（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-03 记录状态：live
+236,Chrome Web Store,https://chromewebstore.google.com/,应用商店/交易市场,全球/多语言,Chrome 扩展官方商店与发现页,一次性开发者注册费,,已验证：可访问（2026-10-10 HTTP 200）
+237,Raycast Store,https://www.raycast.com/store,应用商店/交易市场,全球/英文,Raycast 扩展商店,免费（PR）,,已验证：可访问（2026-10-10 HTTP 200）
+238,Setapp,https://setapp.com/,应用商店/交易市场,全球/英文,Mac/iOS 应用订阅合集平台，需申请入驻,申请制,,已验证：可访问（2026-10-10 HTTP 200）
+239,Indie Deals,https://indie.deals/,应用商店/交易市场,全球/英文,独立软件优惠目录,付费，最低付费 19 USD,Ahrefs DR 59（来源：volodstaimi/Startup-Launch-List）,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-08 记录状态：live
+240,FWOL 分类目录,http://fwol.cn/,网址导航/分类目录,中国/中文,中文网站分类目录,免费（附条件/排队）；有付费加速或增值，最低付费 50 CNY,,待确认：本机访问失败（000）；SubmitMyStartup 2026-10-08 记录状态：live
+241,HHLink,https://www.hhlink.com/,网址导航/分类目录,中国/中文,海外华人网址导航（海外导航网），可提交网站,免费（附条件/排队）；有付费加速或增值，最低付费 20 USD（一次性）,,已验证：可访问（2026-10-10 HTTP 200）；SubmitMyStartup 2026-10-06 记录状态：live

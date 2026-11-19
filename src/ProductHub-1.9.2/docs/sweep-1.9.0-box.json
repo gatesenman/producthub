@@ -1,0 +1,5169 @@
+[
+ {
+  "guid": "2c7dd187-b922-5b61-9d44-7069e3cb3360",
+  "name": "Product Hunt",
+  "url": "https://producthunt.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 136
+ },
+ {
+  "guid": "60989c8d-8418-5648-a96b-f9e3dd80ba7d",
+  "name": "Peerlist Launchpad",
+  "url": "https://peerlist.io/launchpad",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 112
+ },
+ {
+  "guid": "0a33f9d3-72ac-5444-a753-f388763591db",
+  "name": "BetaList",
+  "url": "https://betalist.com",
+  "ok": true,
+  "n": 20,
+  "ms": 182
+ },
+ {
+  "guid": "df6b52f4-04f7-5779-aec1-150f9fd1b6f7",
+  "name": "Launching Next",
+  "url": "https://launchingnext.com",
+  "ok": true,
+  "n": 20,
+  "ms": 296
+ },
+ {
+  "guid": "ece923b0-dc82-5704-a239-bfe7f106b7a0",
+  "name": "Open Launch",
+  "url": "https://open-launch.com",
+  "ok": true,
+  "n": 20,
+  "ms": 305
+ },
+ {
+  "guid": "c90105ac-c7f9-569d-83d2-a2be7690b5f5",
+  "name": "DevHunt",
+  "url": "https://devhunt.org",
+  "ok": true,
+  "n": 20,
+  "ms": 355
+ },
+ {
+  "guid": "5647da6d-6262-543f-84dc-abe9e0a379ec",
+  "name": "Launch Vault",
+  "url": "https://launchvault.dev",
+  "ok": true,
+  "n": 20,
+  "ms": 397
+ },
+ {
+  "guid": "12a5fa65-9d4b-5a6b-814e-b1c42e50f494",
+  "name": "Microlaunch",
+  "url": "https://microlaunch.net",
+  "ok": false,
+  "n": 0,
+  "ms": 644
+ },
+ {
+  "guid": "b5cf46bb-ef85-5081-8e37-03ec2fb078af",
+  "name": "Smol Launch",
+  "url": "https://smollaunch.com",
+  "ok": true,
+  "n": 20,
+  "ms": 304
+ },
+ {
+  "guid": "deab448f-7116-53de-af73-d9373e0aa828",
+  "name": "ShipBoost",
+  "url": "https://shipboost.io",
+  "ok": true,
+  "n": 10,
+  "ms": 151
+ },
+ {
+  "guid": "2b13adf2-5098-578c-8ff1-94a8a4c2a44d",
+  "name": "PeerPush",
+  "url": "https://peerpush.com",
+  "ok": true,
+  "n": 20,
+  "ms": 876
+ },
+ {
+  "guid": "95a7e951-165e-5787-8cec-ca7bf1be5d22",
+  "name": "StartupBase",
+  "url": "https://startupbase.io",
+  "ok": true,
+  "n": 3,
+  "ms": 912
+ },
+ {
+  "guid": "3ae6fd18-df7c-5688-9cfa-6e01b32c9700",
+  "name": "Super Launch",
+  "url": "https://superlaun.ch",
+  "ok": false,
+  "n": 0,
+  "ms": 490
+ },
+ {
+  "guid": "14f277c0-cd29-58eb-8c33-527f004cbb5a",
+  "name": "SaaSCity",
+  "url": "https://saascity.io",
+  "ok": true,
+  "n": 18,
+  "ms": 749
+ },
+ {
+  "guid": "60069976-feee-59fd-9356-2176c6543e01",
+  "name": "Kick Product",
+  "url": "https://kickproduct.com",
+  "ok": false,
+  "n": 0,
+  "ms": 361
+ },
+ {
+  "guid": "2054def6-4def-5c9d-9cfa-835b88facf4f",
+  "name": "Uneed",
+  "url": "https://uneed.best",
+  "ok": true,
+  "n": 14,
+  "ms": 1167
+ },
+ {
+  "guid": "c71a4b43-9e59-5431-94e7-6af09fc7debb",
+  "name": "TinyLaunch",
+  "url": "https://tinylaunch.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1385
+ },
+ {
+  "guid": "d9831142-8d2c-5643-9d7d-971111f5e0ed",
+  "name": "Fazier",
+  "url": "https://fazier.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1408
+ },
+ {
+  "guid": "3c2e219a-2f42-5916-9869-0a669c658b4d",
+  "name": "Pitchwall",
+  "url": "https://pitchwall.co",
+  "ok": true,
+  "n": 20,
+  "ms": 756
+ },
+ {
+  "guid": "8704f125-f512-5332-8ac5-36e75bcbf5fb",
+  "name": "WhatLaunched.Today",
+  "url": "https://whatlaunched.today",
+  "ok": true,
+  "n": 20,
+  "ms": 892
+ },
+ {
+  "guid": "b4b37879-cd19-5c36-8468-e04c049b9f52",
+  "name": "LaunchIgniter",
+  "url": "https://launchigniter.com",
+  "ok": true,
+  "n": 20,
+  "ms": 791
+ },
+ {
+  "guid": "27980fa8-f700-586a-996b-d1ce77e00bf0",
+  "name": "Today Launches",
+  "url": "https://todaylaunches.com",
+  "ok": true,
+  "n": 20,
+  "ms": 915
+ },
+ {
+  "guid": "850df77b-0d87-5d94-997d-4a818fdbe5a9",
+  "name": "Startup Ranked",
+  "url": "https://startupranked.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1107
+ },
+ {
+  "guid": "95c389db-593e-524d-825b-70d15b019958",
+  "name": "IndieHunt",
+  "url": "https://indiehunt.io",
+  "ok": true,
+  "n": 20,
+  "ms": 1271
+ },
+ {
+  "guid": "367ed45a-0cc1-59ca-bbde-5a6d2ccb60c5",
+  "name": "NextGen Tools",
+  "url": "https://nxgntools.com",
+  "ok": false,
+  "n": 0,
+  "ms": 2096
+ },
+ {
+  "guid": "7f252787-6383-5c2d-8b16-5fcd6a72d1bb",
+  "name": "Firsto",
+  "url": "https://firsto.co",
+  "ok": true,
+  "n": 20,
+  "ms": 1987
+ },
+ {
+  "guid": "67501fc9-2f8c-5723-936a-eb44b7e51639",
+  "name": "Launch List",
+  "url": "https://launch-list.org",
+  "ok": true,
+  "n": 11,
+  "ms": 1209
+ },
+ {
+  "guid": "b42f91cb-5271-5ce6-aa09-0df912256bca",
+  "name": "Better Launch",
+  "url": "https://betterlaunch.co",
+  "ok": true,
+  "n": 18,
+  "ms": 548
+ },
+ {
+  "guid": "c27e67de-c462-56b9-ad1a-79d20c561f01",
+  "name": "Product Watch",
+  "url": "https://productwatch.io",
+  "ok": true,
+  "n": 20,
+  "ms": 1087
+ },
+ {
+  "guid": "708914f5-af53-5e7f-bb7d-af1582dee1d0",
+  "name": "Nick Launches",
+  "url": "https://nicklaunches.com",
+  "ok": true,
+  "n": 20,
+  "ms": 722
+ },
+ {
+  "guid": "533e112b-57bd-55d2-8d37-d816f9840975",
+  "name": "Website Hunt",
+  "url": "https://websitehunt.co",
+  "ok": true,
+  "n": 20,
+  "ms": 272
+ },
+ {
+  "guid": "662a0b43-d9d9-5e4c-bff6-cca10901ad85",
+  "name": "Crowdstax",
+  "url": "https://crowdstax.com",
+  "ok": true,
+  "n": 9,
+  "ms": 363
+ },
+ {
+  "guid": "2d159f99-0057-5945-8131-fe9b5731053a",
+  "name": "Launch AI (trylaunch.ai)",
+  "url": "https://trylaunch.ai",
+  "ok": false,
+  "n": 0,
+  "ms": 613
+ },
+ {
+  "guid": "264c801d-db3e-5864-bc97-aacd7ab19e71",
+  "name": "VibeHacker",
+  "url": "https://vibehacker.com",
+  "ok": true,
+  "n": 20,
+  "ms": 445
+ },
+ {
+  "guid": "a9d9e038-e34d-56a6-86d2-f6880d30e0e8",
+  "name": "LaunchPad India",
+  "url": "https://launchpadindia.co",
+  "ok": true,
+  "n": 6,
+  "ms": 541
+ },
+ {
+  "guid": "2486ce4e-d56a-577e-8d2e-e0e522e8de2f",
+  "name": "AlternativeTo",
+  "url": "https://alternativeto.net",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 113
+ },
+ {
+  "guid": "f6bf9fca-f23d-51fa-b506-c6721129daa4",
+  "name": "Next Big Product",
+  "url": "https://nextbigproduct.com",
+  "ok": true,
+  "n": 20,
+  "ms": 3702
+ },
+ {
+  "guid": "2f7b01b8-ab9c-55f5-9e51-68917194479e",
+  "name": "OpenAlternative",
+  "url": "https://openalternative.co",
+  "ok": true,
+  "n": 20,
+  "ms": 77
+ },
+ {
+  "guid": "c94a6c85-0a46-5ad5-ada6-0b52ff804d22",
+  "name": "BuiltByIndies",
+  "url": "https://builtbyindies.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1582
+ },
+ {
+  "guid": "e5eb2e4d-5286-59d0-a375-a77d48961cce",
+  "name": "SaaSHub",
+  "url": "https://saashub.com",
+  "ok": true,
+  "n": 20,
+  "ms": 547
+ },
+ {
+  "guid": "351d8152-5bd9-53b1-afd5-8999ca11da25",
+  "name": "osalt",
+  "url": "https://osalt.com",
+  "ok": true,
+  "n": 10,
+  "ms": 93
+ },
+ {
+  "guid": "0198cc00-ce16-51c2-a6aa-5ff8e5c9e781",
+  "name": "Disquiet",
+  "url": "https://disquiet.io",
+  "ok": true,
+  "n": 17,
+  "ms": 1384
+ },
+ {
+  "guid": "64199023-8e84-5578-9cf2-ef55b020a339",
+  "name": "SimilarLabs",
+  "url": "https://similarlabs.com",
+  "ok": true,
+  "n": 10,
+  "ms": 277
+ },
+ {
+  "guid": "744a0550-0e08-5e4f-83c9-6b97226e8518",
+  "name": "Alt Hunt",
+  "url": "https://althunt.io",
+  "ok": true,
+  "n": 12,
+  "ms": 189
+ },
+ {
+  "guid": "17558c6a-ba5c-5a8f-be62-c9d983af62da",
+  "name": "SiteLike",
+  "url": "https://sitelike.org",
+  "ok": true,
+  "n": 15,
+  "ms": 286
+ },
+ {
+  "guid": "afb55aeb-04c2-5da5-9bca-294794eca97f",
+  "name": "Alternative.me",
+  "url": "https://alternative.me",
+  "ok": true,
+  "n": 9,
+  "ms": 540
+ },
+ {
+  "guid": "17ad4fe6-f05a-5ac0-ab93-dc0991e8efad",
+  "name": "ProductBurst",
+  "url": "https://productburst.com",
+  "ok": false,
+  "n": 0,
+  "ms": 3119
+ },
+ {
+  "guid": "a4b8ff32-1660-5cd2-8e99-17cd248a203f",
+  "name": "Findstack",
+  "url": "https://findstack.com",
+  "ok": true,
+  "n": 7,
+  "ms": 307
+ },
+ {
+  "guid": "f37c894d-21ab-5cbd-b01f-cdbfe3581495",
+  "name": "EarlyHunt",
+  "url": "https://earlyhunt.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2714
+ },
+ {
+  "guid": "5f87cb45-737a-5103-aa53-9698cbebb20e",
+  "name": "switching.software",
+  "url": "https://switching.software",
+  "ok": true,
+  "n": 20,
+  "ms": 757
+ },
+ {
+  "guid": "3ff7a1ad-1041-585a-95f0-90928c8956be",
+  "name": "Foundrlist",
+  "url": "https://foundrlist.com",
+  "ok": true,
+  "n": 20,
+  "ms": 3170
+ },
+ {
+  "guid": "6b52a196-acf1-5ca9-a952-e3fc959a2849",
+  "name": "Toolfolio",
+  "url": "https://toolfolio.com",
+  "ok": true,
+  "n": 9,
+  "ms": 543
+ },
+ {
+  "guid": "6a043691-c3b1-592e-81e7-9da3712e9813",
+  "name": "Aura++",
+  "url": "https://auraplusplus.com",
+  "ok": true,
+  "n": 17,
+  "ms": 2903
+ },
+ {
+  "guid": "c9adc9a5-b1d8-5e32-a42b-1d32b5e903d7",
+  "name": "Productivity Directory",
+  "url": "https://productivity.directory",
+  "ok": true,
+  "n": 20,
+  "ms": 685
+ },
+ {
+  "guid": "922bdd23-0781-55ed-a05e-6cd06f61dbc2",
+  "name": "Tools.so",
+  "url": "https://tools.so",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 202
+ },
+ {
+  "guid": "81b50435-2479-5df7-82b9-57cf30cb33be",
+  "name": "NoCode.Tech",
+  "url": "https://nocode.tech",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 429",
+  "ms": 149
+ },
+ {
+  "guid": "4c9543c5-cea9-501c-b333-e722e3c2aa16",
+  "name": "SourceForge",
+  "url": "https://sourceforge.net",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 119
+ },
+ {
+  "guid": "a75fa1e1-c775-5a47-860d-99dae2ae0fb3",
+  "name": "Postmake",
+  "url": "https://postmake.io",
+  "ok": true,
+  "n": 2,
+  "ms": 216
+ },
+ {
+  "guid": "e0105889-9df2-5514-9836-6861cf1eee69",
+  "name": "Mergeek 产品发现",
+  "url": "https://mergeek.com",
+  "ok": true,
+  "n": 12,
+  "ms": 2255
+ },
+ {
+  "guid": "de697be4-aab1-5c83-8951-0300ae2fae4d",
+  "name": "G2",
+  "url": "https://g2.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 112
+ },
+ {
+  "guid": "c3f77eff-56cc-5252-8368-5ee81852f3df",
+  "name": "Capterra",
+  "url": "https://capterra.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 103
+ },
+ {
+  "guid": "9024f940-e99f-58cd-914e-f0987b8d5199",
+  "name": "GetApp",
+  "url": "https://getapp.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 117
+ },
+ {
+  "guid": "14442762-db3b-53b2-a8c6-863346c01fdd",
+  "name": "Software Advice",
+  "url": "https://softwareadvice.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 113
+ },
+ {
+  "guid": "79f9bf90-092d-579e-b28a-f84b3a03b863",
+  "name": "TrustRadius",
+  "url": "https://trustradius.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 91
+ },
+ {
+  "guid": "2cf5386c-f5c5-5918-a65c-1b297b804a3b",
+  "name": "WebCatalog",
+  "url": "https://webcatalog.io",
+  "ok": false,
+  "n": 0,
+  "ms": 1119
+ },
+ {
+  "guid": "9f5e4f08-e5a0-5fa5-a814-3aa10b304254",
+  "name": "SaaSworthy",
+  "url": "https://saasworthy.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 66
+ },
+ {
+  "guid": "31e42986-712b-53a5-b6e0-17a8a13fe390",
+  "name": "GoodFirms",
+  "url": "https://goodfirms.co",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 65
+ },
+ {
+  "guid": "502ea33d-b22c-52cc-9779-ad041911d1ae",
+  "name": "Gartner Peer Insights",
+  "url": "https://gartner.com/peer-insights",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 184
+ },
+ {
+  "guid": "06aa499a-1db1-50ca-80f9-4c9180d31fad",
+  "name": "Serchen",
+  "url": "https://serchen.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 76
+ },
+ {
+  "guid": "46495c72-8470-5016-b158-c79e20a85950",
+  "name": "Crozdesk",
+  "url": "https://crozdesk.com",
+  "ok": true,
+  "n": 10,
+  "ms": 193
+ },
+ {
+  "guid": "a4754f3d-5417-5c5c-98f4-8d2cef717441",
+  "name": "Stellar Launch",
+  "url": "https://stellarlaunch.org",
+  "ok": false,
+  "n": 0,
+  "ms": 4436
+ },
+ {
+  "guid": "e331d9e1-168e-5469-aae8-1657bfed725a",
+  "name": "European Alternatives",
+  "url": "https://european-alternatives.eu",
+  "ok": true,
+  "n": 15,
+  "ms": 645
+ },
+ {
+  "guid": "1bb308c8-c45a-5bff-af24-31068aa134c2",
+  "name": "SpotSaaS",
+  "url": "https://spotsaas.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 107
+ },
+ {
+  "guid": "7d25afdd-56b6-596e-adce-62e5942ebd88",
+  "name": "PeerSpot",
+  "url": "https://peerspot.com",
+  "ok": true,
+  "n": 10,
+  "ms": 515
+ },
+ {
+  "guid": "89973843-9c03-51e6-add0-34cf1ee2d3bc",
+  "name": "SoftwareWorld",
+  "url": "https://softwareworld.co",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 155
+ },
+ {
+  "guid": "69410ce7-7345-5e71-a5c4-cfc63a0c6c27",
+  "name": "Open Source Alternative To",
+  "url": "https://opensourcealternative.to",
+  "ok": true,
+  "n": 20,
+  "ms": 1700
+ },
+ {
+  "guid": "ea9a2a4e-fd75-50aa-8b3e-b55b56998040",
+  "name": "ITQlick",
+  "url": "https://itqlick.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 69
+ },
+ {
+  "guid": "ac7d81d1-185b-5afd-851d-a7253cbed0b9",
+  "name": "CompareCamp",
+  "url": "https://comparecamp.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 87
+ },
+ {
+  "guid": "e6a00978-3232-52be-9c1f-fcfe8853be75",
+  "name": "Thingtesting",
+  "url": "https://thingtesting.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 44
+ },
+ {
+  "guid": "79943f44-ca71-5f4f-8e1e-62046741613e",
+  "name": "Trustpilot",
+  "url": "https://trustpilot.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 525
+ },
+ {
+  "guid": "ece4c3c2-8475-51e9-b630-5c10ffb94138",
+  "name": "SelectHub",
+  "url": "https://selecthub.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 578
+ },
+ {
+  "guid": "13c67a31-7837-50ee-bfb6-374ee6d62a90",
+  "name": "There's An AI For That",
+  "url": "https://theresanaiforthat.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 57
+ },
+ {
+  "guid": "36955cec-4273-50e8-999d-77168276de6c",
+  "name": "Cuspera",
+  "url": "https://cuspera.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 500",
+  "ms": 182
+ },
+ {
+  "guid": "38cb1189-adc5-5795-a583-98a099c09870",
+  "name": "OMR Reviews",
+  "url": "https://omr.com/en/reviews",
+  "ok": true,
+  "n": 20,
+  "ms": 189
+ },
+ {
+  "guid": "f2886e67-c508-5fd6-a42c-dd70bbdb268d",
+  "name": "Tekpon",
+  "url": "https://tekpon.com",
+  "ok": true,
+  "n": 20,
+  "ms": 523
+ },
+ {
+  "guid": "5b0f23b8-54bc-50f4-91b4-35af0519be74",
+  "name": "SideHunt",
+  "url": "https://sidehunt.io",
+  "ok": true,
+  "n": 20,
+  "ms": 4089
+ },
+ {
+  "guid": "5a575de8-252e-5277-aa02-8c5a05fa9253",
+  "name": "Toolify.ai",
+  "url": "https://toolify.ai",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 92
+ },
+ {
+  "guid": "f38a8e57-474d-5528-adb8-16429c22b06e",
+  "name": "TopAI.tools",
+  "url": "https://topai.tools",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 60
+ },
+ {
+  "guid": "0ab807b5-77b5-53eb-a925-4db2b24a250e",
+  "name": "SoftwareSuggest",
+  "url": "https://softwaresuggest.com",
+  "ok": true,
+  "n": 20,
+  "ms": 341
+ },
+ {
+  "guid": "06d19764-01b5-5351-a972-0935900e52af",
+  "name": "aitools.fyi",
+  "url": "https://aitools.fyi",
+  "ok": true,
+  "n": 15,
+  "ms": 142
+ },
+ {
+  "guid": "59a7240b-177f-516d-8c1c-19dfa8ef1bdc",
+  "name": "AI Tools Directory",
+  "url": "https://aitoolsdirectory.com",
+  "ok": true,
+  "n": 20,
+  "ms": 258
+ },
+ {
+  "guid": "188117e1-3dd1-512d-b336-851ac5f515b6",
+  "name": "FeaturedCustomers",
+  "url": "https://featuredcustomers.com",
+  "ok": true,
+  "n": 20,
+  "ms": 834
+ },
+ {
+  "guid": "1feeece3-5d0c-5361-ae90-531233f6294f",
+  "name": "Dang.ai",
+  "url": "https://dang.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 270
+ },
+ {
+  "guid": "cf79a804-da25-5f2b-90c8-b43977fa5247",
+  "name": "OpenTools",
+  "url": "https://opentools.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 200
+ },
+ {
+  "guid": "39ad1d45-6284-5250-8007-c45462cf17be",
+  "name": "Easy With AI",
+  "url": "https://easywithai.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 80
+ },
+ {
+  "guid": "41874eca-e428-5152-ac49-318f79b6ab2c",
+  "name": "Insidr.ai",
+  "url": "https://insidr.ai",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 404",
+  "ms": 339
+ },
+ {
+  "guid": "e1a18efc-137b-5b71-8b05-753f0762dc4a",
+  "name": "AIToolNet",
+  "url": "https://aitoolnet.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 82
+ },
+ {
+  "guid": "83893767-0456-58fe-bdf3-1f952329ae34",
+  "name": "B2B Stack",
+  "url": "https://b2bstack.com.br",
+  "ok": true,
+  "n": 3,
+  "ms": 630
+ },
+ {
+  "guid": "5593eef7-ba34-5cac-b334-46951f106c89",
+  "name": "Future Tools",
+  "url": "https://futuretools.io",
+  "ok": true,
+  "n": 20,
+  "ms": 533
+ },
+ {
+  "guid": "f72a49b7-dc11-5376-a636-f5d06e87bdca",
+  "name": "AI Agents Directory",
+  "url": "https://aiagentsdirectory.com",
+  "ok": true,
+  "n": 20,
+  "ms": 136
+ },
+ {
+  "guid": "be4f52b9-c2e8-52af-9a7c-adf54230535f",
+  "name": "Aixploria",
+  "url": "https://aixploria.com/en",
+  "ok": true,
+  "n": 10,
+  "ms": 347
+ },
+ {
+  "guid": "5f0c159a-dbce-5d51-a347-5ee3f0a06825",
+  "name": "AI Search (ai-search.io)",
+  "url": "https://ai-search.io",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 429",
+  "ms": 134
+ },
+ {
+  "guid": "50c55728-8883-51d1-b4ac-b89284f5869d",
+  "name": "Altern",
+  "url": "https://altern.ai",
+  "ok": true,
+  "n": 17,
+  "ms": 596
+ },
+ {
+  "guid": "a8aa2f13-0034-59dd-b818-2256cd71a83c",
+  "name": "Webcurate",
+  "url": "https://webcurate.co",
+  "ok": true,
+  "n": 20,
+  "ms": 2077
+ },
+ {
+  "guid": "40ca3300-eafe-5f95-b9da-e56a093fad0e",
+  "name": "EveryDev.ai",
+  "url": "https://everydev.ai",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 429",
+  "ms": 168
+ },
+ {
+  "guid": "e8e9475e-d0c6-5748-9708-3609a21b674e",
+  "name": "AIPURE",
+  "url": "https://aipure.ai",
+  "ok": true,
+  "n": 5,
+  "ms": 767
+ },
+ {
+  "guid": "091c3335-f479-5480-9ed4-f5d43f1e9cf8",
+  "name": "AI Agent Store",
+  "url": "https://aiagentstore.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 855
+ },
+ {
+  "guid": "8a2b2f04-2bc7-50bc-af72-eae2cebacf56",
+  "name": "Futurepedia",
+  "url": "https://futurepedia.io",
+  "ok": false,
+  "n": 0,
+  "ms": 1488
+ },
+ {
+  "guid": "e464d402-db21-51f5-9854-edb886eabe50",
+  "name": "ToolPilot",
+  "url": "https://toolpilot.ai",
+  "ok": false,
+  "n": 0,
+  "ms": 1513
+ },
+ {
+  "guid": "76a729e7-b744-51d3-b1c6-6764041b1f60",
+  "name": "新趣集 (Xinquji)",
+  "url": "https://xinquji.com",
+  "ok": true,
+  "n": 20,
+  "ms": 5192
+ },
+ {
+  "guid": "17f55fdf-a3b4-5a6c-abad-f49a419a8e87",
+  "name": "Toolkitly",
+  "url": "https://toolkitly.com",
+  "ok": true,
+  "n": 6,
+  "ms": 1324
+ },
+ {
+  "guid": "7c554ea0-17b6-5664-98ac-9f57d69edcc1",
+  "name": "Phygital+ AI Library",
+  "url": "https://library.phygital.plus",
+  "ok": false,
+  "n": 0,
+  "ms": 1451
+ },
+ {
+  "guid": "1c10b48e-5e81-54a9-bfea-001d08903147",
+  "name": "mcp.so",
+  "url": "https://mcp.so",
+  "ok": true,
+  "n": 20,
+  "ms": 233
+ },
+ {
+  "guid": "91388278-d422-5f38-aec5-0a9ef4971860",
+  "name": "MCP Market",
+  "url": "https://mcpmarket.com",
+  "ok": true,
+  "n": 6,
+  "ms": 218
+ },
+ {
+  "guid": "441a4c3e-66ac-56b4-b3ea-ecb4e9c7d8f1",
+  "name": "Smithery",
+  "url": "https://smithery.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 351
+ },
+ {
+  "guid": "d8037391-9e8e-5434-800e-202fa7cfd4b3",
+  "name": "SaaS AI Tools",
+  "url": "https://saasaitools.com",
+  "ok": true,
+  "n": 12,
+  "ms": 1516
+ },
+ {
+  "guid": "8589bf1c-93e7-531f-8636-34e05776d70d",
+  "name": "Glama MCP",
+  "url": "https://glama.ai/mcp/servers",
+  "ok": true,
+  "n": 20,
+  "ms": 393
+ },
+ {
+  "guid": "ac533b6c-b484-5277-9478-3830322a26dd",
+  "name": "Wellfound (原 AngelList Talent)",
+  "url": "https://wellfound.com",
+  "ok": true,
+  "n": 18,
+  "ms": 80
+ },
+ {
+  "guid": "8abca06f-fd65-5c4a-ad9b-79471542e1e1",
+  "name": "StartupBlink",
+  "url": "https://startupblink.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 50
+ },
+ {
+  "guid": "67876704-4fcc-5d33-a296-4cbfd86858c1",
+  "name": "Startup Stash",
+  "url": "https://startupstash.com",
+  "ok": true,
+  "n": 20,
+  "ms": 87
+ },
+ {
+  "guid": "c2d02dc4-e96e-5c6c-8ec8-03e9b9ffa48b",
+  "name": "Crunchbase",
+  "url": "https://crunchbase.com",
+  "ok": true,
+  "n": 20,
+  "ms": 212
+ },
+ {
+  "guid": "5fdb88f7-310f-57ee-97b2-cb91ddd015d9",
+  "name": "Startup Ranking",
+  "url": "https://startupranking.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 45
+ },
+ {
+  "guid": "022e8e04-972f-5e4b-b3f1-fbb302f52617",
+  "name": "Tracxn",
+  "url": "https://tracxn.com",
+  "ok": true,
+  "n": 10,
+  "ms": 64
+ },
+ {
+  "guid": "e303541d-2ebc-50d0-8d98-4656299e9fa6",
+  "name": "Gust",
+  "url": "https://gust.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 73
+ },
+ {
+  "guid": "74b82285-15bb-5f5b-a7d1-0de674b5d7b8",
+  "name": "Startup Buffer",
+  "url": "https://startupbuffer.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 62
+ },
+ {
+  "guid": "82f52e54-e81c-547d-ac3b-7434c317c0be",
+  "name": "Official MCP Registry",
+  "url": "https://registry.modelcontextprotocol.io",
+  "ok": false,
+  "n": 0,
+  "ms": 621
+ },
+ {
+  "guid": "810934eb-d102-597d-8872-c0768edceea1",
+  "name": "Tap4 AI",
+  "url": "https://tap4.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 2327
+ },
+ {
+  "guid": "df5df454-6aa8-5cc9-b75b-16b3b1b4e78d",
+  "name": "Startups Gallery",
+  "url": "https://startups.gallery",
+  "ok": false,
+  "n": 0,
+  "ms": 252
+ },
+ {
+  "guid": "2988888c-a8e1-5f38-8e28-15f0ab84ebaf",
+  "name": "TrustMRR",
+  "url": "https://trustmrr.com",
+  "ok": true,
+  "n": 20,
+  "ms": 234
+ },
+ {
+  "guid": "13453163-548c-5150-b8c7-6819cdc49ee9",
+  "name": "Open Startup List",
+  "url": "https://openstartuplist.com",
+  "ok": true,
+  "n": 19,
+  "ms": 328
+ },
+ {
+  "guid": "863f16cc-02df-5652-b271-62d4c357992d",
+  "name": "Startup Tracker",
+  "url": "https://startuptracker.io",
+  "ok": true,
+  "n": 5,
+  "ms": 132
+ },
+ {
+  "guid": "6f0ba376-8294-5828-903d-ca6c3ab57185",
+  "name": "Twelve Tools",
+  "url": "https://twelve.tools",
+  "ok": true,
+  "n": 11,
+  "ms": 4610
+ },
+ {
+  "guid": "2490f977-2f1d-570c-8139-f446f68c595c",
+  "name": "Indie Hackers 产品库",
+  "url": "https://indiehackers.com/products",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 49
+ },
+ {
+  "guid": "d75859c0-e3b2-537e-97c2-f76b8a377e97",
+  "name": "AI138",
+  "url": "https://ai138.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1715
+ },
+ {
+  "guid": "334d0a8f-75f9-5a98-a2d1-c79908360d24",
+  "name": "AI 工具集 (ai-bot.cn)",
+  "url": "https://ai-bot.cn",
+  "ok": true,
+  "n": 20,
+  "ms": 2289
+ },
+ {
+  "guid": "da03d5ff-7cda-5628-aeee-93a1500da3c7",
+  "name": "Startup Fame",
+  "url": "https://startupfa.me",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 429",
+  "ms": 268
+ },
+ {
+  "guid": "26601023-0e84-575a-80f1-ce8dcbb098a3",
+  "name": "Startups.fyi",
+  "url": "https://startups.fyi",
+  "ok": true,
+  "n": 20,
+  "ms": 394
+ },
+ {
+  "guid": "7cfd888b-644d-5b3c-8bac-bf8692421908",
+  "name": "F6S",
+  "url": "https://f6s.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1386
+ },
+ {
+  "guid": "233b5350-ee9e-56b0-bf66-0e1d936c4864",
+  "name": "Make.rs",
+  "url": "https://make.rs",
+  "ok": true,
+  "n": 20,
+  "ms": 312
+ },
+ {
+  "guid": "27673808-7a91-52aa-8577-65d76cdca87c",
+  "name": "Owler",
+  "url": "https://owler.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1299
+ },
+ {
+  "guid": "bc10c044-561d-59bc-8542-3d3115c1c131",
+  "name": "GetLatka",
+  "url": "https://getlatka.com",
+  "ok": true,
+  "n": 5,
+  "ms": 557
+ },
+ {
+  "guid": "a14a94b9-57a1-5d18-ae2a-25f045533d6f",
+  "name": "Startup.sx",
+  "url": "https://startup.sx",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 429",
+  "ms": 373
+ },
+ {
+  "guid": "718e208a-20df-5890-8e55-641b2371d452",
+  "name": "EU-Startups",
+  "url": "https://eu-startups.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 50
+ },
+ {
+  "guid": "9019d84a-efc5-5912-b13c-62d65fe76abe",
+  "name": "e27",
+  "url": "https://e27.co",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 54
+ },
+ {
+  "guid": "4d104a0e-a6e7-5b81-b6a4-9f4d54f8eb19",
+  "name": "BuildVoyage",
+  "url": "https://buildvoyage.com",
+  "ok": true,
+  "n": 6,
+  "ms": 886
+ },
+ {
+  "guid": "6265acb5-0270-53a6-865e-4ca638705859",
+  "name": "Dealroom",
+  "url": "https://dealroom.co",
+  "ok": true,
+  "n": 4,
+  "ms": 417
+ },
+ {
+  "guid": "e340214f-ba92-5553-8041-da57d01a99ad",
+  "name": "Open Makers",
+  "url": "https://openmakers.io",
+  "ok": true,
+  "n": 20,
+  "ms": 596
+ },
+ {
+  "guid": "0d147722-e443-5184-9544-c422c81f4577",
+  "name": "Startuplist Africa",
+  "url": "https://startuplist.africa",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 429",
+  "ms": 163
+ },
+ {
+  "guid": "f51d9a1d-b5a4-5bbb-b2d9-7858e051464b",
+  "name": "MAGNiTT",
+  "url": "https://magnitt.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 71
+ },
+ {
+  "guid": "049ba029-d8cf-5f0b-9e31-74d33e7a4d3b",
+  "name": "startups.watch",
+  "url": "https://startups.watch",
+  "ok": true,
+  "n": 20,
+  "ms": 599
+ },
+ {
+  "guid": "ab2d754f-a3fb-58ea-ace7-2b7fa76a6e90",
+  "name": "BuiltIn",
+  "url": "https://builtin.com",
+  "ok": true,
+  "n": 20,
+  "ms": 187
+ },
+ {
+  "guid": "60924ea2-67be-5ebd-9d6f-a51285082cd1",
+  "name": "Startup Europe",
+  "url": "https://startupeurope.net",
+  "ok": true,
+  "n": 3,
+  "ms": 770
+ },
+ {
+  "guid": "4945a702-cd19-5de2-b39b-ff8f6108d519",
+  "name": "Indie Hackers",
+  "url": "https://indiehackers.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 67
+ },
+ {
+  "guid": "56805ad5-a6c0-5702-a753-81b038b226ae",
+  "name": "Hacker News – Show HN",
+  "url": "https://news.ycombinator.com/show",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 419",
+  "ms": 238
+ },
+ {
+  "guid": "5eef564e-554b-5ce4-9f25-4745b074bf11",
+  "name": "Techboard",
+  "url": "https://techboard.com.au",
+  "ok": true,
+  "n": 15,
+  "ms": 390
+ },
+ {
+  "guid": "52a8c8ab-6444-58ad-a5cb-edb60170cc80",
+  "name": "Tiny Startups",
+  "url": "https://tinystartups.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2148
+ },
+ {
+  "guid": "1d4a460f-1ddb-5dfb-ab6d-ba32c54cb82c",
+  "name": "Romanian Startups",
+  "url": "https://romanianstartups.com",
+  "ok": true,
+  "n": 10,
+  "ms": 948
+ },
+ {
+  "guid": "29f8e6c1-21e3-5cba-a4ae-af653f3a392a",
+  "name": "Hugging Face Spaces",
+  "url": "https://huggingface.co/spaces",
+  "ok": true,
+  "n": 20,
+  "ms": 517
+ },
+ {
+  "guid": "89dffd80-3152-54d7-b09c-63899bf3af06",
+  "name": "Startup Inspire",
+  "url": "https://startupinspire.com",
+  "ok": false,
+  "n": 0,
+  "ms": 2959
+ },
+ {
+  "guid": "880ec9f4-a50f-5aed-8319-d492f5c35769",
+  "name": "Startup Spotlight",
+  "url": "https://startupspotlight.co",
+  "ok": true,
+  "n": 12,
+  "ms": 1921
+ },
+ {
+  "guid": "7fb1313d-3b15-54cc-b0a7-d57b7be17470",
+  "name": "AIbase",
+  "url": "https://aibase.com",
+  "ok": false,
+  "n": 0,
+  "ms": 4963
+ },
+ {
+  "guid": "c13821b2-93e6-5003-bbaa-78e61e237fb2",
+  "name": "IT桔子",
+  "url": "https://itjuzi.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 412",
+  "ms": 2635
+ },
+ {
+  "guid": "0c5385aa-e68e-55f6-9cb0-6f676914b1a4",
+  "name": "Lobsters",
+  "url": "https://lobste.rs",
+  "ok": true,
+  "n": 20,
+  "ms": 161
+ },
+ {
+  "guid": "8396bc3e-0607-59c0-923d-b5567e2f6196",
+  "name": "DEV Community",
+  "url": "https://dev.to",
+  "ok": true,
+  "n": 11,
+  "ms": 317
+ },
+ {
+  "guid": "515c2482-8769-5236-8056-78484baeb812",
+  "name": "Hashnode",
+  "url": "https://hashnode.com",
+  "ok": true,
+  "n": 20,
+  "ms": 256
+ },
+ {
+  "guid": "3bb848e5-dc36-59bd-ba41-36716b56c7fb",
+  "name": "WIP",
+  "url": "https://wip.co",
+  "ok": false,
+  "n": 0,
+  "ms": 935
+ },
+ {
+  "guid": "38274cce-4373-5808-bd4c-35b24a00d7c8",
+  "name": "Ship or Die",
+  "url": "https://shipordie.club",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 23
+ },
+ {
+  "guid": "6adde172-4090-5928-b5a9-1c565afb0186",
+  "name": "AI 导航 (ainav.cn)",
+  "url": "https://ainav.cn",
+  "ok": true,
+  "n": 12,
+  "ms": 6549
+ },
+ {
+  "guid": "e09ed7ba-d626-5045-ad89-14897c7994dd",
+  "name": "Huzzler",
+  "url": "https://huzzler.so",
+  "ok": true,
+  "n": 20,
+  "ms": 1021
+ },
+ {
+  "guid": "2334b148-d4e5-5c47-ab3f-ef56091e93a6",
+  "name": "V2EX（分享创造）",
+  "url": "https://v2ex.com/go/create",
+  "ok": true,
+  "n": 20,
+  "ms": 297
+ },
+ {
+  "guid": "cd113108-b0f2-526a-9d68-015169c57030",
+  "name": "掘金",
+  "url": "https://juejin.cn",
+  "ok": false,
+  "n": 0,
+  "ms": 1696
+ },
+ {
+  "guid": "bb635af8-1ba6-55d8-9450-9b1786109c66",
+  "name": "AIGC 导航 (aigc.cn)",
+  "url": "https://aigc.cn",
+  "ok": true,
+  "n": 16,
+  "ms": 9367
+ },
+ {
+  "guid": "51a6212d-86b3-51b2-ae39-e649103d2b9c",
+  "name": "即刻",
+  "url": "https://web.okjike.com",
+  "ok": false,
+  "n": 0,
+  "ms": 3075
+ },
+ {
+  "guid": "aa2d5d25-b409-5581-9b85-f61c3a6838b6",
+  "name": "Reddit r/IMadeThis",
+  "url": "https://reddit.com/r/IMadeThis",
+  "ok": false,
+  "n": 0,
+  "ms": 6112
+ },
+ {
+  "guid": "cb0bb90d-47d9-5cc8-b492-67d832f92046",
+  "name": "Reddit r/SideProject",
+  "url": "https://reddit.com/r/SideProject",
+  "ok": false,
+  "n": 0,
+  "ms": 6780
+ },
+ {
+  "guid": "55d07a74-cc67-5f7e-8ff5-b26bc9578f77",
+  "name": "人人都是产品经理",
+  "url": "https://woshipm.com",
+  "ok": true,
+  "n": 15,
+  "ms": 2004
+ },
+ {
+  "guid": "0c89ad2c-55ba-5544-9e22-45b2f9935bd2",
+  "name": "Reddit r/alphaandbetausers",
+  "url": "https://reddit.com/r/alphaandbetausers",
+  "ok": false,
+  "n": 0,
+  "ms": 6643
+ },
+ {
+  "guid": "464df4ea-bdc3-5a7a-9820-a1ad1a448213",
+  "name": "Reddit r/indiehackers",
+  "url": "https://reddit.com/r/indiehackers",
+  "ok": false,
+  "n": 0,
+  "ms": 6563
+ },
+ {
+  "guid": "884d2e20-59e1-5f33-9fd1-b867e48d466c",
+  "name": "Ben's Bites",
+  "url": "https://bensbites.com",
+  "ok": true,
+  "n": 20,
+  "ms": 95
+ },
+ {
+  "guid": "48267bfe-0219-535e-a697-a3e30370d638",
+  "name": "Reddit r/microsaas",
+  "url": "https://reddit.com/r/microsaas",
+  "ok": false,
+  "n": 0,
+  "ms": 6418
+ },
+ {
+  "guid": "1bcba695-4f05-5c87-9313-f298b37488de",
+  "name": "Starter Story",
+  "url": "https://starterstory.com",
+  "ok": true,
+  "n": 18,
+  "ms": 281
+ },
+ {
+  "guid": "ecb3772e-1b92-596e-918e-ab37ec1e2503",
+  "name": "TechCrunch",
+  "url": "https://techcrunch.com",
+  "ok": true,
+  "n": 20,
+  "ms": 52
+ },
+ {
+  "guid": "443b1796-5cf4-5c2c-9894-2631a957da1e",
+  "name": "YourStory",
+  "url": "https://yourstory.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 56
+ },
+ {
+  "guid": "89c9b682-f410-56d5-aba3-c6a3678ea030",
+  "name": "Inc42",
+  "url": "https://inc42.com",
+  "ok": true,
+  "n": 20,
+  "ms": 70
+ },
+ {
+  "guid": "d117d07f-e9a3-54ab-b680-55334f66d64c",
+  "name": "Console.dev",
+  "url": "https://console.dev",
+  "ok": true,
+  "n": 20,
+  "ms": 591
+ },
+ {
+  "guid": "fd843c8f-9bca-5864-81a1-be1e4fabb6e2",
+  "name": "Next Big What",
+  "url": "https://nextbigwhat.com",
+  "ok": true,
+  "n": 10,
+  "ms": 192
+ },
+ {
+  "guid": "658c8128-85bd-5ca8-a4a6-f4d2e2e5d063",
+  "name": "vc.ru",
+  "url": "https://vc.ru",
+  "ok": true,
+  "n": 12,
+  "ms": 1289
+ },
+ {
+  "guid": "bedd3244-a5b2-5e62-859f-a0b03e49a341",
+  "name": "TLDR Newsletter",
+  "url": "https://tldr.tech",
+  "ok": true,
+  "n": 20,
+  "ms": 377
+ },
+ {
+  "guid": "24c6740b-f327-5f97-9f0a-02026467ffb1",
+  "name": "GeekWire Startup List",
+  "url": "https://geekwire.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 103
+ },
+ {
+  "guid": "cfa36ea3-eb46-54d3-b614-48e7c5792d44",
+  "name": "Reddit r/startups",
+  "url": "https://reddit.com/r/startups",
+  "ok": false,
+  "n": 0,
+  "ms": 7589
+ },
+ {
+  "guid": "8fcb4fe6-2317-58b4-9097-5eecdbb7bc44",
+  "name": "异次元软件世界",
+  "url": "https://iplaysoft.com",
+  "ok": true,
+  "n": 20,
+  "ms": 93
+ },
+ {
+  "guid": "826bc1b2-d5d7-5055-9e78-5918027dc7a1",
+  "name": "科技爱好者周刊（阮一峰）",
+  "url": "https://github.com/ruanyf/weekly",
+  "ok": false,
+  "n": 0,
+  "ms": 551
+ },
+ {
+  "guid": "9814d438-b3ab-535c-8582-6c6eba9d9f2a",
+  "name": "酷安",
+  "url": "https://coolapk.com",
+  "ok": false,
+  "n": 0,
+  "ms": 2255
+ },
+ {
+  "guid": "8567bf18-3157-5a3b-9211-2dccb58c1d3c",
+  "name": "小众软件",
+  "url": "https://appinn.com",
+  "ok": true,
+  "n": 10,
+  "ms": 763
+ },
+ {
+  "guid": "6a968280-dbb7-5074-8a07-4a4f4422f848",
+  "name": "Reddit r/SaaS",
+  "url": "https://reddit.com/r/SaaS",
+  "ok": false,
+  "n": 0,
+  "ms": 8332
+ },
+ {
+  "guid": "cdc1a5fe-5953-5372-9849-43b702b767ef",
+  "name": "SegmentFault 思否",
+  "url": "https://segmentfault.com",
+  "ok": true,
+  "n": 20,
+  "ms": 5145
+ },
+ {
+  "guid": "98ed7303-7abf-5b1b-afb0-eda2b9a37e47",
+  "name": "反斗软件",
+  "url": "https://apprcn.com",
+  "ok": true,
+  "n": 3,
+  "ms": 960
+ },
+ {
+  "guid": "1ccfe674-269d-5db6-8949-63332cfd3521",
+  "name": "StackShare",
+  "url": "https://stackshare.io",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 429",
+  "ms": 217
+ },
+ {
+  "guid": "e34819cf-6d0c-52f1-8fbd-150f64dc831b",
+  "name": "Pandaily",
+  "url": "https://pandaily.com",
+  "ok": false,
+  "n": 0,
+  "ms": 247
+ },
+ {
+  "guid": "b5b4d75b-f3e5-56d0-b4ce-8ae22979239c",
+  "name": "Reddit r/EntrepreneurRideAlong",
+  "url": "https://reddit.com/r/EntrepreneurRideAlong",
+  "ok": false,
+  "n": 0,
+  "ms": 7901
+ },
+ {
+  "guid": "8e3547c3-a44d-5bf4-8f70-399fdb66fb56",
+  "name": "鸟哥笔记",
+  "url": "https://niaogebiji.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2474
+ },
+ {
+  "guid": "8dcab69f-4660-5bd8-ac12-1c72aff44872",
+  "name": "TechNode 动点科技",
+  "url": "https://technode.com",
+  "ok": true,
+  "n": 20,
+  "ms": 573
+ },
+ {
+  "guid": "90ac42f4-d44f-5ed5-92e4-6b06569c7b06",
+  "name": "少数派",
+  "url": "https://sspai.com",
+  "ok": true,
+  "n": 10,
+  "ms": 1498
+ },
+ {
+  "guid": "2c551857-f11d-56d7-aa62-5ecff635bff9",
+  "name": "LibHunt",
+  "url": "https://libhunt.com",
+  "ok": true,
+  "n": 20,
+  "ms": 215
+ },
+ {
+  "guid": "fab749bc-2f8d-5697-a505-1467335bccfa",
+  "name": "Dev Resources",
+  "url": "https://devresourc.es",
+  "ok": true,
+  "n": 20,
+  "ms": 224
+ },
+ {
+  "guid": "48015625-e23d-525d-b66a-8dbc330eb75c",
+  "name": "Awesome Lists (sindresorhus/awesome)",
+  "url": "https://github.com/sindresorhus/awesome",
+  "ok": false,
+  "n": 0,
+  "ms": 566
+ },
+ {
+  "guid": "255e38d4-5904-51e5-8045-b075816de5a4",
+  "name": "爱范儿",
+  "url": "https://ifanr.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1432
+ },
+ {
+  "guid": "d02f212a-0e23-5860-ae8a-caa932e65c2b",
+  "name": "Land-book",
+  "url": "https://land-book.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 100
+ },
+ {
+  "guid": "d13306d9-438d-55b7-8dcf-c01ebba9d523",
+  "name": "Spectacle (StartupVideos)",
+  "url": "https://startupvideos.com",
+  "ok": true,
+  "n": 20,
+  "ms": 208
+ },
+ {
+  "guid": "8bf40e4c-905f-5168-8475-d467bcd92b35",
+  "name": "Saaspo",
+  "url": "https://saaspo.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 118
+ },
+ {
+  "guid": "41b36875-1233-5e5f-92c2-758aabdfdefc",
+  "name": "awesome-selfhosted",
+  "url": "https://awesome-selfhosted.net",
+  "ok": true,
+  "n": 20,
+  "ms": 1061
+ },
+ {
+  "guid": "a9a01f96-c4c0-5df3-ae32-5e200d396e71",
+  "name": "Lapa Ninja",
+  "url": "https://lapa.ninja",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 106
+ },
+ {
+  "guid": "f09db0c5-cbb6-5878-a0d2-278975cc7c43",
+  "name": "One Page Love",
+  "url": "https://onepagelove.com",
+  "ok": true,
+  "n": 10,
+  "ms": 365
+ },
+ {
+  "guid": "27914504-07ae-56e3-b801-a5ffb051957c",
+  "name": "产品沉思录",
+  "url": "https://pmthinking.com",
+  "ok": false,
+  "n": 0,
+  "ms": 2516
+ },
+ {
+  "guid": "b7308c88-3359-523e-a277-9ac51b6bc01a",
+  "name": "Landingfolio",
+  "url": "https://landingfolio.com",
+  "ok": true,
+  "n": 20,
+  "ms": 533
+ },
+ {
+  "guid": "ceab9ea7-ab81-50cc-9b2d-191906c61954",
+  "name": "GitHub Trending / Topics",
+  "url": "https://github.com/trending",
+  "ok": true,
+  "n": 12,
+  "ms": 1319
+ },
+ {
+  "guid": "1f9c87f2-d7eb-5494-98bf-e7c0d682434f",
+  "name": "Softonic",
+  "url": "https://en.softonic.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 412",
+  "ms": 60
+ },
+ {
+  "guid": "d95a1ae8-4d92-55f2-ad54-930bb782b597",
+  "name": "极客公园",
+  "url": "https://geekpark.net",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 2077
+ },
+ {
+  "guid": "58a6995b-18d9-5e63-bb3b-18928089c5c9",
+  "name": "Curated.design",
+  "url": "https://curated.design",
+  "ok": true,
+  "n": 8,
+  "ms": 323
+ },
+ {
+  "guid": "b80205e3-2552-5ab1-8e36-57a26631fb52",
+  "name": "Uptodown",
+  "url": "https://en.uptodown.com",
+  "ok": true,
+  "n": 20,
+  "ms": 222
+ },
+ {
+  "guid": "fc2a9129-bf40-50db-b820-611ad8aaa303",
+  "name": "Softpedia",
+  "url": "https://softpedia.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 344
+ },
+ {
+  "guid": "d481a1b0-be7c-5143-aa76-57302f5bf13e",
+  "name": "MacUpdate",
+  "url": "https://macupdate.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 405",
+  "ms": 140
+ },
+ {
+  "guid": "62edb8ab-093f-5c71-b331-ba54710b3e76",
+  "name": "FileHorse",
+  "url": "https://filehorse.com",
+  "ok": true,
+  "n": 10,
+  "ms": 147
+ },
+ {
+  "guid": "5fdb89f0-e886-5a54-a0c7-39419eb2dd72",
+  "name": "Makerpad",
+  "url": "https://makerpad.co",
+  "ok": true,
+  "n": 5,
+  "ms": 603
+ },
+ {
+  "guid": "3d2070f1-f124-57f4-90a6-c29dc4406df6",
+  "name": "Awwwards",
+  "url": "https://awwwards.com",
+  "ok": true,
+  "n": 20,
+  "ms": 909
+ },
+ {
+  "guid": "ecb668d1-dab8-5982-9b30-11e573cab5aa",
+  "name": "Chrome Web Store",
+  "url": "https://chromewebstore.google.com",
+  "ok": true,
+  "n": 3,
+  "ms": 296
+ },
+ {
+  "guid": "a741f308-6583-5af0-9962-35d3d18a0d1e",
+  "name": "SideProjectors",
+  "url": "https://sideprojectors.com",
+  "ok": true,
+  "n": 20,
+  "ms": 402
+ },
+ {
+  "guid": "be9f0fd6-e879-53c7-8a41-a975bff3b043",
+  "name": "HelloGitHub",
+  "url": "https://hellogithub.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1872
+ },
+ {
+  "guid": "b76019ae-9696-550f-a9a1-34453892b33f",
+  "name": "Raycast Store",
+  "url": "https://raycast.com/store",
+  "ok": true,
+  "n": 20,
+  "ms": 255
+ },
+ {
+  "guid": "ad5c9267-0843-5c89-99a3-974177c51fbe",
+  "name": "Setapp",
+  "url": "https://setapp.com",
+  "ok": true,
+  "n": 18,
+  "ms": 271
+ },
+ {
+  "guid": "25250869-5743-54c7-b369-5cdbf088bcd4",
+  "name": "HHLink",
+  "url": "https://hhlink.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 500",
+  "ms": 209
+ },
+ {
+  "guid": "c31f5e8b-2647-5280-9a3e-77eca6401c36",
+  "name": "SaaS Landing Page",
+  "url": "https://saaslandingpage.com",
+  "ok": true,
+  "n": 10,
+  "ms": 1547
+ },
+ {
+  "guid": "b1fa1920-35d1-50ba-b2fb-0450e2e056fc",
+  "name": "AppSumo",
+  "url": "https://appsumo.com",
+  "ok": true,
+  "n": 9,
+  "ms": 1087
+ },
+ {
+  "guid": "fc665744-bfb2-5245-a24a-bedeb4e08a2b",
+  "name": "Indie Deals",
+  "url": "https://indie.deals",
+  "ok": true,
+  "n": 3,
+  "ms": 746
+ },
+ {
+  "guid": "62c63b7b-aca3-52d5-806c-11646e80368f",
+  "name": "果核剥壳",
+  "url": "https://ghxi.com",
+  "ok": true,
+  "n": 10,
+  "ms": 1475
+ },
+ {
+  "guid": "705ae9f4-fcbc-410e-8331-6997366006b0",
+  "name": "10015 Tools",
+  "url": "https://10015.io",
+  "ok": true,
+  "n": 20,
+  "ms": 790
+ },
+ {
+  "guid": "7d507fcd-64d4-498f-934d-a5860a0b4047",
+  "name": "247webdirectory.com",
+  "url": "https://247webdirectory.com",
+  "ok": true,
+  "n": 16,
+  "ms": 749
+ },
+ {
+  "guid": "285e4546-a501-44b7-b7ba-43a160a75685",
+  "name": "acidtools.com",
+  "url": "https://acidtools.com",
+  "ok": true,
+  "n": 20,
+  "ms": 472
+ },
+ {
+  "guid": "aabfb747-ada5-43d9-9194-e46c04d9f0bc",
+  "name": "360Quadrants",
+  "url": "https://360quadrants.com",
+  "ok": true,
+  "n": 5,
+  "ms": 667
+ },
+ {
+  "guid": "b0eb32b7-b5aa-52e2-a9ae-29357567c88c",
+  "name": "Gitee",
+  "url": "https://gitee.com",
+  "ok": true,
+  "n": 8,
+  "ms": 3746
+ },
+ {
+  "guid": "23a4b778-3905-4223-862a-4acffcceb813",
+  "name": "Add AI Directory",
+  "url": "https://addaidirectory.com",
+  "ok": true,
+  "n": 3,
+  "ms": 1038
+ },
+ {
+  "guid": "d5daecb1-61bf-481b-94cb-2d84d36e2589",
+  "name": "AI-Tools Directory",
+  "url": "https://ai-tools.directory",
+  "ok": true,
+  "n": 20,
+  "ms": 891
+ },
+ {
+  "guid": "4760b1fa-b992-5bdf-8fe6-268743ec1b76",
+  "name": "FWOL 分类目录",
+  "url": "https://fwol.cn",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 2574
+ },
+ {
+  "guid": "05d1b21e-c518-4a6b-b22d-bc072044f772",
+  "name": "AgentHunter",
+  "url": "https://agenthunter.io",
+  "ok": true,
+  "n": 4,
+  "ms": 1790
+ },
+ {
+  "guid": "fbd2acd9-dcdf-4efc-8572-ecbfa5d598f3",
+  "name": "A1 Gallery",
+  "url": "https://a1.gallery",
+  "ok": false,
+  "n": 0,
+  "ms": 2488
+ },
+ {
+  "guid": "6cd35036-e99f-402c-9e57-cca28e526dda",
+  "name": "AgentMRR",
+  "url": "https://agentmrr.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1903
+ },
+ {
+  "guid": "e953783a-5df3-4545-a6bf-395bc90fe537",
+  "name": "AI Agents List",
+  "url": "https://aiagentslist.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1443
+ },
+ {
+  "guid": "c045cf1d-a7e5-4db7-b20c-7bb5a65e2c47",
+  "name": "AI Corner",
+  "url": "https://aicorner.net",
+  "ok": false,
+  "n": 0,
+  "ms": 658
+ },
+ {
+  "guid": "b881dfc9-12ec-4da7-8e54-464f1754dc6a",
+  "name": "AIcyclopedia",
+  "url": "https://aicyclopedia.com",
+  "ok": true,
+  "n": 10,
+  "ms": 557
+ },
+ {
+  "guid": "3049d011-e4c3-41f0-a26c-e70a14b2e156",
+  "name": "AI Agents Live",
+  "url": "https://aiagentslive.com",
+  "ok": true,
+  "n": 15,
+  "ms": 1732
+ },
+ {
+  "guid": "31341d4b-f014-40f5-9a88-f0573db05696",
+  "name": "Affiliate Watch",
+  "url": "https://affiliate.watch",
+  "ok": false,
+  "n": 0,
+  "ms": 3120
+ },
+ {
+  "guid": "4014ce64-3f85-5888-b8e2-e9a2c0de0d37",
+  "name": "36氪",
+  "url": "https://36kr.com",
+  "ok": false,
+  "n": 0,
+  "ms": 7738
+ },
+ {
+  "guid": "5fb5ee23-fd33-4794-89b3-e6daf09fabf8",
+  "name": "AI Headshot Hub",
+  "url": "https://aiheadshothub.com",
+  "ok": true,
+  "n": 10,
+  "ms": 886
+ },
+ {
+  "guid": "1e7bbaf2-1d69-4a3e-940b-09396f97a855",
+  "name": "AI For Developers",
+  "url": "https://aifordevelopers.org",
+  "ok": false,
+  "n": 0,
+  "ms": 1228
+ },
+ {
+  "guid": "3f44191c-1414-4ab8-a44f-c7b18a94af89",
+  "name": "AI Hubs",
+  "url": "https://aihubs.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 674
+ },
+ {
+  "guid": "faf0f7ca-fc62-440a-8ad9-2d2a04425cf0",
+  "name": "AI Directories",
+  "url": "https://aidirectori.es",
+  "ok": true,
+  "n": 13,
+  "ms": 1572
+ },
+ {
+  "guid": "a0f685aa-adda-4004-9282-1e7f4cee534f",
+  "name": "aiopenminds.com",
+  "url": "https://aiopenminds.com",
+  "ok": false,
+  "n": 0,
+  "ms": 393
+ },
+ {
+  "guid": "21c1b53d-ad3d-4ea6-871f-e53be510123c",
+  "name": "AI Resource Pro",
+  "url": "https://airesourcepro.com",
+  "ok": true,
+  "n": 8,
+  "ms": 272
+ },
+ {
+  "guid": "c673d45e-5335-4de4-a9cd-6189e9fb207a",
+  "name": "AI Resource Pro",
+  "url": "https://airesource.pro",
+  "ok": true,
+  "n": 8,
+  "ms": 513
+ },
+ {
+  "guid": "3c64103b-5aa9-42ea-aa11-d9493a96476c",
+  "name": "AI Tech Viral",
+  "url": "https://aitechviral.com",
+  "ok": true,
+  "n": 20,
+  "ms": 364
+ },
+ {
+  "guid": "ce7957ad-11ad-4045-95a7-3e6a77bc8fe9",
+  "name": "AiMatchPro",
+  "url": "https://aimatch.pro",
+  "ok": true,
+  "n": 12,
+  "ms": 992
+ },
+ {
+  "guid": "34a733e5-77e7-4b7e-9eae-14df3f3ae7d1",
+  "name": "Airtable Marketplace",
+  "url": "https://airtable.com",
+  "ok": true,
+  "n": 20,
+  "ms": 601
+ },
+ {
+  "guid": "257361af-fdbe-4643-aeb4-8a3366191040",
+  "name": "ainave",
+  "url": "https://ainave.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1626
+ },
+ {
+  "guid": "f05bfff4-c85c-4976-abd3-f4643df68415",
+  "name": "AI Hunt List",
+  "url": "https://aihuntlist.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1916
+ },
+ {
+  "guid": "9fec396c-f908-4fb6-870a-12e7d8cae2b2",
+  "name": "AIToolsCapital",
+  "url": "https://aitoolscapital.com",
+  "ok": true,
+  "n": 8,
+  "ms": 717
+ },
+ {
+  "guid": "c85707b4-a19b-45f5-982e-5cdf6359fc2a",
+  "name": "AI Tools Arena",
+  "url": "https://aitoolsarena.com",
+  "ok": true,
+  "n": 8,
+  "ms": 1763
+ },
+ {
+  "guid": "b811716e-0495-4229-9cf3-6300aa80a3b1",
+  "name": "AiToolex",
+  "url": "https://aitoolex.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2038
+ },
+ {
+  "guid": "4246037d-4dfd-4558-9eed-76c87f859c5b",
+  "name": "AI Center",
+  "url": "https://aicenter.ai",
+  "ok": false,
+  "n": 0,
+  "ms": 5284
+ },
+ {
+  "guid": "56fbccba-02b5-42ee-a68d-c5f6fdcc9e0e",
+  "name": "Aidirs",
+  "url": "https://aidirs.best",
+  "ok": true,
+  "n": 20,
+  "ms": 4339
+ },
+ {
+  "guid": "16163148-7354-4e76-861c-06cd934291d5",
+  "name": "AI Tools",
+  "url": "https://aitools.inc",
+  "ok": false,
+  "n": 0,
+  "ms": 2151
+ },
+ {
+  "guid": "404d7538-02ef-4a1d-ae7f-32837fee9993",
+  "name": "AI Tools For Me",
+  "url": "https://aitoolsforme.com",
+  "ok": true,
+  "n": 20,
+  "ms": 875
+ },
+ {
+  "guid": "2d1fa96c-880d-56e5-9410-48549605700c",
+  "name": "虎嗅",
+  "url": "https://huxiu.com",
+  "ok": true,
+  "n": 8,
+  "ms": 10603
+ },
+ {
+  "guid": "b700934f-15e9-5203-a394-c1caf5d37139",
+  "name": "开源中国 OSCHINA",
+  "url": "https://oschina.net",
+  "ok": false,
+  "n": 0,
+  "ms": 9948
+ },
+ {
+  "guid": "beef513f-5118-4d7a-a119-7754435ea10b",
+  "name": "AI Tools Saver",
+  "url": "https://aitoolsaver.com",
+  "ok": true,
+  "n": 5,
+  "ms": 2171
+ },
+ {
+  "guid": "bbecc33c-aef5-417d-937a-4a22890c9fc7",
+  "name": "Aitoptools",
+  "url": "https://aitoptools.com",
+  "ok": true,
+  "n": 20,
+  "ms": 625
+ },
+ {
+  "guid": "9365e64b-3b36-4aa3-93d8-f3b077ae64e2",
+  "name": "AI With Me",
+  "url": "https://aiwith.me",
+  "ok": true,
+  "n": 20,
+  "ms": 502
+ },
+ {
+  "guid": "1b2fcdf9-4a38-4f53-9b63-f7c5185d318c",
+  "name": "AIToolsHunt",
+  "url": "https://aitoolshunt.com",
+  "ok": true,
+  "n": 7,
+  "ms": 1292
+ },
+ {
+  "guid": "7b3c8c17-5937-4375-a8d8-e7b280ec6838",
+  "name": "AIx Collection",
+  "url": "https://aixcollection.com",
+  "ok": true,
+  "n": 20,
+  "ms": 371
+ },
+ {
+  "guid": "6af3ba16-587d-4334-94d0-072e4176b3dc",
+  "name": "Alternatives.co",
+  "url": "https://alternatives.co",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 320
+ },
+ {
+  "guid": "e09ad239-dada-4c83-bc79-7d2618e41315",
+  "name": "AI Toolz Dir",
+  "url": "https://aitoolzdir.com",
+  "ok": true,
+  "n": 10,
+  "ms": 1259
+ },
+ {
+  "guid": "d45ab2f6-950f-4089-a404-afcde5088867",
+  "name": "aigclist.com",
+  "url": "https://aigclist.com",
+  "ok": true,
+  "n": 20,
+  "ms": 5600
+ },
+ {
+  "guid": "e64c2a47-8f30-418b-85ce-b0467dd23dca",
+  "name": "AI Tool Trek",
+  "url": "https://aitooltrek.com",
+  "ok": true,
+  "n": 18,
+  "ms": 1422
+ },
+ {
+  "guid": "5440ac15-995f-481d-91f2-f86c9081aaea",
+  "name": "Agni",
+  "url": "https://angi.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 149
+ },
+ {
+  "guid": "af6cc27e-34bd-441c-8edc-3031eae797a2",
+  "name": "AppLauncher",
+  "url": "https://applauncher.io",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 120
+ },
+ {
+  "guid": "5737d09d-95a9-4b79-bbe7-ede3b0fbfa10",
+  "name": "Appscribed",
+  "url": "https://appscribed.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 64
+ },
+ {
+  "guid": "cb3598a4-2896-4298-b87c-4ef52b4fcafd",
+  "name": "AppaList",
+  "url": "https://appalist.com",
+  "ok": false,
+  "n": 0,
+  "ms": 433
+ },
+ {
+  "guid": "3e42ad31-5260-4ccc-b953-d5fe2fea3999",
+  "name": "Ankore",
+  "url": "https://ankore.io",
+  "ok": true,
+  "n": 20,
+  "ms": 619
+ },
+ {
+  "guid": "3bcf3c6f-ec47-4813-b220-b58073c59eca",
+  "name": "AI Tools Magazine",
+  "url": "https://aitoolsmagazine.com",
+  "ok": true,
+  "n": 9,
+  "ms": 2086
+ },
+ {
+  "guid": "741407c6-217a-4a88-8d41-61bf98070eb7",
+  "name": "Awesome Directories",
+  "url": "https://awesome-directories.com",
+  "ok": true,
+  "n": 4,
+  "ms": 155
+ },
+ {
+  "guid": "8e2adf64-3355-4609-ba02-6d349654dcbe",
+  "name": "Appvizer",
+  "url": "https://appvizer.com",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 472
+ },
+ {
+  "guid": "72eafd5f-fd71-4bf2-a156-f4624c6a66de",
+  "name": "AngelList",
+  "url": "https://angel.co",
+  "ok": true,
+  "n": 18,
+  "ms": 1099
+ },
+ {
+  "guid": "f343588d-c0cf-4a1d-9ecf-841e2f389ff5",
+  "name": "Astro Growth",
+  "url": "https://astrogrowth.com",
+  "ok": true,
+  "n": 10,
+  "ms": 371
+ },
+ {
+  "guid": "8347d9ff-d4c1-4b97-865e-b86529a9123e",
+  "name": "AIWget",
+  "url": "https://aiwget.com",
+  "ok": true,
+  "n": 6,
+  "ms": 1994
+ },
+ {
+  "guid": "ca421926-b86d-4a2c-b9e2-0de1440bdeca",
+  "name": "Ant Directory",
+  "url": "https://antdirectory.com",
+  "ok": true,
+  "n": 2,
+  "ms": 1076
+ },
+ {
+  "guid": "c8225fb4-942d-48f2-b406-cb9ea21bf30c",
+  "name": "AI Tools SME",
+  "url": "https://aitoolssme.com",
+  "ok": true,
+  "n": 4,
+  "ms": 2657
+ },
+ {
+  "guid": "a67165cf-bd2e-4dfd-b5da-3a61eacce5ce",
+  "name": "Better Buys",
+  "url": "https://betterbuys.com",
+  "ok": true,
+  "n": 10,
+  "ms": 214
+ },
+ {
+  "guid": "93242223-702c-4876-88e7-e1b369de05d7",
+  "name": "Awesome Indie",
+  "url": "https://awesomeindie.com",
+  "ok": true,
+  "n": 20,
+  "ms": 787
+ },
+ {
+  "guid": "64491033-94d3-4018-ab66-2f1f809ad465",
+  "name": "Awesome Tools",
+  "url": "https://awesome.tools",
+  "ok": true,
+  "n": 20,
+  "ms": 918
+ },
+ {
+  "guid": "a5c31c38-3d86-4df2-8008-bd89765d6c58",
+  "name": "AZN8",
+  "url": "https://azn8.com",
+  "ok": true,
+  "n": 20,
+  "ms": 838
+ },
+ {
+  "guid": "b662b471-c060-4c12-9d83-150b6de75069",
+  "name": "Best of AI",
+  "url": "https://bestofai.io",
+  "ok": true,
+  "n": 20,
+  "ms": 703
+ },
+ {
+  "guid": "67f24eb6-e094-4085-979d-800413e344d5",
+  "name": "BetaBoard",
+  "url": "https://beehiiv.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1087
+ },
+ {
+  "guid": "eb6a6905-2764-4667-91a8-b84f49b17a25",
+  "name": "Based Tools",
+  "url": "https://basedtools.ai",
+  "ok": true,
+  "n": 7,
+  "ms": 1266
+ },
+ {
+  "guid": "d88b6f62-2986-4c43-843a-42e765daae06",
+  "name": "Bloghints",
+  "url": "https://bloghints.com",
+  "ok": true,
+  "n": 20,
+  "ms": 594
+ },
+ {
+  "guid": "9bce4445-aab1-4fd8-a441-dc71e2ee4c2f",
+  "name": "Beyond AI Tools",
+  "url": "https://beyondaitools.com",
+  "ok": false,
+  "n": 0,
+  "ms": 645
+ },
+ {
+  "guid": "2cc5960c-f6ad-47be-ae25-2e1b8a210c1f",
+  "name": "BestofAI",
+  "url": "https://bestofai.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1110
+ },
+ {
+  "guid": "dcee9c64-9224-46ea-8689-340ff059a207",
+  "name": "Bro Find AI",
+  "url": "https://brofindai.com",
+  "ok": true,
+  "n": 20,
+  "ms": 772
+ },
+ {
+  "guid": "680163ce-05de-4f43-8440-52d54adba9c4",
+  "name": "BroUseAI",
+  "url": "https://brouseai.com",
+  "ok": true,
+  "n": 11,
+  "ms": 592
+ },
+ {
+  "guid": "0a24269e-fcde-4da7-87a9-40e4ba27cf12",
+  "name": "BuiltWith",
+  "url": "https://builtwith.com",
+  "ok": true,
+  "n": 7,
+  "ms": 609
+ },
+ {
+  "guid": "9ccadd08-39fd-477a-9c4e-4a8cd01572bd",
+  "name": "All The AI Tools",
+  "url": "https://alltheaitools.com",
+  "ok": true,
+  "n": 19,
+  "ms": 3363
+ },
+ {
+  "guid": "ae0ad481-6b71-44d1-846d-8e3d62361a26",
+  "name": "Bowora",
+  "url": "https://bowora.com",
+  "ok": true,
+  "n": 18,
+  "ms": 1911
+ },
+ {
+  "guid": "5a134cba-c3c2-4c9b-bf59-378ef451b11a",
+  "name": "CrowdReviews.com",
+  "url": "https://crowdreviews.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1376
+ },
+ {
+  "guid": "946f5fb3-563d-473a-a4c0-484c9a01d154",
+  "name": "Buy Sell Startups Index",
+  "url": "https://buysellstartups.com",
+  "ok": true,
+  "n": 6,
+  "ms": 2267
+ },
+ {
+  "guid": "f6448f57-f904-422e-b0c3-534b3044d4c4",
+  "name": "DailySocial (Indonesia",
+  "url": "https://dailysocial.id",
+  "ok": true,
+  "n": 20,
+  "ms": 164
+ },
+ {
+  "guid": "41572daa-e270-43ff-bbb6-dec0228cb8e3",
+  "name": "CAMPFIRE",
+  "url": "https://camp-fire.jp",
+  "ok": true,
+  "n": 20,
+  "ms": 2621
+ },
+ {
+  "guid": "fa4221dc-4b24-46ee-a127-de028d099d12",
+  "name": "Business-Software.com",
+  "url": "https://business-software.com",
+  "ok": true,
+  "n": 17,
+  "ms": 3014
+ },
+ {
+  "guid": "dbc5c9a2-c3c4-4776-8140-ac523c9d6f42",
+  "name": "DataLook.io",
+  "url": "https://datalook.io",
+  "ok": true,
+  "n": 9,
+  "ms": 609
+ },
+ {
+  "guid": "52ff68aa-ee36-4437-9a72-02fe28b2a8fa",
+  "name": "CTRL ALT",
+  "url": "https://ctrlalt.cc",
+  "ok": true,
+  "n": 20,
+  "ms": 1945
+ },
+ {
+  "guid": "3763ba94-6e8b-47c4-a39d-c68ef6f25000",
+  "name": "Compare Software",
+  "url": "https://comparasoftware.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2690
+ },
+ {
+  "guid": "1a39b78e-c52e-49ae-9a14-af96916fbf62",
+  "name": "BufferApps",
+  "url": "https://bufferapps.com",
+  "ok": true,
+  "n": 15,
+  "ms": 3519
+ },
+ {
+  "guid": "cb3ee3d1-04cf-4b7e-8f9e-07e9b6b84086",
+  "name": "CodeTrendy",
+  "url": "https://codetrendy.com",
+  "ok": true,
+  "n": 18,
+  "ms": 3073
+ },
+ {
+  "guid": "7f684bb0-39c3-456b-838f-e3f8da741847",
+  "name": "Daily Pings",
+  "url": "https://dailypings.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1303
+ },
+ {
+  "guid": "034e5a4c-61bb-4213-8328-a557003749cb",
+  "name": "Dev Pages",
+  "url": "https://devpages.io",
+  "ok": true,
+  "n": 19,
+  "ms": 436
+ },
+ {
+  "guid": "049397a1-289c-4ab8-b0ff-2d7cc55e4cc2",
+  "name": "Dealify",
+  "url": "https://dealify.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1648
+ },
+ {
+  "guid": "31166c8a-c06d-4f79-bd40-114f5f8552be",
+  "name": "DevElif",
+  "url": "https://develif.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1407
+ },
+ {
+  "guid": "8f8a26ce-74ef-4b8a-b0e3-5388ea2cdd01",
+  "name": "Desifounder",
+  "url": "https://desifounder.com",
+  "ok": true,
+  "n": 6,
+  "ms": 1455
+ },
+ {
+  "guid": "646e1cae-5c44-5fcf-b27f-f1eaf7f0292e",
+  "name": "Sidebar",
+  "url": "https://sidebar.io",
+  "ok": false,
+  "n": 0,
+  "err": "The operation was aborted due to timeout",
+  "ms": 20001
+ },
+ {
+  "guid": "cb805605-5265-4969-ab73-89b888a55b55",
+  "name": "DOU (Ukraine",
+  "url": "https://dou.ua",
+  "ok": true,
+  "n": 5,
+  "ms": 342
+ },
+ {
+  "guid": "2253649f-a71f-4a16-b0f4-0ce927d54336",
+  "name": "Dirs.cc",
+  "url": "https://dirs.cc",
+  "ok": true,
+  "n": 2,
+  "ms": 1229
+ },
+ {
+  "guid": "e6d79812-35a0-408d-bf8f-1393ff35830d",
+  "name": "Deeplaunch",
+  "url": "https://deeplaunch.io",
+  "ok": true,
+  "n": 20,
+  "ms": 2631
+ },
+ {
+  "guid": "11f2b617-f6f6-4ae4-ba7c-27d5b42627d6",
+  "name": "Dynamite AI",
+  "url": "https://dynamite-ai.com",
+  "ok": true,
+  "n": 20,
+  "ms": 898
+ },
+ {
+  "guid": "bdcabd20-b6b5-4a8c-a467-f552941beeb1",
+  "name": "EliteAI Tools",
+  "url": "https://eliteai.tools",
+  "ok": true,
+  "n": 3,
+  "ms": 714
+ },
+ {
+  "guid": "3e227d28-bfec-4756-b03e-a752e3ac778d",
+  "name": "Dribbble",
+  "url": "https://dribbble.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1092
+ },
+ {
+  "guid": "69fe381d-d348-4832-8d06-fcac072dbf50",
+  "name": "Akita SaaS Directory",
+  "url": "https://akitaapp.com",
+  "ok": false,
+  "n": 0,
+  "ms": 8534
+ },
+ {
+  "guid": "fa493fe1-7730-41fa-b71a-36d5e8aaa24e",
+  "name": "Dofollow.Tools",
+  "url": "https://dofollow.tools",
+  "ok": true,
+  "n": 20,
+  "ms": 1756
+ },
+ {
+  "guid": "62c99e8a-cf24-4e08-8d70-fb2580fe7b36",
+  "name": "EnGadget",
+  "url": "https://engadget.com",
+  "ok": true,
+  "n": 19,
+  "ms": 402
+ },
+ {
+  "guid": "3f3e89d8-c511-4343-aaca-5baa9bfec4f9",
+  "name": "Direct2App",
+  "url": "https://direct2app.com",
+  "ok": true,
+  "n": 2,
+  "ms": 2597
+ },
+ {
+  "guid": "9b0251a0-8a9c-4080-8aca-044f52bc66d3",
+  "name": "fastpedia.io",
+  "url": "https://fastpedia.io",
+  "ok": true,
+  "n": 17,
+  "ms": 461
+ },
+ {
+  "guid": "6ecac892-02da-4014-ad28-348fbb1e5099",
+  "name": "Find My AI tool",
+  "url": "https://findmyaitool.com",
+  "ok": true,
+  "n": 7,
+  "ms": 201
+ },
+ {
+  "guid": "4fdb173c-b134-4c43-977d-7525c5b19c53",
+  "name": "ceifi.com",
+  "url": "https://ceifi.com",
+  "ok": true,
+  "n": 20,
+  "ms": 6117
+ },
+ {
+  "guid": "002a2eb7-b98a-43fa-954f-fde7e42f2c5c",
+  "name": "FindYourSaaS",
+  "url": "https://findyoursaas.com",
+  "ok": true,
+  "n": 20,
+  "ms": 402
+ },
+ {
+  "guid": "d95bf769-730e-49b0-8209-92bf9c3fa9e3",
+  "name": "FeaturedTool",
+  "url": "https://featuredtool.com",
+  "ok": true,
+  "n": 2,
+  "ms": 975
+ },
+ {
+  "guid": "cad286a7-0ad8-4817-91d1-fefd186b9eb1",
+  "name": "Find SEO Tools",
+  "url": "https://findseotools.com",
+  "ok": true,
+  "n": 10,
+  "ms": 854
+ },
+ {
+  "guid": "d3529eb2-ae5d-4f8a-9e1e-96e75e18b03d",
+  "name": "Ecomm Design",
+  "url": "https://ecomm.design",
+  "ok": true,
+  "n": 9,
+  "ms": 2253
+ },
+ {
+  "guid": "cec2d8bb-514f-4b48-a5da-ce597f869f93",
+  "name": "FiveTaco",
+  "url": "https://fivetaco.com",
+  "ok": true,
+  "n": 4,
+  "ms": 1096
+ },
+ {
+  "guid": "934fb2a5-6aa8-476a-a64e-7c2b573c7ea8",
+  "name": "Free AI Tool",
+  "url": "https://freeaitool.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 634
+ },
+ {
+  "guid": "1260028c-fef9-4b43-9770-c97be0dbb3b4",
+  "name": "Framer Marketplace Plugins",
+  "url": "https://framer.com",
+  "ok": true,
+  "n": 9,
+  "ms": 1011
+ },
+ {
+  "guid": "678c3b6e-4315-4b4d-b9a9-c3dd64ee6030",
+  "name": "Ezilon",
+  "url": "https://ezilon.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2116
+ },
+ {
+  "guid": "40db65b4-92bf-485f-987c-b97dce7e42a7",
+  "name": "Findyouragent.ai",
+  "url": "https://findyouragent.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 1763
+ },
+ {
+  "guid": "12364232-5946-46b1-9605-e6287f629293",
+  "name": "GitLab Explore",
+  "url": "https://gitlab.com",
+  "ok": true,
+  "n": 20,
+  "ms": 573
+ },
+ {
+  "guid": "f673df61-9a3b-4af8-9dc0-caff44f19894",
+  "name": "gainweb.org",
+  "url": "https://gainweb.org",
+  "ok": true,
+  "n": 20,
+  "ms": 903
+ },
+ {
+  "guid": "59c5d300-2137-414e-a5bd-9430ffe84b15",
+  "name": "DealMirror",
+  "url": "https://dealmirror.com",
+  "ok": true,
+  "n": 20,
+  "ms": 5335
+ },
+ {
+  "guid": "3ee535d1-5972-45de-97d4-9e27c5bafd37",
+  "name": "Hacker Noon",
+  "url": "https://hackernoon.com",
+  "ok": true,
+  "n": 19,
+  "ms": 196
+ },
+ {
+  "guid": "831e6755-2c7e-48ce-af60-2d4678766b13",
+  "name": "Funnel Directory",
+  "url": "https://funneldirectory.com",
+  "ok": true,
+  "n": 7,
+  "ms": 1187
+ },
+ {
+  "guid": "2c37e857-d788-4582-86af-eb8e782242a4",
+  "name": "God of Prompt",
+  "url": "https://godofprompt.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 656
+ },
+ {
+  "guid": "582735ca-ba9c-4c37-8e73-f0fd7665e5f8",
+  "name": "Automate a Product Hunt launch",
+  "url": "https://helicone.ai",
+  "ok": true,
+  "n": 18,
+  "ms": 504
+ },
+ {
+  "guid": "697589e1-4b1b-4be4-a9f1-83af1bc5a495",
+  "name": "Forg",
+  "url": "https://forg.to",
+  "ok": false,
+  "n": 0,
+  "ms": 2792
+ },
+ {
+  "guid": "575fa387-78af-44d3-ba70-80acee648b1f",
+  "name": "GitCode",
+  "url": "https://gitcode.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 418",
+  "ms": 2049
+ },
+ {
+  "guid": "e799c347-a77c-4192-8f8e-3526325a356b",
+  "name": "FridayHunt",
+  "url": "https://fridayhunt.com",
+  "ok": true,
+  "n": 5,
+  "ms": 2882
+ },
+ {
+  "guid": "3ff9d3e2-13fa-413b-93be-81553b574dd0",
+  "name": "IndieHackerStacks",
+  "url": "https://indiehackerstacks.com",
+  "ok": true,
+  "n": 20,
+  "ms": 395
+ },
+ {
+  "guid": "8500bdf7-88d3-4fb6-a1ec-f74e18d6c26d",
+  "name": "HuntScreens.com",
+  "url": "https://huntscreens.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1572
+ },
+ {
+  "guid": "9d169ba4-df17-46c0-8122-1c336c729699",
+  "name": "GeekNews",
+  "url": "https://hada.io",
+  "ok": true,
+  "n": 20,
+  "ms": 1801
+ },
+ {
+  "guid": "726dd33b-f201-40df-b8f9-721c873ce4ea",
+  "name": "Ferra.ru",
+  "url": "https://ferra.ru",
+  "ok": false,
+  "n": 0,
+  "ms": 4188
+ },
+ {
+  "guid": "0b984ad5-376c-4738-a4da-4bee2b546120",
+  "name": "IdeaKiln",
+  "url": "https://ideakiln.com",
+  "ok": true,
+  "n": 8,
+  "ms": 1448
+ },
+ {
+  "guid": "daa4595c-047c-480c-a85a-b4c09b6dad9c",
+  "name": "HUNT0",
+  "url": "https://hunt0.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2097
+ },
+ {
+  "guid": "0847405c-9987-47ab-b14e-ee984542b8f5",
+  "name": "Devoch",
+  "url": "https://devoch.jp",
+  "ok": true,
+  "n": 4,
+  "ms": 7236
+ },
+ {
+  "guid": "d0c1428f-6509-4bfe-9a0d-e6f4ddfc9aea",
+  "name": "Integrately",
+  "url": "https://integrately.com",
+  "ok": true,
+  "n": 10,
+  "ms": 601
+ },
+ {
+  "guid": "8e4b982b-5302-48e3-b22d-7feeee270e35",
+  "name": "INSIDE",
+  "url": "https://inside.com.tw",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 891
+ },
+ {
+  "guid": "357c8d9c-1985-4236-bcae-48c72d9c4a85",
+  "name": "How to buy SaaS",
+  "url": "https://howtobuysaas.com",
+  "ok": true,
+  "n": 8,
+  "ms": 2574
+ },
+ {
+  "guid": "f06d08be-9f7f-4b8a-a917-0bb551a33ced",
+  "name": "Jasmine Directory",
+  "url": "https://jasminedirectory.com",
+  "ok": true,
+  "n": 20,
+  "ms": 556
+ },
+ {
+  "guid": "c66c5a00-4119-47ec-bdcb-8185c66107b3",
+  "name": "IDEAVALU",
+  "url": "https://ideavalu.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2177
+ },
+ {
+  "guid": "98d2b9b7-86c2-4d0c-825d-ab89ab053645",
+  "name": "IndieHub",
+  "url": "https://indiehub.best",
+  "ok": true,
+  "n": 20,
+  "ms": 1685
+ },
+ {
+  "guid": "b9c00763-7c43-41bc-90a3-d4d4c28cfa59",
+  "name": "AISO Tools",
+  "url": "https://aisotools.com",
+  "ok": true,
+  "n": 7,
+  "ms": 17633
+ },
+ {
+  "guid": "0c0a8479-8c95-41ee-a481-9a8043218734",
+  "name": "IndieTool",
+  "url": "https://indietool.io",
+  "ok": true,
+  "n": 10,
+  "ms": 1863
+ },
+ {
+  "guid": "fc7bfec6-ff1d-41a6-ae85-3434ffef460c",
+  "name": "Intelligent Tools",
+  "url": "https://intelligenttools.co",
+  "ok": true,
+  "n": 20,
+  "ms": 1777
+ },
+ {
+  "guid": "209169f4-fbf3-430b-abeb-479eece07f4f",
+  "name": "Lenny's Newsletter",
+  "url": "https://lennysnewsletter.com",
+  "ok": true,
+  "n": 19,
+  "ms": 334
+ },
+ {
+  "guid": "769f4b57-33a5-41ec-96a0-826566f805aa",
+  "name": "Joinly",
+  "url": "https://joinly.xyz",
+  "ok": true,
+  "n": 20,
+  "ms": 1360
+ },
+ {
+  "guid": "ed21e64a-4f66-4abd-877e-66404386b8f6",
+  "name": "Launch Llama",
+  "url": "https://launchllama.co",
+  "ok": true,
+  "n": 5,
+  "ms": 1043
+ },
+ {
+  "guid": "84ee57f9-aba2-4ea2-8101-9bae89175fbc",
+  "name": "JustLaunched",
+  "url": "https://justlaunched.fyi",
+  "ok": true,
+  "n": 12,
+  "ms": 1481
+ },
+ {
+  "guid": "ddcad807-e129-49a8-bfb4-378f7f6c208b",
+  "name": "Lifto",
+  "url": "https://liftoapp.com",
+  "ok": true,
+  "n": 13,
+  "ms": 489
+ },
+ {
+  "guid": "3b687926-aa6a-4ef3-a45e-02df0fd900a0",
+  "name": "LaunchOnIt",
+  "url": "https://launchon.it",
+  "ok": true,
+  "n": 20,
+  "ms": 1327
+ },
+ {
+  "guid": "b4153f0a-baf7-4acd-b896-d98488f26081",
+  "name": "itch.io",
+  "url": "https://itch.io",
+  "ok": true,
+  "n": 10,
+  "ms": 2147
+ },
+ {
+  "guid": "56f846d9-2f3d-4a0f-b0ac-412af83dfcc9",
+  "name": "ListYourTool",
+  "url": "https://listyourtool.com",
+  "ok": true,
+  "n": 20,
+  "ms": 702
+ },
+ {
+  "guid": "a29ab526-c124-434a-80a4-747b3f94f0f9",
+  "name": "magicbox.tools",
+  "url": "https://magicbox.tools",
+  "ok": true,
+  "n": 19,
+  "ms": 425
+ },
+ {
+  "guid": "cad211ed-05d2-4112-8468-0391aec72ac7",
+  "name": "Launchy.tools",
+  "url": "https://launchy.tools",
+  "ok": true,
+  "n": 20,
+  "ms": 1520
+ },
+ {
+  "guid": "b356c96f-183f-4cf3-b133-d9b4e0b7f7c1",
+  "name": "LaunchPact",
+  "url": "https://launchpact.io",
+  "ok": true,
+  "n": 12,
+  "ms": 2019
+ },
+ {
+  "guid": "e53a8998-51b5-4da5-9204-e1be3dea55e3",
+  "name": "MaxiBestOf",
+  "url": "https://maxibestof.one",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 63
+ },
+ {
+  "guid": "34263939-1dee-4faa-af54-d72570c5df77",
+  "name": "Launchory",
+  "url": "https://launchory.app",
+  "ok": true,
+  "n": 20,
+  "ms": 2358
+ },
+ {
+  "guid": "0bb00f29-1a43-4c6b-ae63-6f87373cf660",
+  "name": "LLM Relevance",
+  "url": "https://llmrelevance.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1817
+ },
+ {
+  "guid": "c43465fc-db04-434e-83b9-88d5615abb7d",
+  "name": "Made with Lovable",
+  "url": "https://madewithlovable.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1730
+ },
+ {
+  "guid": "8d5364eb-5376-4c9a-8a72-3cb60e601cd6",
+  "name": "Linktree",
+  "url": "https://linktr.ee",
+  "ok": true,
+  "n": 20,
+  "ms": 2011
+ },
+ {
+  "guid": "ec75864d-2734-4b85-8a32-6f7a1e43e7ee",
+  "name": "Micro SaaS Examples",
+  "url": "https://microsaasexamples.com",
+  "ok": true,
+  "n": 19,
+  "ms": 613
+ },
+ {
+  "guid": "074d397e-81b5-472e-832c-f5e5fe223321",
+  "name": "Moz Blog",
+  "url": "https://moz.com",
+  "ok": true,
+  "n": 7,
+  "ms": 175
+ },
+ {
+  "guid": "77044b96-eb38-4198-aa0d-9a32382e0819",
+  "name": "LineZine AI Tool Directory",
+  "url": "https://linezine.com",
+  "ok": true,
+  "n": 5,
+  "ms": 2271
+ },
+ {
+  "guid": "5bd0f352-8f0f-4180-b263-60565c79b267",
+  "name": "madewithbolt",
+  "url": "https://madewithbolt.com",
+  "ok": true,
+  "n": 3,
+  "ms": 1990
+ },
+ {
+  "guid": "30f040d9-5871-4d0e-a238-44d1fd3f6f08",
+  "name": "MakerMap",
+  "url": "https://makermap.lol",
+  "ok": true,
+  "n": 12,
+  "ms": 1691
+ },
+ {
+  "guid": "7802edf5-52db-4c01-93c3-e382db2f645c",
+  "name": "NavTools AI",
+  "url": "https://navtools.ai",
+  "ok": true,
+  "n": 10,
+  "ms": 320
+ },
+ {
+  "guid": "019ab414-6fa3-4c07-9354-ffeb2a0f35b3",
+  "name": "gpt3demo.com",
+  "url": "https://gpt3demo.com",
+  "ok": true,
+  "n": 19,
+  "ms": 6778
+ },
+ {
+  "guid": "4bdcf204-7750-407c-b414-b81b5ea678cc",
+  "name": "Mydentify",
+  "url": "https://mydentify.com",
+  "ok": true,
+  "n": 20,
+  "ms": 725
+ },
+ {
+  "guid": "9b2026d7-6f4e-4d05-bc61-b9e034f564c5",
+  "name": "neeed.directory",
+  "url": "https://neeed.directory",
+  "ok": true,
+  "n": 20,
+  "ms": 586
+ },
+ {
+  "guid": "020425f6-6cb9-4dee-b17c-64ada2b7c903",
+  "name": "OpenFuture AI",
+  "url": "https://openfuture.ai",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 101
+ },
+ {
+  "guid": "eebd80d2-974a-4d85-83cd-777cb0594120",
+  "name": "Newcomer",
+  "url": "https://newcomer.co",
+  "ok": true,
+  "n": 20,
+  "ms": 389
+ },
+ {
+  "guid": "51682d34-4e1c-4d6e-9b9c-5042cb47e1d9",
+  "name": "Open Hunts",
+  "url": "https://openhunts.com",
+  "ok": true,
+  "n": 12,
+  "ms": 340
+ },
+ {
+  "guid": "50c73b8d-c702-439b-8c63-b2b77389297b",
+  "name": "NeonRev",
+  "url": "https://neonrev.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1063
+ },
+ {
+  "guid": "245cf62d-06c2-4963-9e8b-6baa457ba6ea",
+  "name": "NoCodeList",
+  "url": "https://nocodelist.co",
+  "ok": false,
+  "n": 0,
+  "ms": 815
+ },
+ {
+  "guid": "b09c047d-77c7-40a9-a744-a62b498b8c03",
+  "name": "MarketingDB",
+  "url": "https://marketingdb.live",
+  "ok": true,
+  "n": 20,
+  "ms": 2693
+ },
+ {
+  "guid": "7cbec23b-9276-49f5-86d1-7a3722280eeb",
+  "name": "Open Source Startups",
+  "url": "https://opensourcestartups.com",
+  "ok": true,
+  "n": 16,
+  "ms": 527
+ },
+ {
+  "guid": "d618a28c-2eea-48a3-bcfa-db84f9a78010",
+  "name": "No Code Founders",
+  "url": "https://nocodefounders.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1501
+ },
+ {
+  "guid": "1d7ceee4-f007-4c2b-a1c7-d2bf1333ab4c",
+  "name": "Open Source Projects",
+  "url": "https://opensourceprojects.cc",
+  "ok": true,
+  "n": 20,
+  "ms": 972
+ },
+ {
+  "guid": "501f7dc5-065d-413d-b975-498d49a1d44f",
+  "name": "Makuake",
+  "url": "https://makuake.com",
+  "ok": true,
+  "n": 20,
+  "ms": 3547
+ },
+ {
+  "guid": "a4fbf1f7-fb9b-47d0-924c-50caac340f43",
+  "name": "Open SaaS Directory",
+  "url": "https://opensaas.directory",
+  "ok": true,
+  "n": 7,
+  "ms": 1347
+ },
+ {
+  "guid": "e3188928-5d44-4d52-9ced-c303c568a292",
+  "name": "Pando",
+  "url": "https://pando.com",
+  "ok": true,
+  "n": 1,
+  "ms": 531
+ },
+ {
+  "guid": "a0e7c8e5-edee-4a48-bf35-7634c0732835",
+  "name": "Opera Add-ons",
+  "url": "https://opera.com",
+  "ok": true,
+  "n": 9,
+  "ms": 1031
+ },
+ {
+  "guid": "d2108c91-7fba-41f3-b862-614c62e0dfce",
+  "name": "NewAIForYou",
+  "url": "https://newaiforyou.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2426
+ },
+ {
+  "guid": "6e599bc3-cedb-436a-8fa6-61f929b3a947",
+  "name": "OSS Insight",
+  "url": "https://ossinsight.io",
+  "ok": true,
+  "n": 5,
+  "ms": 867
+ },
+ {
+  "guid": "1169e7b9-6c15-4046-8f00-569406ac8525",
+  "name": "MEDIAPRONET",
+  "url": "https://mediapronet.com",
+  "ok": true,
+  "n": 19,
+  "ms": 3579
+ },
+ {
+  "guid": "a5952126-665f-40d1-8b62-443a5d7aa7f5",
+  "name": "Platum",
+  "url": "https://platum.kr",
+  "ok": true,
+  "n": 10,
+  "ms": 469
+ },
+ {
+  "guid": "25b83628-7406-4fda-b888-506022826e50",
+  "name": "PhotoToolFinder",
+  "url": "https://phototoolfinder.com",
+  "ok": true,
+  "n": 20,
+  "ms": 748
+ },
+ {
+  "guid": "4def4fed-4088-4e7b-ae66-5e8c06b18acb",
+  "name": "Miro Marketplace",
+  "url": "https://miro.com",
+  "ok": true,
+  "n": 7,
+  "ms": 3777
+ },
+ {
+  "guid": "cc934db5-9806-4b84-a5c9-fc4f96618a8f",
+  "name": "Pocket Lint",
+  "url": "https://pocket-lint.com",
+  "ok": true,
+  "n": 10,
+  "ms": 806
+ },
+ {
+  "guid": "6d718f79-31e3-45e8-991b-ee1864e4ada8",
+  "name": "Open Launch",
+  "url": "https://openlaunch.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 2804
+ },
+ {
+  "guid": "0f6c073a-f4a4-4b15-89b5-b0c6b66ac909",
+  "name": "PeerPush",
+  "url": "https://peerpush.net",
+  "ok": true,
+  "n": 20,
+  "ms": 1182
+ },
+ {
+  "guid": "f94f6e88-afff-4ac3-90c5-e85d4fcf1cd6",
+  "name": "Makerhunt",
+  "url": "https://makerhunt.io",
+  "ok": true,
+  "n": 20,
+  "ms": 5466
+ },
+ {
+  "guid": "399593ef-e0f6-487a-acff-083161ab1bd9",
+  "name": "PR TIMES",
+  "url": "https://prtimes.jp",
+  "ok": true,
+  "n": 20,
+  "ms": 383
+ },
+ {
+  "guid": "19ef06e0-0a64-4e6b-bd09-92544abfb694",
+  "name": "ProductFame",
+  "url": "https://productfame.com",
+  "ok": true,
+  "n": 12,
+  "ms": 1267
+ },
+ {
+  "guid": "6d896523-a7ea-49ce-a84a-68400504a52c",
+  "name": "rankinpublic.xyz",
+  "url": "https://rankinpublic.xyz",
+  "ok": true,
+  "n": 5,
+  "ms": 792
+ },
+ {
+  "guid": "6adf3d1b-6ada-409b-b381-80a3b0c5d072",
+  "name": "The Profile",
+  "url": "https://readtheprofile.com",
+  "ok": true,
+  "n": 20,
+  "ms": 249
+ },
+ {
+  "guid": "d56e323d-a922-4256-bccc-9901223f56fa",
+  "name": "Public Prompts",
+  "url": "https://publicprompts.art",
+  "ok": true,
+  "n": 20,
+  "ms": 904
+ },
+ {
+  "guid": "560d26e3-0cdd-4e29-b927-e545a3820bcc",
+  "name": "Proofstories",
+  "url": "https://proofstories.io",
+  "ok": true,
+  "n": 6,
+  "ms": 1008
+ },
+ {
+  "guid": "e3cd90ca-691c-44d6-9616-3b978dc0959e",
+  "name": "RapidAPI",
+  "url": "https://rapidapi.com",
+  "ok": false,
+  "n": 0,
+  "ms": 649
+ },
+ {
+  "guid": "971855f6-9853-402c-9424-afb430d681a9",
+  "name": "RankYourAI",
+  "url": "https://rankyourai.com",
+  "ok": true,
+  "n": 20,
+  "ms": 798
+ },
+ {
+  "guid": "f721d6d0-5282-4513-94aa-d37e40060d44",
+  "name": "Resource.fyi",
+  "url": "https://resource.fyi",
+  "ok": true,
+  "n": 20,
+  "ms": 424
+ },
+ {
+  "guid": "31f8f927-c332-4139-93b3-931b98427516",
+  "name": "피치보드",
+  "url": "https://peachboard.kr",
+  "ok": true,
+  "n": 3,
+  "ms": 2784
+ },
+ {
+  "guid": "bd54b191-9dee-453f-9090-bcca606e85aa",
+  "name": "SaaS.fyi",
+  "url": "https://saas.fyi",
+  "ok": true,
+  "n": 20,
+  "ms": 958
+ },
+ {
+  "guid": "6ff07f95-8b8e-4c95-942a-7dfb7a2075a7",
+  "name": "SaaS Place",
+  "url": "https://saasplace.io",
+  "ok": true,
+  "n": 8,
+  "ms": 417
+ },
+ {
+  "guid": "ade4a2fc-394f-4579-b63b-c0e4de46e3b3",
+  "name": "SaaSFame",
+  "url": "https://saasfame.com",
+  "ok": true,
+  "n": 20,
+  "ms": 899
+ },
+ {
+  "guid": "26cdc697-c3eb-462c-b08d-515641b77b20",
+  "name": "PoweredbyAI",
+  "url": "https://poweredbyai.app",
+  "ok": true,
+  "n": 16,
+  "ms": 2635
+ },
+ {
+  "guid": "a0842d67-d7f9-4d92-860a-17fad6b82372",
+  "name": "Product School Community",
+  "url": "https://productschool.com",
+  "ok": true,
+  "n": 4,
+  "ms": 2367
+ },
+ {
+  "guid": "6d5578c2-0489-451b-a627-0e430b07be40",
+  "name": "SaasHunt",
+  "url": "https://saashunt.best",
+  "ok": true,
+  "n": 8,
+  "ms": 1354
+ },
+ {
+  "guid": "ce737467-0706-43fd-ab5b-11fdcace4e7e",
+  "name": "Selljam.ai",
+  "url": "https://selljam.ai",
+  "ok": true,
+  "n": 15,
+  "ms": 784
+ },
+ {
+  "guid": "14c02c47-16af-4376-a2a3-854a72592683",
+  "name": "SaaS Hive",
+  "url": "https://saashive.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1790
+ },
+ {
+  "guid": "5698f623-ff8a-452f-b4df-a8498f04fbd0",
+  "name": "Pro Launch",
+  "url": "https://prolaunch.net",
+  "ok": true,
+  "n": 20,
+  "ms": 3074
+ },
+ {
+  "guid": "816e3521-aed1-4b4f-bfc2-ce06e1b21c11",
+  "name": "Small Business Marketing Tools",
+  "url": "https://sbmarketingtools.com",
+  "ok": true,
+  "n": 9,
+  "ms": 1094
+ },
+ {
+  "guid": "80d44287-5afa-4941-95e4-93e0907c6435",
+  "name": "ScrollLaunch",
+  "url": "https://scrolllaunch.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1208
+ },
+ {
+  "guid": "cce9497b-af05-4c0e-b961-9ea2b59a79ca",
+  "name": "SideProjects",
+  "url": "https://sideprojects.net",
+  "ok": true,
+  "n": 9,
+  "ms": 588
+ },
+ {
+  "guid": "88632ee6-cfa0-4f33-a66e-9cfb8bc72d4e",
+  "name": "Sitejabber",
+  "url": "https://smartcustomer.com",
+  "ok": false,
+  "n": 0,
+  "ms": 483
+ },
+ {
+  "guid": "63f3fdbe-8c44-40a8-b76c-97426abc64b1",
+  "name": "Simple.ink",
+  "url": "https://simple.ink",
+  "ok": false,
+  "n": 0,
+  "ms": 725
+ },
+ {
+  "guid": "c3e3b0fc-d22e-43ed-b00a-b922b942d2d0",
+  "name": "Shipybara",
+  "url": "https://shipybara.com",
+  "ok": true,
+  "n": 5,
+  "ms": 1070
+ },
+ {
+  "guid": "e4254817-d66e-41c6-90b0-e13f0295b8a8",
+  "name": "SparkToro Office Hours",
+  "url": "https://sparktoro.com",
+  "ok": true,
+  "n": 10,
+  "ms": 271
+ },
+ {
+  "guid": "13566a38-599b-47da-b35c-dfcb8ecbe699",
+  "name": "ScoutForge",
+  "url": "https://scoutforge.net",
+  "ok": true,
+  "n": 18,
+  "ms": 2411
+ },
+ {
+  "guid": "bb1f2c60-2eb6-43bf-9d84-7e4dcc92e792",
+  "name": "Spark.ru",
+  "url": "https://spark.ru",
+  "ok": true,
+  "n": 20,
+  "ms": 775
+ },
+ {
+  "guid": "b9620976-1c8b-459f-b2d7-72923fe5f10b",
+  "name": "ShipYard HQ",
+  "url": "https://shipyardhq.dev",
+  "ok": true,
+  "n": 20,
+  "ms": 2031
+ },
+ {
+  "guid": "9b8eb2fd-4d7b-469c-abcd-f68af2e697e8",
+  "name": "SoloPush",
+  "url": "https://solopush.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1251
+ },
+ {
+  "guid": "905c9b0f-9d8d-4e16-9842-2368d9990cae",
+  "name": "Sidedock",
+  "url": "https://sidedock.io",
+  "ok": true,
+  "n": 20,
+  "ms": 2068
+ },
+ {
+  "guid": "619d26b9-32d1-413e-9712-f3c5d8c0c689",
+  "name": "Startup AIdeas",
+  "url": "https://startupaideas.com",
+  "ok": true,
+  "n": 8,
+  "ms": 699
+ },
+ {
+  "guid": "c1f10892-130a-41f6-9d48-464cd71b2be1",
+  "name": "Spiceworks",
+  "url": "https://spiceworks.com",
+  "ok": true,
+  "n": 10,
+  "ms": 1071
+ },
+ {
+  "guid": "6eae24d2-f58e-4799-a578-e5f6b0a10d8a",
+  "name": "Startup Benchmarks",
+  "url": "https://startupbenchmarks.com",
+  "ok": true,
+  "n": 20,
+  "ms": 479
+ },
+ {
+  "guid": "267b79d9-d24c-44a2-95ae-a982d3f95210",
+  "name": "Startup Dope",
+  "url": "https://startupdope.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 502",
+  "ms": 290
+ },
+ {
+  "guid": "95d2ecb8-e68b-46a3-bb5d-a778c5281142",
+  "name": "Revispy Launchpad",
+  "url": "https://revispy.com",
+  "ok": true,
+  "n": 7,
+  "ms": 4346
+ },
+ {
+  "guid": "83257871-6d77-4534-b9ca-9b3d35c48fc8",
+  "name": "Startupi",
+  "url": "https://startupi.com.br",
+  "ok": true,
+  "n": 10,
+  "ms": 213
+ },
+ {
+  "guid": "8588e498-bac2-4cdb-a69d-4951b51bcf71",
+  "name": "Startup Alternatives",
+  "url": "https://startupalternatives.com",
+  "ok": true,
+  "n": 20,
+  "ms": 974
+ },
+ {
+  "guid": "21b247fb-dd0e-4d80-bf91-887e457cd1aa",
+  "name": "Startupeable",
+  "url": "https://startupeable.com",
+  "ok": true,
+  "n": 9,
+  "ms": 521
+ },
+ {
+  "guid": "e94f064a-faef-4256-8f3d-b0ac0b6b4ca3",
+  "name": "startuplist.ing",
+  "url": "https://startuplist.ing",
+  "ok": true,
+  "n": 7,
+  "ms": 322
+ },
+ {
+  "guid": "95c0b4a3-85b0-4459-be2c-458accd74201",
+  "name": "Startup Savant",
+  "url": "https://startupsavant.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 79
+ },
+ {
+  "guid": "40919b20-cca9-44fa-83ae-1427be61bac0",
+  "name": "partnershare.cn",
+  "url": "https://partnershare.cn",
+  "ok": true,
+  "n": 20,
+  "ms": 7189
+ },
+ {
+  "guid": "434f354d-76c7-45d1-b74e-611dd38e1f85",
+  "name": "Startup Resources",
+  "url": "https://startupresources.io",
+  "ok": true,
+  "n": 9,
+  "ms": 405
+ },
+ {
+  "guid": "2e695b8b-7860-4495-861b-4af9cbf80845",
+  "name": "Startups Lab",
+  "url": "https://startupslab.site",
+  "ok": true,
+  "n": 18,
+  "ms": 325
+ },
+ {
+  "guid": "91911054-df02-49b7-a861-18fcf9629171",
+  "name": "StartupLibrary",
+  "url": "https://startuplibrary.net",
+  "ok": false,
+  "n": 0,
+  "ms": 963
+ },
+ {
+  "guid": "731d0f61-d6f8-4d16-a169-f743b8cde466",
+  "name": "The Startup Project",
+  "url": "https://startupproject.org",
+  "ok": true,
+  "n": 4,
+  "ms": 769
+ },
+ {
+  "guid": "4f5f1cda-64af-4a23-91b5-c17f182672da",
+  "name": "Solo 社区↗solo.xin独立开发者社区，免费发布产品",
+  "url": "https://solo.xin",
+  "ok": true,
+  "n": 20,
+  "ms": 2682
+ },
+ {
+  "guid": "19331f21-c5cb-47b3-8566-a4db8797eac5",
+  "name": "Startup Grind",
+  "url": "https://startupgrind.com",
+  "ok": true,
+  "n": 19,
+  "ms": 1457
+ },
+ {
+  "guid": "c410a9f4-2154-45b2-b5d6-29e4915a5f91",
+  "name": "Stork.AI",
+  "url": "https://stork.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 500
+ },
+ {
+  "guid": "66def828-b4c2-4aff-8164-21c0f11ba18d",
+  "name": "NavFolders",
+  "url": "https://navfolders.com",
+  "ok": true,
+  "n": 20,
+  "ms": 10303
+ },
+ {
+  "guid": "defcb604-d821-4743-98bd-6c19576d8d70",
+  "name": "Stratechery",
+  "url": "https://stratechery.com",
+  "ok": true,
+  "n": 10,
+  "ms": 700
+ },
+ {
+  "guid": "7c21b6e3-ca71-4a63-91b3-519db2213845",
+  "name": "Startup Explore",
+  "url": "https://startupxplore.com",
+  "ok": true,
+  "n": 2,
+  "ms": 1202
+ },
+ {
+  "guid": "51b08952-7217-4054-aaaf-a7a5e51c3138",
+  "name": "StartupTrusted",
+  "url": "https://startuptrusted.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1335
+ },
+ {
+  "guid": "e2996907-1050-4d5d-a8e9-0033add66901",
+  "name": "SubmitHunt",
+  "url": "https://submithunt.com",
+  "ok": false,
+  "n": 0,
+  "ms": 706
+ },
+ {
+  "guid": "dc515a0b-c6fe-4e5f-aa56-5ca0d911cb75",
+  "name": "startuups",
+  "url": "https://startuups.com",
+  "ok": true,
+  "n": 5,
+  "ms": 1210
+ },
+ {
+  "guid": "53cbb3bc-1a96-4a11-adf3-d3a7c57abcec",
+  "name": "SaaSBison",
+  "url": "https://saasbison.com",
+  "ok": true,
+  "n": 20,
+  "ms": 7146
+ },
+ {
+  "guid": "6ffeb28b-b1eb-404f-91a9-59fb41ca4fa6",
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "ok": true,
+  "n": 8,
+  "ms": 2070
+ },
+ {
+  "guid": "668561e7-1be1-4222-9f14-475ab69539f3",
+  "name": "Tailkits",
+  "url": "https://tailkits.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1202
+ },
+ {
+  "guid": "2157f1fc-8b09-40fd-a415-08c41592d6b8",
+  "name": "Thank John",
+  "url": "https://thankjohn.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1115
+ },
+ {
+  "guid": "92deab63-180d-43fc-880c-c162b4bc57e3",
+  "name": "TechTrendin",
+  "url": "https://techtrendin.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1238
+ },
+ {
+  "guid": "8b7df742-1fb3-43df-bf4a-c1270977eca2",
+  "name": "The Daily Upside",
+  "url": "https://thedailyupside.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 126
+ },
+ {
+  "guid": "c9833089-80a7-4890-bcf7-07e2aa3935f9",
+  "name": "SuperLaunch List",
+  "url": "https://superlaunchlist.com",
+  "ok": true,
+  "n": 5,
+  "ms": 1706
+ },
+ {
+  "guid": "99428c69-cab6-4a04-9ae5-dcfb0d88e8c5",
+  "name": "Techsauce (Thailand",
+  "url": "https://techsauce.co",
+  "ok": true,
+  "n": 10,
+  "ms": 1499
+ },
+ {
+  "guid": "7e2a6579-65d8-416d-ab3f-1ea9f8f49f1b",
+  "name": "SuitApp",
+  "url": "https://suitapp.de",
+  "ok": true,
+  "n": 20,
+  "ms": 2027
+ },
+ {
+  "guid": "7a03cd05-a08c-4e38-a27d-65170ca6f8bf",
+  "name": "That App Show",
+  "url": "https://thatappshow.com",
+  "ok": true,
+  "n": 20,
+  "ms": 524
+ },
+ {
+  "guid": "d3e28e0a-f83b-4c59-aece-25b08c0ff49a",
+  "name": "Startups.fm",
+  "url": "https://startups.fm",
+  "ok": true,
+  "n": 18,
+  "ms": 3327
+ },
+ {
+  "guid": "d375de00-94da-4e5c-ad3b-178ab183a5c4",
+  "name": "Supertools (Rundown",
+  "url": "https://therundown.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 408
+ },
+ {
+  "guid": "12f92c5c-6b75-4d5e-b1d1-dd086b96072c",
+  "name": "TipSeason",
+  "url": "https://tipseason.com",
+  "ok": true,
+  "n": 15,
+  "ms": 586
+ },
+ {
+  "guid": "530ff3c6-6b7c-49ef-ac1b-ef0de23031a5",
+  "name": "AI Library",
+  "url": "https://theailibrary.co",
+  "ok": true,
+  "n": 20,
+  "ms": 1131
+ },
+ {
+  "guid": "9cc39eeb-0040-42a7-b47c-a5246f9bcbea",
+  "name": "ToolDirs",
+  "url": "https://tooldirs.com",
+  "ok": true,
+  "n": 19,
+  "ms": 709
+ },
+ {
+  "guid": "5adbeeac-aa8c-4cf8-a0d8-e692fd06bbf6",
+  "name": "The Rebooting",
+  "url": "https://therebooting.com",
+  "ok": true,
+  "n": 10,
+  "ms": 1081
+ },
+ {
+  "guid": "097dd5f5-cd62-4334-9323-32e2c60d95eb",
+  "name": "That AI Collection",
+  "url": "https://thataicollection.com",
+  "ok": true,
+  "n": 9,
+  "ms": 1784
+ },
+ {
+  "guid": "2b879d4f-d38d-4d90-89d5-7e265abec7b6",
+  "name": "toolbase.io",
+  "url": "https://toolbase.io",
+  "ok": true,
+  "n": 3,
+  "ms": 1200
+ },
+ {
+  "guid": "b803148a-cd82-4e5e-a2cb-9fc2748d55a3",
+  "name": "TinyLaunch",
+  "url": "https://tinylaun.ch",
+  "ok": true,
+  "n": 20,
+  "ms": 1523
+ },
+ {
+  "guid": "df685233-2ca9-4d76-863f-3a015b30cb44",
+  "name": "ToolHub",
+  "url": "https://toolhub.me",
+  "ok": true,
+  "n": 20,
+  "ms": 763
+ },
+ {
+  "guid": "d531e268-712d-48fc-bc28-9cab364150d8",
+  "name": "ToolFame",
+  "url": "https://toolfame.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1392
+ },
+ {
+  "guid": "ed8314de-6f18-4b39-932d-9eb71f496b68",
+  "name": "Toollist",
+  "url": "https://toollist.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 938
+ },
+ {
+  "guid": "514830dc-96ae-4c98-9454-de2bdbac770a",
+  "name": "toolfolio",
+  "url": "https://toolfolio.io",
+  "ok": true,
+  "n": 3,
+  "ms": 1351
+ },
+ {
+  "guid": "cbf7b715-7853-42f4-9a1a-aded86f0c1e7",
+  "name": "Tools AI",
+  "url": "https://toolsai.net",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 1041
+ },
+ {
+  "guid": "d9faf66b-31c8-4065-b94d-bdc9a06035bf",
+  "name": "Tools NoCode",
+  "url": "https://toolsnocode.com",
+  "ok": true,
+  "n": 20,
+  "ms": 719
+ },
+ {
+  "guid": "eed8ea89-147a-4adb-98a6-03cdc7d95da2",
+  "name": "Toshilist",
+  "url": "https://toshilist.com",
+  "ok": true,
+  "n": 20,
+  "ms": 391
+ },
+ {
+  "guid": "27c5dd99-dd5c-40fd-b64f-c17a50ff8a84",
+  "name": "TopAITools4U",
+  "url": "https://topaitools4u.site",
+  "ok": true,
+  "n": 6,
+  "ms": 774
+ },
+ {
+  "guid": "f8d062d4-5696-4be7-8cd7-209f0cebe3a6",
+  "name": "theaisurf",
+  "url": "https://theaisurf.com",
+  "ok": true,
+  "n": 8,
+  "ms": 3237
+ },
+ {
+  "guid": "abf7c693-856f-47c0-a903-eb9175012809",
+  "name": "ToolWorthy",
+  "url": "https://toolworthy.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 1233
+ },
+ {
+  "guid": "5162b1e4-7902-4fd2-bebf-83a6260ee35b",
+  "name": "Turbo0",
+  "url": "https://turbo0.com",
+  "ok": true,
+  "n": 8,
+  "ms": 319
+ },
+ {
+  "guid": "dde42dab-cfa0-45d5-9112-c32762f4aa01",
+  "name": "ToolScout AI",
+  "url": "https://toolscout.ai",
+  "ok": true,
+  "n": 8,
+  "ms": 1733
+ },
+ {
+  "guid": "09dd3fb0-1680-443f-87b8-81c79856ee32",
+  "name": "Trust Revenue",
+  "url": "https://trust-revenue.com",
+  "ok": false,
+  "n": 0,
+  "ms": 388
+ },
+ {
+  "guid": "7ceb6845-4e9d-4f6e-bd73-cf76c9f7b740",
+  "name": "Unite List",
+  "url": "https://unitelist.com",
+  "ok": true,
+  "n": 20,
+  "ms": 407
+ },
+ {
+  "guid": "a40665f6-4bf6-4380-a51a-fe5b5f150f21",
+  "name": "Unloc.tools",
+  "url": "https://unloc.tools",
+  "ok": true,
+  "n": 13,
+  "ms": 485
+ },
+ {
+  "guid": "90c89113-d6f6-43a7-861e-9442afd8d6a8",
+  "name": "Sumodir",
+  "url": "https://sumodir.com",
+  "ok": true,
+  "n": 13,
+  "ms": 5609
+ },
+ {
+  "guid": "e8db3d4f-859c-4a4c-be41-7b92b63fd5ac",
+  "name": "FutureStack",
+  "url": "https://usefuturestack.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 402",
+  "ms": 141
+ },
+ {
+  "guid": "e5a7fa2d-49b3-4b6b-af70-86902f05fd99",
+  "name": "Versily",
+  "url": "https://versily.com",
+  "ok": true,
+  "n": 20,
+  "ms": 219
+ },
+ {
+  "guid": "fd02f754-c3c3-4676-b860-01c05c05f7cf",
+  "name": "AI Agents Marketplace",
+  "url": "https://trillionagent.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1293
+ },
+ {
+  "guid": "430d5d06-e673-41ef-99e6-93af9748f9f6",
+  "name": "Tools AI Online",
+  "url": "https://tools-ai.online",
+  "ok": false,
+  "n": 0,
+  "ms": 2827
+ },
+ {
+  "guid": "2cb11d7b-0d7f-43e9-957e-a6923522dc3b",
+  "name": "Startup Heroes",
+  "url": "https://startupheroes.io",
+  "ok": true,
+  "n": 20,
+  "ms": 8066
+ },
+ {
+  "guid": "1abbf9b8-10ef-438e-a06f-7f1ed589497e",
+  "name": "Viesearch",
+  "url": "https://viesearch.com",
+  "ok": true,
+  "n": 19,
+  "ms": 1150
+ },
+ {
+  "guid": "d973f40e-ce08-48a1-a595-edc524abacd3",
+  "name": "toolsfine",
+  "url": "https://toolsfine.com",
+  "ok": true,
+  "n": 14,
+  "ms": 4028
+ },
+ {
+  "guid": "4c26100c-460b-484b-b7e1-8573c3ff7496",
+  "name": "Verified Tools",
+  "url": "https://verifiedtools.info",
+  "ok": false,
+  "n": 0,
+  "ms": 1963
+ },
+ {
+  "guid": "25c66f10-e310-4b43-b53d-257e6365af98",
+  "name": "Unita",
+  "url": "https://unita.co",
+  "ok": true,
+  "n": 10,
+  "ms": 2886
+ },
+ {
+  "guid": "7d619b4e-71d4-45b4-97a1-e344e032dcfb",
+  "name": "We Like Tools",
+  "url": "https://weliketools.com",
+  "ok": true,
+  "n": 20,
+  "ms": 485
+ },
+ {
+  "guid": "f43aa432-5476-4356-91e1-0a5dedbdff03",
+  "name": "TopTools.ai",
+  "url": "https://toptools.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 3922
+ },
+ {
+  "guid": "51e9c726-11be-4609-a804-6734fc9bbcc4",
+  "name": "WhatTheAI",
+  "url": "https://whattheai.tech",
+  "ok": true,
+  "n": 20,
+  "ms": 412
+ },
+ {
+  "guid": "43f69ee5-d308-4626-94ab-a7ca504f32e7",
+  "name": "ZDNet",
+  "url": "https://zdnet.com",
+  "ok": true,
+  "n": 19,
+  "ms": 126
+ },
+ {
+  "guid": "7fd8c7f3-bcd8-4a31-9cf3-d1ea137fccc8",
+  "name": "Waildworld",
+  "url": "https://waildworld.com",
+  "ok": true,
+  "n": 20,
+  "ms": 3026
+ },
+ {
+  "guid": "fe0d2917-95be-45d9-b97a-3d30c1009f54",
+  "name": "Webspot",
+  "url": "https://webspot.app",
+  "ok": true,
+  "n": 18,
+  "ms": 2557
+ },
+ {
+  "guid": "69beedfe-401d-4e58-8bbd-05a9dd6c9c2e",
+  "name": "Wix App Market",
+  "url": "https://wix.com",
+  "ok": true,
+  "n": 8,
+  "ms": 1252
+ },
+ {
+  "guid": "9b0719b7-1d9f-4ab6-9a1d-4706f9d08910",
+  "name": "What's the Big Data",
+  "url": "https://whatsthebigdata.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1815
+ },
+ {
+  "guid": "ec4107da-080d-43e8-8d1c-86210dac2b2e",
+  "name": "Zoom App Marketplace",
+  "url": "https://zoom.us",
+  "ok": true,
+  "n": 7,
+  "ms": 983
+ },
+ {
+  "guid": "24f7f509-edd3-43f6-9f23-8e1000e330cc",
+  "name": "WeekHack",
+  "url": "https://weekhack.com",
+  "ok": true,
+  "n": 20,
+  "ms": 2694
+ },
+ {
+  "guid": "0771a677-18b8-4e56-bb57-11d51a1e62f5",
+  "name": "访问观猹",
+  "url": "https://watcha.cn",
+  "ok": false,
+  "n": 0,
+  "ms": 3499
+ },
+ {
+  "guid": "1db190d0-9995-4c71-98d0-1e56e019a45b",
+  "name": "01net Télécharger",
+  "url": "https://01net.com",
+  "ok": true,
+  "n": 20,
+  "ms": 636
+ },
+ {
+  "guid": "82317061-5345-4037-bce0-3f79084bfc03",
+  "name": "100 AI Apps",
+  "url": "https://100apps.org",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 522
+ },
+ {
+  "guid": "0d16eb88-4764-4bc6-9b46-4e4ff89414b2",
+  "name": "Webflow Apps Marketplace",
+  "url": "https://webflow.com",
+  "ok": true,
+  "n": 20,
+  "ms": 3911
+ },
+ {
+  "guid": "c912ad12-e92f-4db8-b8be-70d40b9cb615",
+  "name": "Aidreamhub",
+  "url": "https://aidreamhub.com",
+  "ok": true,
+  "n": 20,
+  "ms": 655
+ },
+ {
+  "guid": "4e9d4b63-b572-4e67-b57a-aaae5ad4d372",
+  "name": "Toolfio",
+  "url": "https://toolfio.com",
+  "ok": true,
+  "n": 20,
+  "ms": 7920
+ },
+ {
+  "guid": "4999ced0-8c28-46bd-bfb9-69e0de706b21",
+  "name": "aidude.info",
+  "url": "https://aidude.info",
+  "ok": true,
+  "n": 20,
+  "ms": 924
+ },
+ {
+  "guid": "79a4a09d-3b94-4229-88cb-e9408a33cd91",
+  "name": "AI Agents Listing",
+  "url": "https://aiagentslisting.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1078
+ },
+ {
+  "guid": "70ea9127-fa6e-4550-ab55-cdfd16e50ec4",
+  "name": "AI Directory",
+  "url": "https://aidirectory.website",
+  "ok": true,
+  "n": 20,
+  "ms": 1091
+ },
+ {
+  "guid": "e384749e-a9f7-4b1e-90c7-c1205edb3391",
+  "name": "Educator Tools",
+  "url": "https://aieducator.tools",
+  "ok": true,
+  "n": 20,
+  "ms": 912
+ },
+ {
+  "guid": "b445d962-ed95-42a4-b205-19ac3d4de22b",
+  "name": "Aikaptan",
+  "url": "https://aikaptan.com",
+  "ok": true,
+  "n": 11,
+  "ms": 471
+ },
+ {
+  "guid": "8e01e45f-11fe-4b23-94b1-aac3aacfb568",
+  "name": "aijourney.so",
+  "url": "https://aijourney.so",
+  "ok": true,
+  "n": 9,
+  "ms": 1034
+ },
+ {
+  "guid": "75382477-20be-483c-a127-dbec4d366fe0",
+  "name": "AI Marketing",
+  "url": "https://aimarketing.directory",
+  "ok": true,
+  "n": 20,
+  "ms": 728
+ },
+ {
+  "guid": "ec708cbe-f719-4337-9075-760a5e7b7d0e",
+  "name": "Uno Directory",
+  "url": "https://uno.directory",
+  "ok": true,
+  "n": 20,
+  "ms": 6151
+ },
+ {
+  "guid": "44af8102-1421-4c6d-9489-c89c4f4845e4",
+  "name": "10Directory",
+  "url": "https://10directory.com",
+  "ok": true,
+  "n": 19,
+  "ms": 2084
+ },
+ {
+  "guid": "8ef23991-e456-4e63-90ed-365982604bb8",
+  "name": "AI SuperHub",
+  "url": "https://aisuperhub.io",
+  "ok": true,
+  "n": 11,
+  "ms": 790
+ },
+ {
+  "guid": "6ab56cf2-bb60-4f05-86ea-5e4f44889986",
+  "name": "Acedirectory",
+  "url": "https://acedirectory.org",
+  "ok": true,
+  "n": 20,
+  "ms": 2483
+ },
+ {
+  "guid": "c680d171-c77d-4b02-bec4-cd26de107c61",
+  "name": "aiyouneed.com",
+  "url": "https://aiyouneed.com",
+  "ok": true,
+  "n": 20,
+  "ms": 758
+ },
+ {
+  "guid": "bb23eddd-4644-4b32-985c-a9aa5ab74de1",
+  "name": "AI Tool Tracker",
+  "url": "https://aitooltracker.com",
+  "ok": true,
+  "n": 2,
+  "ms": 973
+ },
+ {
+  "guid": "eaf1542a-5328-48fb-aaa4-74de9041a447",
+  "name": "AI Tools Wiki",
+  "url": "https://aitoolswiki.com",
+  "ok": true,
+  "n": 12,
+  "ms": 1214
+ },
+ {
+  "guid": "2fc1f6c8-543a-4725-a9e0-ea36e0b27dbe",
+  "name": "Appvizer",
+  "url": "https://appvizer.fr",
+  "ok": false,
+  "n": 0,
+  "err": "fetch failed",
+  "ms": 529
+ },
+ {
+  "guid": "2e59d152-b40a-429d-acc0-1c376ebc941a",
+  "name": "AI聚合",
+  "url": "https://aijuhe.org",
+  "ok": true,
+  "n": 20,
+  "ms": 2547
+ },
+ {
+  "guid": "ad092853-35fd-46d7-8652-21e522504f82",
+  "name": "yjpoo.com",
+  "url": "https://yjpoo.com",
+  "ok": true,
+  "n": 13,
+  "ms": 4988
+ },
+ {
+  "guid": "be1d02b8-fdd3-424c-9f29-f1723518c866",
+  "name": "Basecamp",
+  "url": "https://basecamp.com",
+  "ok": true,
+  "n": 4,
+  "ms": 427
+ },
+ {
+  "guid": "4499b863-3c8b-417d-9876-5729e5b1a6f5",
+  "name": "CHIP Downloads",
+  "url": "https://chip.de",
+  "ok": true,
+  "n": 20,
+  "ms": 460
+ },
+ {
+  "guid": "51cfae22-71fc-47aa-a6fb-7d4d35d6239e",
+  "name": "Civitai",
+  "url": "https://civitai.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 47
+ },
+ {
+  "guid": "a6222317-4cda-448b-bceb-51a1e0c40e1b",
+  "name": "/pricing",
+  "url": "https://allaitoollist.com",
+  "ok": true,
+  "n": 11,
+  "ms": 2391
+ },
+ {
+  "guid": "707f1190-06c7-4b21-a044-55d7e1abaf3b",
+  "name": "aimojo.pro",
+  "url": "https://aimojo.pro",
+  "ok": true,
+  "n": 5,
+  "ms": 3913
+ },
+ {
+  "guid": "7d793c63-4b02-4bb2-985d-7f820817c738",
+  "name": "アプリゲット",
+  "url": "https://appget.com",
+  "ok": true,
+  "n": 19,
+  "ms": 2388
+ },
+ {
+  "guid": "a4a852ca-26e0-4f2d-ae8f-e6f45d365e78",
+  "name": "Buildlist.io",
+  "url": "https://buildlist.io",
+  "ok": true,
+  "n": 20,
+  "ms": 1866
+ },
+ {
+  "guid": "98907322-09fd-41fa-9b00-df3fe95bc3f4",
+  "name": "data.ai",
+  "url": "https://data.ai",
+  "ok": false,
+  "n": 0,
+  "ms": 971
+ },
+ {
+  "guid": "38db62a9-37f2-497b-8685-4f7788047660",
+  "name": "Directory6",
+  "url": "https://directory6.org",
+  "ok": true,
+  "n": 20,
+  "ms": 673
+ },
+ {
+  "guid": "f9b76cc8-5d6a-454e-a4ae-6593c9b4ac5b",
+  "name": "Asklaila",
+  "url": "https://asklaila.com",
+  "ok": true,
+  "n": 3,
+  "ms": 2740
+ },
+ {
+  "guid": "77cf3390-5646-43de-b1af-3111e876ebf0",
+  "name": "Cloudfindr",
+  "url": "https://cloudfindr.co",
+  "ok": true,
+  "n": 20,
+  "ms": 2093
+ },
+ {
+  "guid": "23731aca-0380-4ddd-9099-ef46e9bc2eeb",
+  "name": "Failory",
+  "url": "https://failory.com",
+  "ok": false,
+  "n": 0,
+  "ms": 756
+ },
+ {
+  "guid": "90be1c62-575f-465b-9aaa-de405561d6e2",
+  "name": "Founder Path",
+  "url": "https://founderpath.com",
+  "ok": true,
+  "n": 6,
+  "ms": 550
+ },
+ {
+  "guid": "fe72f7ce-784e-48b8-aac9-c2f41aded3d1",
+  "name": "DoMore",
+  "url": "https://domore.ai",
+  "ok": true,
+  "n": 6,
+  "ms": 1773
+ },
+ {
+  "guid": "5e902c08-aa1d-4311-9f1f-da68b32cab9f",
+  "name": "hostadvice",
+  "url": "https://hostadvice.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 57
+ },
+ {
+  "guid": "1879d998-29ec-4126-8ffd-fc748737804a",
+  "name": "Good AI Tools",
+  "url": "https://goodaitools.com",
+  "ok": true,
+  "n": 11,
+  "ms": 449
+ },
+ {
+  "guid": "ce2d24bb-360b-49f2-9ec6-25ca696eb8d6",
+  "name": "agentskill.sh",
+  "url": "https://agentskill.sh",
+  "ok": true,
+  "n": 20,
+  "ms": 7951
+ },
+ {
+  "guid": "48938f7f-1c8f-4e68-b153-7a5e8caa14db",
+  "name": "hypertools.so",
+  "url": "https://hypertools.so",
+  "ok": true,
+  "n": 20,
+  "ms": 584
+ },
+ {
+  "guid": "e97c0d60-7fdf-4d9d-991c-725b61d2a6bf",
+  "name": "how2aitools.com",
+  "url": "https://how2aitools.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1148
+ },
+ {
+  "guid": "c2ffdcbf-6c52-4163-b00f-06d908ab00e0",
+  "name": "AIsmiley",
+  "url": "https://aismiley.co.jp",
+  "ok": true,
+  "n": 19,
+  "ms": 7808
+ },
+ {
+  "guid": "d0f3aba0-14e5-4e9a-b42d-29a54e388a5d",
+  "name": "华为应用市场",
+  "url": "https://huawei.com",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 403",
+  "ms": 2169
+ },
+ {
+  "guid": "98615a94-bd64-4894-9a1d-375b7ede1b1b",
+  "name": "igly.ai",
+  "url": "https://igly.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 1235
+ },
+ {
+  "guid": "11b65306-73a1-4a73-8792-8dbdb9a6e9e9",
+  "name": "Best AI To",
+  "url": "https://bestaito.com",
+  "ok": true,
+  "n": 17,
+  "ms": 6654
+ },
+ {
+  "guid": "1017e646-4e72-425e-bb22-7c1fedc55aef",
+  "name": "Easy Save AI",
+  "url": "https://easysaveai.com",
+  "ok": false,
+  "n": 0,
+  "ms": 4567
+ },
+ {
+  "guid": "0a351a15-62be-4aa4-b4a3-02cb54839ff7",
+  "name": "Les Pépites Tech ↗",
+  "url": "https://lespepitestech.com",
+  "ok": true,
+  "n": 20,
+  "ms": 444
+ },
+ {
+  "guid": "ddf42e2c-9800-401b-b37f-75a7f98823a8",
+  "name": "ListMyAI",
+  "url": "https://listmyai.net",
+  "ok": true,
+  "n": 17,
+  "ms": 247
+ },
+ {
+  "guid": "4d29fa81-9df5-4623-986c-652c673e2326",
+  "name": "Look AI Tools",
+  "url": "https://lookaitools.com",
+  "ok": true,
+  "n": 5,
+  "ms": 242
+ },
+ {
+  "guid": "0df3b95f-30ff-4013-93e8-3d2b698b155c",
+  "name": "KitPloit",
+  "url": "https://kitploit.com",
+  "ok": true,
+  "n": 20,
+  "ms": 809
+ },
+ {
+  "guid": "560a882a-b310-49e9-85d4-08d958a6426b",
+  "name": "Meysam",
+  "url": "https://meysam.io",
+  "ok": true,
+  "n": 11,
+  "ms": 190
+ },
+ {
+  "guid": "db0bb14f-ae17-4ce2-a4ef-5b1d640e572f",
+  "name": "Mastra",
+  "url": "https://mastra.ai",
+  "ok": true,
+  "n": 2,
+  "ms": 496
+ },
+ {
+  "guid": "907cee30-5efe-41a4-b04a-7031800cff60",
+  "name": "MadGenius",
+  "url": "https://madgenius.co",
+  "ok": false,
+  "n": 0,
+  "ms": 958
+ },
+ {
+  "guid": "7c93fb3e-7a1d-44f2-953f-4313b58da46d",
+  "name": "Nextpedia",
+  "url": "https://nextpedia.io",
+  "ok": true,
+  "n": 10,
+  "ms": 476
+ },
+ {
+  "guid": "a4dbc8be-60e4-418a-bd98-d54ea451c909",
+  "name": "Not Human Search",
+  "url": "https://nothumansearch.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 228
+ },
+ {
+  "guid": "8afb4413-d3b0-44da-861f-4a5cd6a94712",
+  "name": "Invent List",
+  "url": "https://inventlist.com",
+  "ok": true,
+  "n": 4,
+  "ms": 3198
+ },
+ {
+  "guid": "080cc29b-0bd0-4d29-bb14-19db21e4a990",
+  "name": "nextool.ai",
+  "url": "https://nextool.ai",
+  "ok": true,
+  "n": 9,
+  "ms": 1218
+ },
+ {
+  "guid": "e4f01c41-eb04-4c42-9fb2-c2b009c9cb76",
+  "name": "ITreview",
+  "url": "https://itreview.jp",
+  "ok": true,
+  "n": 20,
+  "ms": 2709
+ },
+ {
+  "guid": "ac4be960-9478-4aa5-9735-c2e037693cf2",
+  "name": "飞书应用目录",
+  "url": "https://feishu.cn",
+  "ok": false,
+  "n": 0,
+  "ms": 6200
+ },
+ {
+  "guid": "217c64c7-9bee-44ac-9d7e-56a6d88d2890",
+  "name": "Linksgiving",
+  "url": "https://linksgiving.com",
+  "ok": false,
+  "n": 0,
+  "ms": 2199
+ },
+ {
+  "guid": "67c2c9cf-9580-48cc-bb1f-33d90f1d98ae",
+  "name": "One Sublime Directory",
+  "url": "https://one-sublime-directory.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1033
+ },
+ {
+  "guid": "47552066-fe0d-4587-bd9d-eebbb8eff264",
+  "name": "SEMrush",
+  "url": "https://semrush.com",
+  "ok": true,
+  "n": 10,
+  "ms": 612
+ },
+ {
+  "guid": "2b05f012-c61b-4a33-9876-0e83adf413bd",
+  "name": "questionpro.com",
+  "url": "https://questionpro.com",
+  "ok": true,
+  "n": 5,
+  "ms": 1277
+ },
+ {
+  "guid": "142e3ae1-feea-40fe-a4fb-9ea6ee9d6611",
+  "name": "Sitejabber",
+  "url": "https://sitejabber.com",
+  "ok": false,
+  "n": 0,
+  "ms": 527
+ },
+ {
+  "guid": "481c079f-4091-40d8-a721-9f2c609879d1",
+  "name": "See AI First",
+  "url": "https://seeaifirst.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1774
+ },
+ {
+  "guid": "790fd91e-e77c-4006-a481-c7cd70da323b",
+  "name": "SaaSGrow",
+  "url": "https://saasgrow.app",
+  "ok": true,
+  "n": 3,
+  "ms": 2066
+ },
+ {
+  "guid": "0018780e-8b4d-469b-b5fe-9465d3ba4ce6",
+  "name": "Software Finder",
+  "url": "https://softwarefinder.com",
+  "ok": true,
+  "n": 3,
+  "ms": 686
+ },
+ {
+  "guid": "21ad9e41-614f-474c-b79d-9981c58af605",
+  "name": "smart-tools.ai",
+  "url": "https://smart-tools.ai",
+  "ok": false,
+  "n": 0,
+  "ms": 1375
+ },
+ {
+  "guid": "501beaa9-eca8-4765-abdf-8d60b3afc68a",
+  "name": "Setting up the launchpad",
+  "url": "https://speakerdeck.com",
+  "ok": true,
+  "n": 8,
+  "ms": 361
+ },
+ {
+  "guid": "e0a97ad6-8d11-4303-8a8d-23727dec53ad",
+  "name": "Solomaker",
+  "url": "https://solomaker.dev",
+  "ok": true,
+  "n": 16,
+  "ms": 858
+ },
+ {
+  "guid": "cf7a1f2e-8eff-474f-a8eb-c94a8a2a6d4e",
+  "name": "Similarweb",
+  "url": "https://similarweb.com",
+  "ok": true,
+  "n": 7,
+  "ms": 2450
+ },
+ {
+  "guid": "1a3ecd1e-96f7-469e-8066-455c1b14bb2f",
+  "name": "DodoDirectory",
+  "url": "https://dododirectory.com",
+  "ok": true,
+  "n": 20,
+  "ms": 10065
+ },
+ {
+  "guid": "d271175f-d0f6-4ba5-9eb1-188c693c2268",
+  "name": "AgentRank",
+  "url": "https://theagentrank.com",
+  "ok": true,
+  "n": 9,
+  "ms": 640
+ },
+ {
+  "guid": "fc4fc9fb-afc9-492f-a977-16d6ca5a4548",
+  "name": "SoftwareReviews",
+  "url": "https://softwarereviews.com",
+  "ok": true,
+  "n": 13,
+  "ms": 1447
+ },
+ {
+  "guid": "5f2c9c91-1e64-4445-97cd-7e5ddcdcf01a",
+  "name": "Forinov ↗",
+  "url": "https://forinov.fr",
+  "ok": false,
+  "n": 0,
+  "ms": 8931
+ },
+ {
+  "guid": "7fd89da2-0ca6-4bb7-b14d-d7200db35bec",
+  "name": "star-history.com",
+  "url": "https://star-history.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1020
+ },
+ {
+  "guid": "cf99f317-e470-4a46-b2a2-6a1e020e1150",
+  "name": "ShipGrowth",
+  "url": "https://shipgrowth.dev",
+  "ok": true,
+  "n": 20,
+  "ms": 29853
+ },
+ {
+  "guid": "f272b9ac-a9fc-42b5-980c-b433aa72448e",
+  "name": "Toolio AI",
+  "url": "https://toolio.ai",
+  "ok": true,
+  "n": 19,
+  "ms": 502
+ },
+ {
+  "guid": "de55897e-1bed-480c-be1e-dafc6f7d64ef",
+  "name": "Tsukutta",
+  "url": "https://tsukutta.app",
+  "ok": false,
+  "n": 0,
+  "err": "HTTP 429",
+  "ms": 254
+ },
+ {
+  "guid": "652c05d4-cd18-4d5a-822f-accf274257a1",
+  "name": "ThumbnailCreator",
+  "url": "https://thumbnailcreator.com",
+  "ok": true,
+  "n": 18,
+  "ms": 1480
+ },
+ {
+  "guid": "19a14584-b257-428b-9e14-aaf02ced75fa",
+  "name": "The Green Web Foundation",
+  "url": "https://thegreenwebfoundation.org",
+  "ok": true,
+  "n": 12,
+  "ms": 1722
+ },
+ {
+  "guid": "c334f37f-9bc5-496c-b942-745634df340a",
+  "name": "Turbify",
+  "url": "https://turbify.com",
+  "ok": true,
+  "n": 5,
+  "ms": 550
+ },
+ {
+  "guid": "25cdb568-3154-4edf-915f-d08d773ac3ee",
+  "name": "Tool Directory",
+  "url": "https://tooldirectory.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 1532
+ },
+ {
+  "guid": "57bddc88-ce7f-407d-af89-75877a10881c",
+  "name": "Tool AI",
+  "url": "https://toolai.io",
+  "ok": true,
+  "n": 9,
+  "ms": 1748
+ },
+ {
+  "guid": "384fcac2-cbcd-4afb-affa-7a487da5e1d1",
+  "name": "TwelveLabs",
+  "url": "https://twelvelabs.io",
+  "ok": true,
+  "n": 20,
+  "ms": 891
+ },
+ {
+  "guid": "15ebdec5-1dcd-4fb2-ac3b-7c071f19cbaa",
+  "name": "ToolsML",
+  "url": "https://toolsml.com",
+  "ok": false,
+  "n": 0,
+  "ms": 1739
+ },
+ {
+  "guid": "79e6e3df-556f-4e08-9287-a7e49620cc40",
+  "name": "Website Rating",
+  "url": "https://websiterating.com",
+  "ok": true,
+  "n": 4,
+  "ms": 298
+ },
+ {
+  "guid": "570f9c8e-f10f-4186-9982-fbf5f581b1ab",
+  "name": "AI Tool Board",
+  "url": "https://aitoolboard.com",
+  "ok": true,
+  "n": 4,
+  "ms": 16084
+ },
+ {
+  "guid": "0b96e45c-85f7-4750-8f1e-1109351534eb",
+  "name": "whatplugin.ai",
+  "url": "https://whatplugin.ai",
+  "ok": true,
+  "n": 20,
+  "ms": 457
+ },
+ {
+  "guid": "5e74eb38-ad1d-47a6-86e5-ba15b63c649f",
+  "name": "UseMyAI",
+  "url": "https://usemyai.pro",
+  "ok": true,
+  "n": 20,
+  "ms": 1458
+ },
+ {
+  "guid": "c3fea051-4fcf-4c9b-9e0a-68ce9556dbe4",
+  "name": "Upsdirectory",
+  "url": "https://upsdirectory.com",
+  "ok": true,
+  "n": 20,
+  "ms": 1681
+ },
+ {
+  "guid": "2ef413a9-a513-4205-a87b-5f2eb8720333",
+  "name": "TooliQ",
+  "url": "https://tooliq.ai",
+  "ok": false,
+  "n": 0,
+  "ms": 2968
+ },
+ {
+  "guid": "3d31c99d-ace7-4cac-80ba-977f86cf15c9",
+  "name": "Talks from the MicroConf",
+  "url": "https://vimeo.com",
+  "ok": true,
+  "n": 10,
+  "ms": 1725
+ },
+ {
+  "guid": "1f8d7c77-9e64-49cd-bd53-223da8696439",
+  "name": "F-Droid",
+  "url": "https://f-droid.org",
+  "ok": true,
+  "n": 20,
+  "ms": 987
+ },
+ {
+  "guid": "0108d63a-3653-4521-bdb3-0c152533e552",
+  "name": "七麦数据",
+  "url": "https://qimai.cn",
+  "ok": false,
+  "n": 0,
+  "ms": 7346
+ },
+ {
+  "guid": "3edf5d8e-b1f4-40ad-905a-7b51fdfa704f",
+  "name": "opensource.builders",
+  "url": "https://opensource.builders",
+  "ok": false,
+  "n": 0,
+  "ms": 967
+ },
+ {
+  "guid": "aacb2167-1b9f-4d23-a786-d76fa65bcd9a",
+  "name": "Postioo",
+  "url": "https://postioo.com",
+  "ok": true,
+  "n": 20,
+  "ms": 7671
+ },
+ {
+  "guid": "8b0c55b8-d565-40cb-a77b-f5414be735ed",
+  "name": "UNIKT",
+  "url": "https://unikt.fr",
+  "ok": true,
+  "n": 20,
+  "ms": 2984
+ },
+ {
+  "guid": "516ae640-6fca-4879-a189-57f84ba41e0c",
+  "name": "Plan Tomtom",
+  "url": "https://tomtom.com",
+  "ok": true,
+  "n": 5,
+  "ms": 4486
+ },
+ {
+  "guid": "6c3cf1bd-9d94-47e9-a910-7f6fa7f7fa24",
+  "name": "GitHub（高星仓库）",
+  "url": "https://github.com/search?q=stars",
+  "ok": true,
+  "n": 10,
+  "ms": 1740
+ },
+ {
+  "guid": "d42f87bc-dfdc-44fb-934f-3c8b17ae566b",
+  "name": "Flathub",
+  "url": "https://flathub.org",
+  "ok": true,
+  "n": 8,
+  "ms": 2583
+ },
+ {
+  "guid": "5bc7c3da-d08c-47ce-9b1c-ae5f36d81517",
+  "name": "Web Review",
+  "url": "https://web-review.com",
+  "ok": true,
+  "n": 12,
+  "ms": 4561
+ },
+ {
+  "guid": "60fc5d22-cdcd-4c90-abbf-7373dd7526b1",
+  "name": "Allaiwebsite",
+  "url": "https://allaiwebsite.com",
+  "ok": true,
+  "n": 20,
+  "ms": 19761
+ },
+ {
+  "guid": "44ab132a-3ac1-432d-8b25-d928b39a6101",
+  "name": "站酷",
+  "url": "https://zcool.com.cn",
+  "ok": true,
+  "n": 20,
+  "ms": 6607
+ }
+]

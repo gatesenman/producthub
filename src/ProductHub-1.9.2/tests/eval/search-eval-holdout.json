@@ -1,0 +1,17 @@
+{
+  "_说明": "留出集：在词典与排序调参完成之后才编写，未据此调参，用于估计过拟合程度",
+  "queries": [
+    { "q": "日历应用", "type": "holdout", "expected": ["Google Calendar", "Calendar Apps", "Hora Calendar", "Chickadee Bandit"] },
+    { "q": "漫画翻译", "type": "holdout", "expected": ["AI Manga Translator", "manga translator", "Manga Translator 1"] },
+    { "q": "电子签名", "type": "holdout", "expected": ["SignBolt"] },
+    { "q": "代理服务器", "type": "holdout", "expected": ["ColdProxy", "ProxyForge", "OpenZiti"] },
+    { "q": "chatbot for customer support", "type": "holdout", "expected": ["Aissist.io", "Giga", "Fufa AI"] },
+    { "q": "时区换算", "type": "holdout", "expected": ["Every Time Zone"] },
+    { "q": "落地页制作", "type": "holdout", "expected": ["Leadpages", "Instapage", "Versoly"] },
+    { "q": "database gui client", "type": "holdout", "expected": ["DBine", "DuckDB CLI"] },
+    { "q": "图片压缩", "type": "holdout", "expected": ["Resizelab.app", "#30Omni"] },
+    { "q": "创业者播客", "type": "holdout", "expected": ["Playbooks"] },
+    { "q": "社交媒体排期", "type": "holdout", "expected": ["Scheduler.social", "MerivoFlow", "Viral Content Finder And Social Media Scheduler"] },
+    { "q": "临时邮箱", "type": "holdout", "expected": ["Temp mail by boomlify"] }
+  ]
+}

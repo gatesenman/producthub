@@ -1,0 +1,242 @@
+seq,来源,分类,结果,产品数,最早日期,策略:条目,失败原因
+1,Product Hunt,产品发布平台,成功,330369,2013-11-24,ph-merged:623003,
+2,BetaList,产品发布平台,成功,27239,2010-11-07,betalist-pages:28000,
+3,Peerlist Launchpad,产品发布平台,成功,9,2026-10-12,list-render:9(partial) sitemap:0,
+4,DevHunt,产品发布平台,成功,5736,2008-04-11,list-paged:50 sitemap:862 sitemap-skip:5500,
+5,Microlaunch,产品发布平台,成功,2,2026-10-12,sitemap:5,
+6,Uneed,产品发布平台,成功,6509,2011-02-07,list-paged:90 sitemap:1246(partial) sitemap-skip:5700,
+7,Fazier,产品发布平台,成功,38,2026-09-29,list-paged:36 sitemap:1086(partial) sitemap-skip:1640,
+8,Launching Next,产品发布平台,成功,1679,2014-11-06,list-paged:1754 sitemap:0,
+9,StartupBase,产品发布平台,成功,4211,2011-12-25,list-paged:10 sitemap:990(partial) sitemap-skip:3400,
+10,TinyLaunch,产品发布平台,成功,5394,2011-02-07,list-paged:53 sitemap:0 sitemap-skip:5580,
+11,Open Launch,产品发布平台,成功,4416,2011-02-07,list-paged:15 sitemap:342 sitemap-skip:4460,
+12,PeerPush,产品发布平台,成功,7658,2012-01-26,list-paged:86 sitemap:1727(partial) sitemap-skip:7380,
+13,Launch Vault,产品发布平台,成功,2202,2016-05-09,list-paged:56 sitemap:2314,
+14,Next Big Product,产品发布平台,成功,2962,2010-01-11,list-paged:50 sitemap:683 sitemap-skip:2440,
+15,NextGen Tools,产品发布平台,成功,3098,2011-02-07,sitemap:412 sitemap-skip:3300,
+16,Firsto,产品发布平台,成功,2873,2013-11-19,list-paged:30 sitemap:522 sitemap-skip:2500,
+17,SaaSCity,产品发布平台,成功,158,2026-02-05,list-paged:301 sitemap:0,
+18,Smol Launch,产品发布平台,成功,1544,2020-02-15,list-paged:49 sitemap:1602,
+19,Super Launch,产品发布平台,成功,4,2026-10-12,list-paged:4 sitemap:0,
+20,ShipBoost,产品发布平台,成功,748,2010-02-08,list-paged:13 sitemap:800,
+21,Pitchwall,产品发布平台,成功,89,2026-09-17,list-paged:30 sitemap:499,
+22,Kick Product,产品发布平台,成功,3,2026-10-12,list-paged:2 sitemap:324,
+23,Startup Ranked,产品发布平台,成功,1,2026-01-19,sitemap:137,
+24,IndieHunt,产品发布平台,成功,415,2023-02-13,list-paged:51 sitemap:2260,
+25,WhatLaunched.Today,产品发布平台,成功,1,2026-10-05,sitemap:951(partial) sitemap-skip:3040,
+26,Today Launches,产品发布平台,成功,97,2026-02-28,list-paged:97 sitemap:0,
+27,Launch List,产品发布平台,成功,1,2026-10-12,sitemap:299(partial) sitemap-skip:740,
+28,LaunchIgniter,产品发布平台,成功,2204,2020-01-12,list-paged:24 sitemap:279 sitemap-skip:2500,
+29,Product Watch,产品发布平台,成功,2881,2011-02-07,list-paged:42 sitemap:569 sitemap-skip:2500,
+30,ProductBurst,产品发布平台,成功,12,2022-02-18,list-render:12 sitemap:0,
+31,Stellar Launch,产品发布平台,成功,1,2026-10-10,sitemap:1432,
+32,Better Launch,产品发布平台,成功,958,2017-03-28,list-paged:139 sitemap:905,
+33,Foundrlist,产品发布平台,成功,2928,2012-01-26,list-paged:50 sitemap:499 sitemap-skip:2500,
+34,EarlyHunt,产品发布平台,成功,49,2026-10-12,list-paged:48 sitemap:435(partial) sitemap-skip:880,
+35,Nick Launches,产品发布平台,成功,1868,2022-03-24,list-paged:179 sitemap:1874,
+36,SideHunt,产品发布平台,成功,1210,2023-01-11,list-paged:31 sitemap:1211,
+37,Launch AI (trylaunch.ai),产品发布平台,成功,33,2026-06-16,list-render:31(partial) sitemap:1560 sitemap-skip:4640,
+38,Aura++,产品发布平台,成功,22,2026-10-12,list-paged:21 sitemap:332 sitemap-skip:1580,
+39,BuiltByIndies,产品发布平台,成功,554,2026-02-10,list-paged:16 sitemap:548,
+40,Crowdstax,产品发布平台,成功,247,2026-05-26,list-paged:6 sitemap:240,
+41,Website Hunt,产品发布平台,成功,2184,2011-02-07,list-paged:2204,
+42,VibeHacker,产品发布平台,成功,531,2012-12-20,list-paged:44 sitemap:939,
+43,Disquiet,产品发布平台,成功,1132,2011-02-07,list-paged:1376,
+44,LaunchPad India,产品发布平台,成功,308,2021-07-05,list-paged:3 sitemap:316,
+45,新趣集 (Xinquji),产品发布平台,成功,1714,2012-03-16,sitemap:605 sitemap-skip:1860,
+46,Mergeek 产品发现,产品发布平台,成功,15,2026-10-12,list-paged:11 sitemap:0,
+47,AlternativeTo,替代软件/工具目录,成功,19,2026-10-12,list-render:18 sitemap:0 sitemap-skip:360,
+48,SaaSHub,替代软件/工具目录,成功,136,2020-12-23,list-paged:179 sitemap:0,
+49,OpenAlternative,替代软件/工具目录,成功,51,2026-09-02,list-paged:50 sitemap:0,
+50,Alternative.me,替代软件/工具目录,成功,9,2026-10-12,list-paged:9 sitemap:0,
+51,osalt,替代软件/工具目录,成功,10,2011-03-23,list-paged:10 sitemap:0,
+52,SimilarLabs,替代软件/工具目录,成功,40,2026-03-03,list-paged:78 sitemap:0,
+53,SiteLike,替代软件/工具目录,成功,25,2026-10-12,list-paged:15 sitemap:0,
+54,Alt Hunt,替代软件/工具目录,成功,7,2026-10-12,list-paged:7 sitemap:0,
+55,switching.software,替代软件/工具目录,成功,71,2013-02-01,list-paged:71 sitemap:0,
+56,Open Source Alternative To,替代软件/工具目录,成功,512,2020-08-12,list-paged:517 sitemap:505,
+57,Findstack,替代软件/工具目录,失败,0,,sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证），未识别出产品列表
+58,WebCatalog,替代软件/工具目录,失败,0,,sitemap:0,Playwright 渲染 HTTP 200，未识别出产品列表
+59,Productivity Directory,替代软件/工具目录,成功,41,2026-10-12,list-paged:41 sitemap:0,
+60,Toolfolio,替代软件/工具目录,成功,11,2025-10-03,list-paged:1 sitemap:1443,
+61,Twelve Tools,替代软件/工具目录,成功,23,2026-06-18,list-paged:19 sitemap:0,
+62,Tools.so,替代软件/工具目录,失败,0,,sitemap:0,Playwright 渲染 HTTP 200，未识别出产品列表
+63,Postmake,替代软件/工具目录,成功,1,2026-10-12,list-paged:1 sitemap:0,
+64,NoCode.Tech,替代软件/工具目录,失败,0,,sitemap:0,Playwright 渲染 HTTP 200，未识别出产品列表
+65,Webcurate,替代软件/工具目录,成功,212,2013-05-01,list-paged:410 sitemap:0,
+66,European Alternatives,替代软件/工具目录,成功,305,2011-01-15,list-paged:15 sitemap:473,
+67,SourceForge,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 403（Cloudflare 人机验证），未识别出产品列表
+68,G2,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 403（Cloudflare 人机验证），未识别出产品列表
+69,Capterra,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 403（Cloudflare 人机验证），未识别出产品列表
+70,GetApp,软件评测/比较站,成功,3,2026-10-13,list-render:3(partial) sitemap:0,
+71,Software Advice,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证），未识别出产品列表
+72,TrustRadius,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证），未识别出产品列表
+73,Gartner Peer Insights,软件评测/比较站,成功,21,2026-10-13,list-render:21(partial) sitemap:0,
+74,PeerSpot,软件评测/比较站,成功,11,2026-10-12,list-paged:3 sitemap:980(running) sitemap-skip:4180,
+75,SaaSworthy,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证），未识别出产品列表
+76,GoodFirms,软件评测/比较站,成功,301,2015-01-13,list-render:12 sitemap:0 sitemap-skip:300,
+77,Crozdesk,软件评测/比较站,成功,10,2026-10-12,list-paged:10 sitemap:0,
+78,Trustpilot,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 0，未识别出产品列表
+79,SelectHub,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证），未识别出产品列表
+80,Serchen,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证），未识别出产品列表
+81,FeaturedCustomers,软件评测/比较站,成功,87,2014-07-09,list-paged:67 sitemap:0,
+82,Tekpon,软件评测/比较站,成功,44,2026-10-12,list-paged:47 sitemap:0,
+83,SpotSaaS,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 403（Cloudflare 人机验证），未识别出产品列表
+84,SoftwareWorld,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 403（Cloudflare 人机验证），未识别出产品列表
+85,ITQlick,软件评测/比较站,成功,95,2026-07-12,list-paged:12(partial) sitemap:91,
+86,CompareCamp,软件评测/比较站,成功,4,2013-02-14,list-render:4(partial) sitemap:0,
+87,Cuspera,软件评测/比较站,成功,1720,2009-01-15,list-paged:10 sitemap:590(running) sitemap-skip:4240,
+88,Thingtesting,软件评测/比较站,失败,0,,sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证），未识别出产品列表
+89,SoftwareSuggest,软件评测/比较站,成功,157,2026-10-12,list-paged:157 sitemap:0,
+90,B2B Stack,软件评测/比较站,成功,17,2026-10-12,list-paged:3 sitemap:637(running) sitemap-skip:3760,
+91,OMR Reviews,软件评测/比较站,成功,74,2026-10-12,list-paged:76 sitemap:0,
+92,There's An AI For That,AI 工具目录,成功,102,2022-11-09,list-render:102 sitemap:0,
+93,Futurepedia,AI 工具目录,成功,1234,2011-09-21,sitemap:1321,
+94,Future Tools,AI 工具目录,成功,95,2011-02-07,list-paged:93 sitemap:159(running) sitemap-skip:3700,
+95,Toolify.ai,AI 工具目录,成功,155,2011-06-20,list-render:156(partial) sitemap:0,
+96,TopAI.tools,AI 工具目录,成功,8,2026-04-14,list-render:8(partial) sitemap:0,
+97,AI Tools Directory,AI 工具目录,成功,745,2019-08-20,list-paged:744 sitemap:744,
+98,Insidr.ai,AI 工具目录,成功,5,2024-09-28,list-paged:8 sitemap:0,
+99,Dang.ai,AI 工具目录,成功,2444,2011-01-04,list-paged:2492,
+100,aitools.fyi,AI 工具目录,成功,15,2026-09-25,list-paged:15 sitemap:0,
+101,OpenTools,AI 工具目录,成功,2651,2010-06-11,list-paged:2804,
+102,Aixploria,AI 工具目录,成功,1588,2015-11-16,list-paged:1736,
+103,Easy With AI,AI 工具目录,成功,224,2013-05-01,list-render:226(partial) sitemap:0,
+104,ToolPilot,AI 工具目录,成功,2942,2013-05-09,sitemap:498 sitemap-skip:2820,
+105,AIToolNet,AI 工具目录,成功,157,2015-11-25,list-render:158(partial) sitemap:0,
+106,Altern,AI 工具目录,成功,1976,2009-01-15,list-paged:32 sitemap:2169,
+107,Tap4 AI,AI 工具目录,成功,2446,2012-12-20,list-paged:9 sitemap:781 sitemap-skip:1900,
+108,AIPURE,AI 工具目录,成功,3540,2012-12-20,list-paged:5 sitemap:1022 sitemap-skip:2760,
+109,AI Agents Directory,AI 工具目录,成功,22,2026-09-28,list-paged:19 sitemap:0,
+110,AI Agent Store,AI 工具目录,成功,26,2026-10-12,list-paged:24 sitemap:8,
+111,Phygital+ AI Library,AI 工具目录,成功,27,2021-07-19,list-render:27(partial) sitemap:0,
+112,Toolkitly,AI 工具目录,成功,6,2026-10-12,list-paged:6 sitemap:0,
+113,AI Search (ai-search.io),AI 工具目录,成功,121,2017-03-03,list-render:10(partial) sitemap:0 sitemap-skip:140,
+114,SaaS AI Tools,AI 工具目录,成功,1610,2011-02-07,list-paged:1719,
+115,EveryDev.ai,AI 工具目录,成功,4013,2009-01-15,list-paged:1 sitemap:1029(partial) sitemap-skip:3240,
+116,AI 工具集 (ai-bot.cn),AI 工具目录,成功,823,2015-11-04,list-paged:439 sitemap:669,
+117,AIGC 导航 (aigc.cn),AI 工具目录,成功,84,2020-07-29,list-paged:16 sitemap-skip:2040,
+118,AI 导航 (ainav.cn),AI 工具目录,成功,12,2026-10-12,list-paged:12 sitemap:0,
+119,AIbase,AI 工具目录,失败,0,,sitemap:0,Playwright 渲染 HTTP 200，未识别出产品列表
+120,AI138,AI 工具目录,成功,1354,2013-05-09,list-paged:2077,
+121,mcp.so,MCP/AI Agent 目录,成功,65,2026-10-12,list-paged:109 sitemap:0,
+122,Smithery,MCP/AI Agent 目录,成功,21,2026-10-12,list-paged:21 sitemap:0,
+123,Glama MCP,MCP/AI Agent 目录,成功,3689,2013-05-12,list-paged:496(partial) sitemap:1756(partial) sitemap-skip:3120,
+124,MCP Market,MCP/AI Agent 目录,成功,6905,2010-08-30,list-paged:6 sitemap:1829(partial) sitemap-skip:7600,
+125,Official MCP Registry,MCP/AI Agent 目录,失败,0,,sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证），未识别出产品列表
+126,Crunchbase,创业公司目录/数据库,成功,27,2026-10-12,list-paged:27 sitemap:0,
+127,Wellfound (原 AngelList Talent),创业公司目录/数据库,成功,54,2026-10-12,list-paged:54 sitemap:0,
+128,F6S,创业公司目录/数据库,失败,0,,list-render:0 sitemap:0,Playwright 渲染 HTTP 200（Cloudflare 人机验证）
+129,Startup Stash,创业公司目录/数据库,成功,2056,2008-04-11,list-paged:86 sitemap:2233,
+130,StartupBlink,创业公司目录/数据库,成功,20,2026-10-12,list-render:20(partial) sitemap:192,
+131,Startup Ranking,创业公司目录/数据库,成功,2,2026-10-12,list-render:2(partial) sitemap:0,
+132,Gust,创业公司目录/数据库,成功,5,2026-10-12,list-paged:5 sitemap:0,
+133,Tracxn,创业公司目录/数据库,成功,10,2026-10-12,list-paged:10 sitemap:0,
+134,Owler,创业公司目录/数据库,成功,15,2024-01-03,sitemap:805(partial) sitemap-skip:2440,
+135,Startup Buffer,创业公司目录/数据库,失败,0,,sitemap:0,Playwright 渲染 HTTP 403（Cloudflare 人机验证），未识别出产品列表
+136,Startup Inspire,创业公司目录/数据库,成功,32,2024-07-24,list-render:32 sitemap:0,
+137,Startups Gallery,创业公司目录/数据库,成功,1327,2010-08-30,list-paged:12 sitemap:1330,
+138,Tiny Startups,创业公司目录/数据库,成功,1352,2021-01-10,list-paged:29 sitemap:469 sitemap-skip:920,
+139,TrustMRR,创业公司目录/数据库,成功,7795,2012-09-06,list-paged:23 sitemap:2000(partial) sitemap-skip:7960,
+140,Open Startup List,创业公司目录/数据库,成功,26,2026-10-12,list-paged:26 sitemap:0,
+141,Startup Tracker,创业公司目录/数据库,成功,5,2026-10-12,list-paged:10 sitemap:0,
+142,Startup Fame,创业公司目录/数据库,成功,1191,2023-01-11,list-paged:61 sitemap-skip:1180,
+143,Indie Hackers 产品库,创业公司目录/数据库,成功,16,2026-06-04,list-render:16(partial) sitemap:0,
+144,BuildVoyage,创业公司目录/数据库,成功,764,2017-03-28,list-paged:6 sitemap:799,
+145,Startups.fyi,创业公司目录/数据库,成功,1054,2011-02-07,list-paged:27 sitemap:1035,
+146,GetLatka,创业公司目录/数据库,成功,2015,2010-09-17,sitemap-skip:3640,
+147,Make.rs,创业公司目录/数据库,成功,4432,2022-02-14,list-paged:56 sitemap:1982(partial) sitemap-skip:4340,
+148,Startup.sx,创业公司目录/数据库,成功,142,2026-04-20,list-render:19 sitemap-skip:160,
+149,Startup Spotlight,创业公司目录/数据库,成功,361,2011-10-26,list-paged:12 sitemap:366,
+150,Open Makers,创业公司目录/数据库,成功,61,2023-01-19,list-paged:51 sitemap:40,
+151,Dealroom,创业公司目录/数据库,成功,162,2026-10-12,list-paged:4 sitemap:0 sitemap-skip:1760,
+152,EU-Startups,创业公司目录/数据库,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+153,startups.watch,创业公司目录/数据库,成功,35,2023-01-12,list-paged:35 sitemap:0,
+154,e27,创业公司目录/数据库,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+155,IT桔子,创业公司目录/数据库,失败,0,,sitemap:0,Playwright 渲染 HTTP 412，未识别出产品列表
+156,Startup Europe,创业公司目录/数据库,成功,3,2026-10-12,list-paged:3 sitemap:0,
+157,Romanian Startups,创业公司目录/数据库,成功,272,2014-02-03,list-paged:90 sitemap:575,
+158,Startuplist Africa,创业公司目录/数据库,成功,9,2026-10-12,list-paged:6 sitemap-skip:2080,
+159,MAGNiTT,创业公司目录/数据库,成功,6,2026-10-12,list-render:6(partial) sitemap:0,
+160,Techboard,创业公司目录/数据库,成功,15,2017-07-24,list-paged:6 sitemap:6,
+161,BuiltIn,创业公司目录/数据库,成功,125,2026-10-12,list-paged:95 sitemap:0,
+162,Hacker News – Show HN,社区/论坛,成功,20693,2009-03-10,hn-algolia:22404,
+163,Indie Hackers,社区/论坛,成功,22,2017-07-22,list-render:22(partial) sitemap:0,
+164,Hugging Face Spaces,社区/论坛,成功,1581,2019-12-12,list-paged:1442,
+165,Reddit r/SideProject,社区/论坛,失败,0,,,Reddit HTTP 403（被 Reddit 网络封锁）
+166,Reddit r/startups,社区/论坛,失败,0,,,Reddit HTTP 403（被 Reddit 网络封锁）
+167,Reddit r/SaaS,社区/论坛,失败,0,,,Reddit HTTP 403（被 Reddit 网络封锁）
+168,Reddit r/IMadeThis,社区/论坛,失败,0,,,Reddit HTTP 403（被 Reddit 网络封锁）
+169,Reddit r/alphaandbetausers,社区/论坛,失败,0,,,Reddit HTTP 403（被 Reddit 网络封锁）
+170,Reddit r/indiehackers,社区/论坛,失败,0,,,Reddit HTTP 403（被 Reddit 网络封锁）
+171,Reddit r/microsaas,社区/论坛,失败,0,,,Reddit HTTP 403（被 Reddit 网络封锁）
+172,Reddit r/EntrepreneurRideAlong,社区/论坛,失败,0,,,Reddit HTTP 403（被 Reddit 网络封锁）
+173,Lobsters,社区/论坛,跳过(媒体),2,2026-10-12,,新闻/文章来源，不做历史回溯
+174,DEV Community,社区/论坛,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+175,Hashnode,社区/论坛,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+176,WIP,社区/论坛,成功,12,2026-10-12,list-paged:12(partial) sitemap:0,
+177,Huzzler,社区/论坛,成功,69,2011-03-30,list-paged:143 sitemap:0,
+178,Ship or Die,社区/论坛,成功,26,2026-10-12,list-render:28(partial) sitemap:0,
+179,V2EX（分享创造）,社区/论坛,成功,50,2026-10-12,list-paged:49 sitemap:0,
+180,即刻,社区/论坛,失败,0,,sitemap:0,Playwright 渲染 HTTP 200，未识别出产品列表
+181,掘金,社区/论坛,成功,22,2013-11-04,list-render:22(partial) sitemap:0,
+182,SegmentFault 思否,社区/论坛,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+183,人人都是产品经理,社区/论坛,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+184,酷安,社区/论坛,失败,0,,sitemap:0,Playwright 渲染 HTTP 200，未识别出产品列表
+185,vc.ru,社区/论坛,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+186,鸟哥笔记,社区/论坛,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+187,Sidebar,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+188,Console.dev,科技媒体/Newsletter,成功,464,2009-09-14,list-paged:48 sitemap:470,
+189,Starter Story,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+190,Ben's Bites,科技媒体/Newsletter,跳过(媒体),2,2026-09-28,,新闻/文章来源，不做历史回溯
+191,TLDR Newsletter,科技媒体/Newsletter,跳过(媒体),2,2026-09-15,,新闻/文章来源，不做历史回溯
+192,TechCrunch,科技媒体/Newsletter,跳过(媒体),1,2026-10-12,,新闻/文章来源，不做历史回溯
+193,Next Big What,科技媒体/Newsletter,跳过(媒体),1,2026-10-11,,新闻/文章来源，不做历史回溯
+194,YourStory,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+195,Inc42,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+196,GeekWire Startup List,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+197,科技爱好者周刊（阮一峰）,科技媒体/Newsletter,跳过(媒体),15,2026-10-12,,新闻/文章来源，不做历史回溯
+198,少数派,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+199,小众软件,科技媒体/Newsletter,成功,167,2005-11-13,list-paged:184 sitemap:0,
+200,产品沉思录,科技媒体/Newsletter,失败,0,,sitemap:0,Playwright 渲染 HTTP 200，未识别出产品列表
+201,异次元软件世界,科技媒体/Newsletter,成功,41,2013-11-04,list-paged:29 sitemap:353,
+202,反斗软件,科技媒体/Newsletter,成功,7,2017-09-06,list-paged:6 sitemap:0,
+203,36氪,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+204,爱范儿,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+205,极客公园,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+206,虎嗅,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+207,TechNode 动点科技,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+208,Pandaily,科技媒体/Newsletter,跳过(媒体),0,,,新闻/文章来源，不做历史回溯
+209,StackShare,开发者/开源项目目录,成功,29,2009-01-15,list-render:29(partial) sitemap:0,
+210,LibHunt,开发者/开源项目目录,成功,20,2026-10-02,list-paged:20 sitemap:0,
+211,GitHub Trending / Topics,开发者/开源项目目录,成功,20331,2008-01-12,github-search:22153,
+212,Awesome Lists (sindresorhus/awesome),开发者/开源项目目录,成功,15,2026-10-12,list-paged:15 sitemap:0,
+213,awesome-selfhosted,开发者/开源项目目录,成功,92,2011-06-26,list-paged:184 sitemap:0,
+214,Dev Resources,开发者/开源项目目录,成功,48,2022-05-11,list-paged:48 sitemap:0,
+215,开源中国 OSCHINA,开发者/开源项目目录,成功,17,2026-10-12,list-render:17 sitemap:0,
+216,Gitee,开发者/开源项目目录,成功,6,2026-10-12,list-paged:16 sitemap:0,
+217,HelloGitHub,开发者/开源项目目录,成功,125,2013-02-26,list-paged:125 sitemap:0,
+218,Spectacle (StartupVideos),设计/作品展示画廊,成功,36,2026-10-12,list-paged:68 sitemap:0,
+219,Land-book,设计/作品展示画廊,成功,273,2012-12-20,list-render:298,
+220,Landingfolio,设计/作品展示画廊,成功,75,2022-10-08,list-paged:77 sitemap:0,
+221,Saaspo,设计/作品展示画廊,失败,0,,sitemap:0,Playwright 渲染 HTTP 403（Cloudflare 人机验证），未识别出产品列表
+222,One Page Love,设计/作品展示画廊,成功,889,2008-04-10,list-paged:1039,
+223,Lapa Ninja,设计/作品展示画廊,成功,40,2014-12-26,list-render:40(partial) sitemap:0,
+224,Awwwards,设计/作品展示画廊,成功,30,2026-09-13,list-paged:30 sitemap:0,
+225,SaaS Landing Page,设计/作品展示画廊,成功,424,2012-09-21,list-paged:555 sitemap:0,
+226,Curated.design,设计/作品展示画廊,成功,41,2026-08-28,list-paged:41 sitemap:0,
+227,Makerpad,设计/作品展示画廊,成功,83,2026-01-12,list-paged:4 sitemap:79,
+228,Softonic,软件下载站,成功,3,2026-10-04,list-paged:3(partial) sitemap:0,
+229,Softpedia,软件下载站,成功,21,2013-05-28,list-render:15 sitemap:0,
+230,Uptodown,软件下载站,成功,400,2026-08-13,list-paged:476 sitemap:0,
+231,MacUpdate,软件下载站,成功,20,2026-10-12,list-paged:10 sitemap:0,
+232,FileHorse,软件下载站,成功,18,2026-10-12,list-paged:9 sitemap:0,
+233,果核剥壳,软件下载站,成功,791,2012-04-23,list-paged:805,
+234,AppSumo,应用商店/交易市场,成功,2436,2010-12-22,list-paged:9 sitemap:0 sitemap-skip:2960,
+235,SideProjectors,应用商店/交易市场,成功,38,2026-10-05,list-paged:14 sitemap:8,
+236,Chrome Web Store,应用商店/交易市场,成功,3,2026-10-12,list-paged:6 sitemap:0,
+237,Raycast Store,应用商店/交易市场,成功,101,2017-12-20,list-paged:100 sitemap:0,
+238,Setapp,应用商店/交易市场,成功,254,2022-03-14,list-paged:249(running),
+239,Indie Deals,应用商店/交易市场,成功,150,2013-11-19,list-paged:3 sitemap:153,
+240,FWOL 分类目录,网址导航/分类目录,失败,0,,sitemap:0,Playwright 渲染 HTTP 0，未识别出产品列表
+241,HHLink,网址导航/分类目录,成功,10,2026-10-12,list-paged:10(partial) sitemap:0,

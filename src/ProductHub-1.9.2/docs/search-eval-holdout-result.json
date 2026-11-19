@@ -1,0 +1,408 @@
+{
+  "total": {
+    "before": {
+      "n": 12,
+      "recall10": 0,
+      "hit10": 0,
+      "mrr": 0,
+      "ndcg10": 0,
+      "zero": 0.75,
+      "ms": 18.75
+    },
+    "after": {
+      "n": 12,
+      "recall10": 0.4513888888888889,
+      "hit10": 0.5833333333333334,
+      "mrr": 0.32222222222222224,
+      "ndcg10": 0.32662599351013993,
+      "zero": 0.16666666666666666,
+      "ms": 9.25
+    }
+  },
+  "byType": {
+    "holdout": {
+      "before": {
+        "n": 12,
+        "recall10": 0,
+        "hit10": 0,
+        "mrr": 0,
+        "ndcg10": 0,
+        "zero": 0.75,
+        "ms": 18.75
+      },
+      "after": {
+        "n": 12,
+        "recall10": 0.4513888888888889,
+        "hit10": 0.5833333333333334,
+        "mrr": 0.32222222222222224,
+        "ndcg10": 0.32662599351013993,
+        "zero": 0.16666666666666666,
+        "ms": 9.25
+      }
+    }
+  },
+  "rows": [
+    {
+      "q": "日历应用",
+      "type": "holdout",
+      "expected": [
+        "Google Calendar",
+        "Calendar Apps",
+        "Hora Calendar",
+        "Chickadee Bandit"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 24
+      },
+      "after": {
+        "recall": 0.75,
+        "hit": 1,
+        "mrr": 0.16666666666666666,
+        "ndcg": 0.369417425616138,
+        "zero": 0,
+        "top3": [
+          "Scheduler.social",
+          "Viral Content Finder And Social Media Scheduler",
+          "MerivoFlow"
+        ],
+        "ms": 14
+      }
+    },
+    {
+      "q": "漫画翻译",
+      "type": "holdout",
+      "expected": [
+        "AI Manga Translator",
+        "manga translator",
+        "Manga Translator 1"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 18
+      },
+      "after": {
+        "recall": 1,
+        "hit": 1,
+        "mrr": 1,
+        "ndcg": 1,
+        "zero": 0,
+        "top3": [
+          "manga translator",
+          "Manga Translator 1",
+          "AI Manga Translator"
+        ],
+        "ms": 8
+      }
+    },
+    {
+      "q": "电子签名",
+      "type": "holdout",
+      "expected": [
+        "SignBolt"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 20
+      },
+      "after": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 3
+      }
+    },
+    {
+      "q": "代理服务器",
+      "type": "holdout",
+      "expected": [
+        "ColdProxy",
+        "ProxyForge",
+        "OpenZiti"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 23
+      },
+      "after": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 0,
+        "top3": [
+          "AMH 需要怎么nginx 配置反向代理？",
+          "Node.js 内置 fetch 无法走 SOCKS5 代理，只能换掉整个 HTTP 栈吗？",
+          "新款理想 i6 六项升级公布，旗舰配置下放，要做「全球爆款」！"
+        ],
+        "ms": 5
+      }
+    },
+    {
+      "q": "chatbot for customer support",
+      "type": "holdout",
+      "expected": [
+        "Aissist.io",
+        "Giga",
+        "Fufa AI"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 0,
+        "top3": [
+          "How Arrowhead Is Using Voice AI To Fix The Gaps In Enterprise Sales And Support",
+          "12 AI Consulting Firms to Consider in 2026: A Developer's Guide",
+          "AI Fundamentals"
+        ],
+        "ms": 17
+      },
+      "after": {
+        "recall": 0.3333333333333333,
+        "hit": 1,
+        "mrr": 1,
+        "ndcg": 0.46927872602275644,
+        "zero": 0,
+        "top3": [
+          "Giga",
+          "BackEngine",
+          "Customer Service Agents"
+        ],
+        "ms": 19
+      }
+    },
+    {
+      "q": "时区换算",
+      "type": "holdout",
+      "expected": [
+        "Every Time Zone"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 17
+      },
+      "after": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 1
+      }
+    },
+    {
+      "q": "落地页制作",
+      "type": "holdout",
+      "expected": [
+        "Leadpages",
+        "Instapage",
+        "Versoly"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 17
+      },
+      "after": {
+        "recall": 0.6666666666666666,
+        "hit": 1,
+        "mrr": 0.2,
+        "ndcg": 0.34870224750355494,
+        "zero": 0,
+        "top3": [
+          "Kimi AI",
+          "AI制作PPT",
+          "EcommAdvize"
+        ],
+        "ms": 11
+      }
+    },
+    {
+      "q": "database gui client",
+      "type": "holdout",
+      "expected": [
+        "DBine",
+        "DuckDB CLI"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 0,
+        "top3": [
+          "How Arrowhead Is Using Voice AI To Fix The Gaps In Enterprise Sales And Support"
+        ],
+        "ms": 17
+      },
+      "after": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 0,
+        "top3": [
+          "SQLite Hub",
+          "DHH's agent-written Campfire rewrites show unread code leaves key trade-offs to"
+        ],
+        "ms": 15
+      }
+    },
+    {
+      "q": "图片压缩",
+      "type": "holdout",
+      "expected": [
+        "Resizelab.app",
+        "#30Omni"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 18
+      },
+      "after": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 0,
+        "top3": [
+          "AI图片修改",
+          "改稿鸦",
+          "Free Profile Picture Maker"
+        ],
+        "ms": 11
+      }
+    },
+    {
+      "q": "创业者播客",
+      "type": "holdout",
+      "expected": [
+        "Playbooks"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 19
+      },
+      "after": {
+        "recall": 1,
+        "hit": 1,
+        "mrr": 1,
+        "ndcg": 1,
+        "zero": 0,
+        "top3": [
+          "Playbooks",
+          "Mention.page",
+          "Cogent"
+        ],
+        "ms": 6
+      }
+    },
+    {
+      "q": "社交媒体排期",
+      "type": "holdout",
+      "expected": [
+        "Scheduler.social",
+        "MerivoFlow",
+        "Viral Content Finder And Social Media Scheduler"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 1,
+        "top3": [],
+        "ms": 18
+      },
+      "after": {
+        "recall": 0.6666666666666666,
+        "hit": 1,
+        "mrr": 0.3333333333333333,
+        "ndcg": 0.37590633587120725,
+        "zero": 0,
+        "top3": [
+          "墨得问题",
+          "讯飞绘文",
+          "Viral Content Finder And Social Media Scheduler"
+        ],
+        "ms": 8
+      }
+    },
+    {
+      "q": "临时邮箱",
+      "type": "holdout",
+      "expected": [
+        "Temp mail by boomlify"
+      ],
+      "before": {
+        "recall": 0,
+        "hit": 0,
+        "mrr": 0,
+        "ndcg": 0,
+        "zero": 0,
+        "top3": [
+          "为 iTerm2 Buddy 自托管中继服务器，加速手机连接 Mac 终端速度"
+        ],
+        "ms": 17
+      },
+      "after": {
+        "recall": 1,
+        "hit": 1,
+        "mrr": 0.16666666666666666,
+        "ndcg": 0.3562071871080222,
+        "zero": 0,
+        "top3": [
+          "Gmail",
+          "Email providers",
+          "Hark"
+        ],
+        "ms": 10
+      }
+    }
+  ]
+}
