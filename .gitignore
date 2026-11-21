@@ -5,3 +5,19 @@ dist-server/
 release/
 test-results/
 data/runtime/
+
+# Additional hygiene
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.*.local
+target/
+dist/
+logs/
+*.log
+.venv/
+__pycache__/
+coverage/
+!.env.example
+!.env.example.*
