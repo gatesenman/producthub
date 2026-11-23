@@ -2,7 +2,14 @@
 
 **1.9.2** · 跨平台桌面应用：自动监控 240+ 产品发布与导航网站，抓取新产品入库，去重合并、版本记录、AI 总结与多维分析。
 
+## 下载
+
+当前 GitHub 上**没有**已发布的安装包（无 Release）。打包命令：`npm run dist:win`（以及 `dist:linux` / `dist:mac`）。本轮因磁盘空间不足未打包上传。
+
 ## 界面截图
+
+以下为仓库已有真实产品界面（目录名 `screenshots/sources-1.9.1/`，来自 1.9.1 来源/设置相关验收），不是 1.9.2 Windows 安装后的新截图，也不是生成图。仓库目前没有单独的「产品列表主页」截图。
+
 
 ![网络与代理设置](screenshots/sources-1.9.1/01-设置-网络与代理.png)
 
@@ -33,7 +40,7 @@
 
 ## 从源码运行
 
-源码在仓库根目录。本仓库不包含安装包。
+源码在仓库根目录。当前没有已发布安装包（见上方「下载」）。
 
 ```bash
 npm install
@@ -60,7 +67,13 @@ npm install
 
 **1.9.2** · A cross-platform desktop app that watches 240+ product-launch and directory sites, ingests new products, deduplicates them, tracks versions, and adds AI summaries and analysis.
 
+## Download
+
+There is **no** published installer on GitHub Releases. Package with `npm run dist:win` (also `dist:linux` / `dist:mac`). This pass did not build or upload artifacts (disk).
+
 ## Screenshots
+
+These are existing real UI captures from `screenshots/sources-1.9.1/` (1.9.1 source/settings acceptance). They are not new 1.9.2 Windows-install shots and not generated artwork. There is no separate “main product catalog” screenshot in the repo yet.
 
 ![Network and proxy settings](screenshots/sources-1.9.1/01-设置-网络与代理.png)
 
@@ -91,7 +104,7 @@ npm install
 
 ## Getting started
 
-Source is at the repository root. This repository does not include installers.
+Source is at the repository root. There is no published installer yet (see Download above).
 
 ```bash
 npm install
